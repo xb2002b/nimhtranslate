@@ -6,7 +6,7 @@
 
 **注意：译者及审校均无医学专业背景，译者为英语专业本科毕业，可以保证翻译无较大错误，但不能保证其中内容100%正确。本篇文章不能取代医疗意见，如有任何疑惑请咨询精神专科医生。**
 
-[https://www.nimh.nih.gov/health/topics/mental-health-medications](原文)最后更新于：2023年12月；翻译于2024年10月
+[原文](https://www.nimh.nih.gov/health/topics/mental-health-medications)最后更新于：2023年12月；翻译于2024年10月
 翻译：xb2002b；审校：MrZ
 
 ---
