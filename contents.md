@@ -4,25 +4,25 @@
 
 ## 常见病症与障碍
 <!--
-- [焦虑障碍](completed\【中翻】焦虑障碍-美国精卫中心.md)
-- [注意力缺陷过动症（ADHD）](completed\【中翻】注意力缺陷过动症-美国精卫中心.md)
-- [孤独症谱系障碍（ASD）](completed\【中翻】自闭谱系障碍-美国精卫中心.md)
-- [双相障碍](completed\【中翻】双相情感障碍-美国精卫中心.md)
+- [焦虑障碍](completed/AXD.md)
+- [注意力缺陷过动症（ADHD）](completed/ADHD.md)
+- [孤独症谱系障碍（ASD）](completed/ASD.md)
+- [双相障碍](completed/BD.md)
 -->
-- [边缘型人格障碍（BPD）](completed\【中翻】边缘型人格障碍-美国精卫中心.md)
+- [边缘型人格障碍（BPD）](completed/BPD.md)
 <!--
-- [抑郁障碍](completed\【中翻】抑郁障碍-美国精卫中心.md)
-- [进食障碍](completed\【中翻】进食障碍-美国精卫中心.md)
-- [强迫障碍](completed\【中翻】强迫障碍-美国精卫中心.md)
-- [创伤后应激障碍（PTSD）](completed\【中翻】创伤后应激障碍-美国精卫中心.md)
-- [精神分裂症](completed\【中翻】精神分裂症-美国精卫中心.md)
+- [抑郁障碍](completed/DD.md)
+- [进食障碍](completed/ED.md)
+- [强迫障碍](completed/OCDD.md)
+- [创伤后应激障碍（PTSD）](completed/PTSD.md)
+- [精神分裂症](completed/SZ.md)
 -->
 
 ## 治疗与预防
 <!--
-- [自杀预防](completed\【中翻】自杀预防-美国精卫中心.md)
+- [自杀预防](completed/SP.md)
 -->
-- [药物](completed\【中翻】典型精神卫生药物-美国精卫中心.md)
-- [心理治疗](completed\【中翻】心理治疗-美国精卫中心.md)
+- [药物](completed/MHM.md)
+- [心理治疗](completed/PT.md)
 
 ## 特殊人群

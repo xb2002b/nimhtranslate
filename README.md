@@ -3,6 +3,10 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 对美国精神卫生研究院部分科普文章的简体中文翻译，更适合中国宝宝体质。
 
+前往[目录](/contents.md)阅读详细内容。
+
+Go for [contents.md](/contents.md) for details.
+
 ----
 
 项目内文章翻译自美国国立精神卫生中心（NIMH）官方网站。若未特别声明，NIMH 网站上的文字内容均处于公有领域，共大众阅读、传播及学习。文章英文原版由 NIMH 撰写，并由美国国立卫生中心及美国卫生与公共服务部公开发布。
