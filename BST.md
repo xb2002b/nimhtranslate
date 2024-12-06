@@ -1,5 +1,5 @@
 # 【中翻】物理治疗-美国精卫中心
-[原文](https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/)最后更新于：2024年3月；翻译于2024年12月
+[原文](https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies)最后更新于：2024年3月；翻译于2024年12月
 
 本篇翻译：[xb2002b](https://github.com/xb2002b)
 
@@ -15,7 +15,7 @@
 获批的疗法包括：
 
 - 电抽搐疗法（Electroconvulsive therapy，ECT）
-- 经颅磁疗法（Repetitive transcranial magnetic stimulation，RTMS）
+- 经颅磁疗法（Repetitive transcranial magnetic stimulation，rTMS）
 - 迷走神经刺激疗法（Vagus nerve stimulation，VNS）
 
 临床实验中的疗法包括：
@@ -40,7 +40,7 @@
 - 获批（approved）意味着 FDA 认为该种医疗器械在经过临床试验后，其治疗效果远大于负面影响。通常，可能具有可观的致病或致伤风险的器械，尤其是那些需要植入体内的器械，都需要该种批准才会上市。
 - 获准（cleared）意味着 FDA 先前已批准或准许（cleared or approved）具有相同疗效的医疗器械。用于体外治疗且具有较低风险的医疗器械通常需要该种批准。
 
-## 什么是电抽搐疗法
+## 电抽搐疗法
 电抽搐疗法（electroconvlsive therapy，ECT）是一种非侵入式物理疗法，通过电流在脑部产生电抽搐，来达到治疗重性精神障碍的目的。这种疗法历史最为久远，使用范围也最广。
 
 ### ECT 的适应症
@@ -53,7 +53,7 @@
 
 当其他疗法不奏效、无法进行，或不适用于患者时，ECT 可能起到一定作用，这种状况在在年老的精神障碍患者中常见。ECT 也比一般的抗抑郁药物更快奏效，后者需要几周才能充分发挥功效。
 
-### ECT 的治疗方法
+### ECT 的治疗过程
 在进行 ECT 治疗之前，患者通常被注射短效全身麻醉剂和静脉肌肉舒张剂，以限制其治疗时身体的移动。
 
 治疗过程中：
@@ -82,4 +82,32 @@ ECT 进行的方式会影响记忆丧失的程度，包括电极的位置和电�
 
 电流脉冲的频率即每次电刺激的时长，单位是毫秒。现代 ECT 可通过更短的脉冲发送电信号。这些短脉冲和传统 ECT 一样有效，但电流更小，因此记忆丧失等副作用也更小。
 
-开始治疗前，有必要与医生商讨这些 ECT 相关的核心概念（即上文提到的电极位置和脉冲频率）。<!--而不是像丛伟东一样他妈的直接让监护人稀里糊涂签字然后把我拉去电。-->
+开始治疗前，有必要与医生商讨这些 ECT 相关的核心概念（即上文提到的电极位置和脉冲频率）。
+
+## 经颅磁疗法
+经颅磁疗法（Repetitive transcranial magnetic stimulation，rTMS）是一种非侵入式物理疗法，利用电磁铁产生的低频脉冲刺激脑部。仪器产生的磁场强度与核磁共振的相当。磁场迅速开启与关闭，以此产生刺激脑部神经元与神经贿赂的弱电流。
+
+### rTMS 的适应症
+rTMS 是一种美国食药监局获准（cleared，下同）的物理疗法，用于治疗顽固性抑郁症和烟草依赖。然而其治疗效果不如 ECT，也不适用于15岁以下青少年。
+
+FDA 在2008年[批准](https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/repetitive-transcranial-magnetic-stimulation-rtms-systems-class-ii-special-controls-guidance)了首台 rTMS 治疗仪，用于在一个抑郁发作期内，使用一种以上抗抑郁药物却不起作用的患者。尽管 ECT 被视为治疗顽固性抑郁症的首选方案，有大量临床证据标明， rTMS 在应对抑郁症状方面也具有可观的疗效。 rTMS 现在被用于治疗中度到重度，且药物不起作用或不适用的抑郁症患者。
+
+2008年以后，rTMS 被获准治疗多种抑郁症，包括抑郁-焦虑共病和伴有自杀念头的抑郁症。2018年，rTMS 被[获准](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-transcranial-magnetic-stimulation-treatment-obsessive-compulsive-disorder)治疗严重的强迫症。
+
+近来，一种快速的 rTMS 被[获准](https://alert.psychnews.org/2022/09/fda-clears-novel-rapid-acting-tms.html)治疗顽固性抑郁症。相较于常规 rTMS，更快速的磁场变化在保证疗效的同时，缩短了一次治疗的时间。因此，患者得以在更短的时间内完成一个疗程并缓解症状。2024年3月，一种 rTMS 联合治疗15岁以上青少年抑郁症的方案也被获准。
+
+行业专家正在研究[更新的 rTMS 疗法](https://pubmed.ncbi.nlm.nih.gov/33834408/)，这种疗法将采用优化后的参数，用于治疗抑郁症、强迫症等精神障碍。
+
+### rTMS 的治疗过程
+ECT 使用电流直接刺激脑部，而 rTMS 使用低频率磁脉冲来刺激脑部。ECT 刺激整个脑部，而 rTMS 刺激脑部的特定位置。rTMS 也不像 ECT 一样需要麻醉，因此可在门诊或诊所进行。
+
+一般，一次 rTMS 治疗会持续三四十分钟，一周进行5次治疗，持续四到六周。
+
+（上文提到的）快速 rTMS 治疗一周内就可见效，但需要进行连续数天，一天数次的治疗。
+
+治疗过程中：
+- 一枚电磁线圈被放置在头上靠近脑部控制情绪和/或认知的区域。这些区域包括左前额皮质（抑郁）和背内侧前额皮质或前扣带皮层（强迫）。深度经颅磁治疗可能使用两枚线圈，以增加对上述部位的刺激，达到治疗脑部深层区域的目的。
+- 电磁线圈对脑部重复释放短暂的电磁脉冲。治疗过程，患者中可能会有头部被敲击或拍击的感觉。
+- 电磁脉冲得以穿过透露，在指定的大脑区域产生微小的电流，刺激神经细胞。
+
+对于放置电磁线圈，产生电磁脉冲的最佳位置，医学界尚未得出一致的结论。对于 rTMS 与心理和/或药物联合治疗的疗效、最安全有效的 rTMS 使用方法、最适合 rTMS 治疗的脑部区域、rTMS 后的维持治疗方案等课题，医学界也尚在研究。
