@@ -24,5 +24,6 @@
 -->
 - [药物](completed/MHM.md)
 - [心理治疗](completed/PT.md)
+  [物理治疗](completed/BST.md)
 
 ## 特殊人群
