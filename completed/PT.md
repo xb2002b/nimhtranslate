@@ -8,7 +8,7 @@
 
 [原文](https://www.nimh.nih.gov/health/topics/psychotherapies)最后更新于2024年2月；翻译于2024年11月
 
-翻译：xb2002b；审校：MrZ, ***pending***
+翻译：[xb2002b](https://github.com/xb2002b)；审校：[MrZ](https://github.com/MrZ626)
 
 ## 什么是心理治疗
 
