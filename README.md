@@ -5,7 +5,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 前往[目录](/contents.md)阅读详细内容。
 
-Go for [contents.md](/contents.md) for details.
+Go to [contents.md](/contents.md) for details.
 
 ----
 
