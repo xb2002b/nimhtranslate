@@ -9,7 +9,11 @@ Go to [contents.md](/contents.md) for details.
 
 ----
 
-项目内文章翻译自美国国立精神卫生中心（NIMH）官方网站。若未特别声明，NIMH 网站上的文字内容均处于公有领域，共大众阅读、传播及学习。文章英文原版由 NIMH 撰写，并由美国国立卫生中心及美国卫生与公共服务部公开发布。
+项目内文章翻译自美国国立精神卫生中心（National Institute of Mental Health，NIMH）官方网站。
+
+文章英文原版由 NIMH 撰写，并由美国国立卫生中心及美国卫生与公共服务部公开发布。
+
+若未特别声明，NIMH 网站上的文字内容均处于公有领域，供大众阅读、传播及学习。
 
 转载本介绍的英文原文，请参考 NIMH 网站上的[相关规定](https://www.nimh.nih.gov/site-info/policies#part_2718)；转载中文译文请另外注明由 **「雾之湖的喵精屋」** 翻译。感谢支持。
 
