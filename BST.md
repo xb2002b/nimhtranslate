@@ -1,7 +1,7 @@
 # 【中翻】物理治疗-美国精卫中心
 [原文](https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies)最后更新于：2024年3月；翻译于2024年12月
 
-本篇翻译：[xb2002b](https://github.com/xb2002b)
+本篇翻译：[xb2002b](https://github.com/xb2002b)；校对：
 
 ## 什么是物理治疗
 物理治疗（phisiotherapy），又称脑刺激治疗（brain stimulation therapy）可对精神障碍的治疗有可观的帮助。这些治疗利用电流激活或抑制大脑活动。电流可通过植入脑内的电极直接释放，或是透过置于头皮的电极释放。电流也可通过向脑部施加磁场间接产生。
@@ -37,8 +37,8 @@
 ### 获批疗法
 美国食药监局批准那些安全的食品、药品、医疗器械等产品上架销售。就用于而言，食药监局通常会授予医疗器械（包括用于精神障碍物理治疗的）两种不同的批准：
 
-- 获批（approved）意味着 FDA 认为该种医疗器械在经过临床试验后，其治疗效果远大于负面影响。通常，可能具有可观的致病或致伤风险的器械，尤其是那些需要植入体内的器械，都需要该种批准才会上市。
-- 获准（cleared）意味着 FDA 先前已批准或准许（cleared or approved）具有相同疗效的医疗器械。用于体外治疗且具有较低风险的医疗器械通常需要该种批准。
+- 批准（approved）意味着 FDA 认为该种医疗器械在经过临床试验后，其治疗效果远大于负面影响。通常，可能具有可观的致病或致伤风险的器械，尤其是那些需要植入体内的器械，都需要该种批准才会上市。
+- 准许（cleared）意味着 FDA 先前已批准或准许（cleared or approved）具有相同疗效的医疗器械。用于体外治疗且具有较低风险的医疗器械通常需要该种批准。
 
 ## 电抽搐疗法
 电抽搐疗法（electroconvlsive therapy，ECT）是一种非侵入式物理疗法，通过电流在脑部产生电抽搐，来达到治疗重性精神障碍的目的。这种疗法历史最为久远，使用范围也最广。
@@ -88,13 +88,13 @@ ECT 进行的方式会影响记忆丧失的程度，包括电极的位置和电�
 经颅磁疗法（Repetitive transcranial magnetic stimulation，rTMS）是一种非侵入式物理疗法，利用电磁铁产生的低频脉冲刺激脑部。仪器产生的磁场强度与核磁共振的相当。磁场迅速开启与关闭，以此产生刺激脑部神经元与神经贿赂的弱电流。
 
 ### rTMS 的适应症
-rTMS 是一种美国食药监局获准（cleared，下同）的物理疗法，用于治疗顽固性抑郁症和烟草依赖。然而其治疗效果不如 ECT，也不适用于15岁以下青少年。
+rTMS 是一种美国食药监局准许（cleared，下同）的物理疗法，用于治疗顽固性抑郁症和烟草依赖。然而其治疗效果不如 ECT，也不适用于15岁以下青少年。
 
 FDA 在2008年[批准](https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/repetitive-transcranial-magnetic-stimulation-rtms-systems-class-ii-special-controls-guidance)了首台 rTMS 治疗仪，用于在一个抑郁发作期内，使用一种以上抗抑郁药物却不起作用的患者。尽管 ECT 被视为治疗顽固性抑郁症的首选方案，有大量临床证据标明， rTMS 在应对抑郁症状方面也具有可观的疗效。 rTMS 现在被用于治疗中度到重度，且药物不起作用或不适用的抑郁症患者。
 
-2008年以后，rTMS 被获准治疗多种抑郁症，包括抑郁-焦虑共病和伴有自杀念头的抑郁症。2018年，rTMS 被[获准](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-transcranial-magnetic-stimulation-treatment-obsessive-compulsive-disorder)治疗严重的强迫症。
+2008年以后，FDA 准许 rTMS 治疗多种抑郁症，包括抑郁-焦虑共病和伴有自杀念头的抑郁症。2018年，rTMS [获准](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-transcranial-magnetic-stimulation-treatment-obsessive-compulsive-disorder)治疗严重的强迫症。
 
-近来，一种快速的 rTMS 被[获准](https://alert.psychnews.org/2022/09/fda-clears-novel-rapid-acting-tms.html)治疗顽固性抑郁症。相较于常规 rTMS，更快速的磁场变化在保证疗效的同时，缩短了一次治疗的时间。因此，患者得以在更短的时间内完成一个疗程并缓解症状。2024年3月，一种 rTMS 联合治疗15岁以上青少年抑郁症的方案也被获准。
+近来，一种快速的 rTMS [获准](https://alert.psychnews.org/2022/09/fda-clears-novel-rapid-acting-tms.html)治疗顽固性抑郁症。相较于常规 rTMS，更快速的磁场变化在保证疗效的同时，缩短了一次治疗的时间。因此，患者得以在更短的时间内完成一个疗程并缓解症状。2024年3月，一种 rTMS 联合治疗15岁以上青少年抑郁症的方案也得到了联邦食药监局的准许（cleared）。
 
 行业专家正在研究[更新的 rTMS 疗法](https://pubmed.ncbi.nlm.nih.gov/33834408/)，这种疗法将采用优化后的参数，用于治疗抑郁症、强迫症等精神障碍。
 
@@ -131,15 +131,15 @@ rTMS 大体上[安全可靠](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC592558
 ### VNS 的适应症
 VNS 起初被用于治疗癫痫。脑部扫描研究发现，VNS 也可用于缓解抑郁症状。
 
-2005年，VNS [获批（approved）](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P970003S050)治疗符合下述情况的抑郁症：
+2005年，FDA [批准（approved）](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P970003S050) VNS 治疗符合下述情况的抑郁症：
 - 患者年满18岁；
 - 抑郁症状持续两年以上；
 - 抑郁症状严重或反复出现；
 - 在至少采用其他四种疗法后，抑郁症状仍未得到改善。
 
-尽管 VNS 获批治疗抑郁症，该疗法并不是治疗抑郁症的首选，也未得到广泛应用。对这种疗法治疗抑郁症功效的研究结果表明，其疗效有好有坏：一项针对门诊 VNS 治疗顽固性抑郁症的[综述](https://pubmed.ncbi.nlm.nih.gov/35158102/)标明，这种疗法能长期缓解抑郁症状，改善生活质量；但[其他研究](https://pubmed.ncbi.nlm.nih.gov/32677482/)并未报告显著的病情改善。
+尽管有联邦食药监局的批准，VNS 并不是治疗抑郁症的首选，也未得到广泛应用。对这种疗法治疗抑郁症功效的研究结果表明，其疗效有好有坏：一项针对门诊 VNS 治疗顽固性抑郁症的[综述](https://pubmed.ncbi.nlm.nih.gov/35158102/)标明，这种疗法能长期缓解抑郁症状，改善生活质量；但[其他研究](https://pubmed.ncbi.nlm.nih.gov/32677482/)并未报告显著的病情改善。
 
-尽管非侵入式 VNS 表现出[治疗抑郁症的功效](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7563188/)，tVNS 并未被美国食药监局批准为抑郁症的疗法。然而，一种便携式，[获准（cleaered）](https://www.prnewswire.com/news-releases/evren-technologies-receives-fda-breakthrough-device-designation-for-the-phoenix---revolutionary-transcutaneous-auricular-vagus-nerve-therapy-to-treat-ptsd-301341288.html)治疗创伤后应激障碍（PTSD），并纳入突破性治疗仪器认定程序」（Breakthrough Device Designaton，`类似于国内的医疗器械报销——译者注`）。这一程序旨在推广相较于其他疗法，初具临床功效的医疗器械。学界仍在研究 tVNS 治疗抑郁症、创伤后应激障碍等其他精神障碍的功效与安全问题。
+尽管非侵入式 VNS 表现出[治疗抑郁症的功效](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7563188/)，tVNS 并未被美国食药监局批准为抑郁症的疗法。然而，一种便携式，[获准（cleaered）](https://www.prnewswire.com/news-releases/evren-technologies-receives-fda-breakthrough-device-designation-for-the-phoenix---revolutionary-transcutaneous-auricular-vagus-nerve-therapy-to-treat-ptsd-301341288.html)治疗创伤后应激障碍（PTSD），并纳入「突破性治疗仪器认定程序」（Breakthrough Device Designation，`类似于国内的医疗器械报销——译者注`）。这一程序旨在推广相较于其他疗法，初具临床功效的医疗器械。学界仍在研究 tVNS 治疗抑郁症、创伤后应激障碍等其他精神障碍的功效与安全问题。
 
 ### VNS 的治疗过程
 VNS 治疗通常涉及外科手术：
@@ -166,7 +166,7 @@ VNS 疗法可能需要数个月才能见效，且对部分患者完全不奏效�
 - 吞咽困难；
 - 恶心呕吐。
 
-若获准（cleared）为一种物理疗法，tVNS 设备可能克服上述临床副作用。然而，研究报告了 tVNS 的其他一些副作用，包括：
+若获准（cleared）为一种物理疗法，tVNS 可能克服上述临床副作用。然而，研究报告了 tVNS 的其他一些副作用，包括：
 - 设备植入部位的刺痛、疼痛或瘙痒；
 - 恶心呕吐；
 - 头晕。
@@ -203,3 +203,83 @@ MST 发明于2001年，在精神卫生界正处于临床试验、调查的早期
 - 肌肉疼痛或乏力；
 
 一项[系统评价与荟萃分析](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8380249/)指出，相较于 ECT，MST 导致记忆丧失等其他认知方面副作用的几率更小，治疗后的意识模糊和抽搐也比前者要更少出现，持续时间也更短。
+
+## 脑深部刺激疗法
+脑深部刺激疗法（Deep brain stimulation，DBS）是一项需需要外科手术的治疗方法，使用电流直接刺激脑部的特定区域。
+
+若其他治疗方法对患者不奏效，DBS 可用于治疗严重的强迫症或抑郁症。对于其他精神障碍，这种治疗方式仍处于临床试验阶段。
+
+### DBS 的治疗方式
+DBS 通过向脑部特定区域发送电脉冲，达到治疗效果。这种治疗需要通过外科手术，将电极放入脑内。尽管科研人员尚不清楚 DBS 的治疗方式，他们认为这种疗法使用电脉冲来帮助“重启”脑部失灵的神经网络。
+
+治疗之前需要用核磁共振扫描患者的脑部，确定治疗时电极放置的位置。若一切准备妥当，则开始治疗：
+
+- 对患者的头部施加局部麻醉，以减轻手术过程中的疼痛；
+- 在患者头部凿开一到两个小孔，将两根导线缠绕在一起，穿过小孔进入脑部，并将电极放在大脑的指定区域；
+- 电极放置成功后，患者苏醒，适应并反馈电极放置的位置。但由于麻药尚未减退，大脑暂时失去痛觉感知，患者不会感到疼痛；
+- 确认电极放置的位置后，患者被再次全身麻醉；
+- 连接电极与导线，后者置于体内，由头部至肩颈部，直至胸部。患者胸部靠上的部位被植入一枚用电池的脉冲发生器，大小与心脏起搏器相当。早期的 DBS 设备使用两枚发生器，分别与两个电极连接，但较新的发生器只使用一枚发生器，同时与两个电极连接。
+- 电脉冲透过发生器，经过导线到达脑部的电极，产生持续的刺激。刺激的频率和强度因人而异。
+
+手术后，医生会指导患者自行控制发生器（通过手持遥控或手机应用），让他们得以居家治疗，给医疗团队提供反馈。
+
+### DBS 的适应症
+DBS 起初用于治疗震颤和帕金森病在内的[运动障碍](movement disorders)。
+
+此后，美国食药监局根据人道主义设备豁免原则（Humanitarian Device Exemption，一项医疗政策，针对只在相对少数患者中出现的罕见疾病或症状，旨在收集用于证明疗效的证据）。然而，医学界仍需针对这种疗法进行研究，以提升其效果。尽管一篇[系统综述](https://pubmed.ncbi.nlm.nih.gov/36127157/)指出，DBS 能够改善强迫症状，[其他综述](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7815503/)呼吁学界在得出其疗效相关的结论前，收集更多肯定的证据。
+
+相似的，DBS 在2022年被纳入联邦食药监局的[「突破性治疗仪器认定程序」](https://www.prnewswire.com/news-releases/abbott-receives-fdas-breakthrough-device-designation-to-explore-use-of-deep-brain-stimulation-to-manage-severe-depression-301584792.html)（`Breakthrough Device designation，相关信息见「VNS 的适应症」章节——译者注`），用于探究其治疗顽固性抑郁症的功效。一项[系统评价与荟萃分析](https://pubmed.ncbi.nlm.nih.gov/29697875/)标明，DBS 在治疗抑郁症方面有可观的疗效。然而，在更高质量的研究证明其功效之前，DBS 治疗抑郁症只是一项试验性的疗法。
+
+### DBS 的副作用
+DBS 会有脑部手术相关的副作用，包括：
+- 脑出血或中风；
+- 植入设备带来的不适感、疼痛，或手术伤口及其附近的感染；
+- 头痛；
+- 思维混乱，失去方向感；
+- 认知受损；
+- 头昏或头晕，恶心呕吐；
+- 睡眠困难，不安且易怒。
+
+由于这项治疗仍处于试验阶段，尚有出现其他副作用的可能。这种疗法的长期副作用尚不明确。
+
+## 其他物理疗法
+其他物理治疗尚处研究阶段。大多数都是与其他疗法联合治疗，以期最佳治疗效果。
+
+一项名为[三叉神经刺激](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9714960/)（trigeminal nerve stimulation，TNS）的精神障碍物理疗法具有较好的前景，联邦食药监局[批准](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-first-medical-device-treatment-adhd)（approved）其用于治疗儿童的注意力缺陷过动症（ADHD），但这种疗法尚未获批为其他精神障碍或群体的治疗方案。
+
+其他非侵入式物理治疗包括但不限于：
+- Temporal interference (TI)
+- Transcranial alternating current stimulation (tACS)
+- Transcranial direct current stimulation (tDCS)
+- Transcranial random noise stimulation (tRNS)
+- Transcranial ultrasound stimulation (TUS)
+
+NIMH 的一些科研小组负责研究这些物理疗法。[神经调节与刺激计划](https://www.nimh.nih.gov/about/organization/dtr/adult-pathophysiology-and-biological-interventions-development-branch/neuromodulation-and-neurostimulation-program)（Neuromodulation and Neurostimulation Program）与[多模态神经治疗计划](https://www.nimh.nih.gov/about/organization/dtr/adult-pathophysiology-and-biological-interventions-development-branch/multimodal-neurotherapeutics-program)推动研发更新的疗法，并改善已有的疗法，让物理治疗更好地服务于精神卫生行业。一些精神障碍由脑部病变引起，[非侵入式神经调节研究室](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/etpb/nnu)（Noninvasive Neuromudulation Unit）负责监测物理治疗的机制与效用，旨在建立更安全、有效、个性化的治疗手段。
+
+## 临床试验
+NIMH 正支持一系列科学研究，包括开展一批临床试验，探寻最新能够预防、检测、治疗精神障碍的方式。临床试验的目的在于，检测新研发的测试或疗法是否安全有效。尽管临床试验有一定的报酬，参与者必须充分了解，其首要目的在于让科研人员收集相关数据，让更多人在未来能因此受益。
+
+NIMH 在内的全美研究员负责针对精神障碍患者与健康人士展开调查、研究。正是因为众多临床试验的结果，我们得以享受更新、更好的治疗方案。你可以向医生询问临床试验的相关内容，包括其利弊，以及适合你的临床试验。
+
+想要了解更多，或是查找特定的一项试验，请访问：
+- [Research Conducted at NIMH: Join a Study](https://www.nimh.nih.gov/research/research-conducted-at-nimh/join-a-study)
+- [NIMH Clinical Trials – Information for Participants](https://www.nimh.nih.gov//health/trials)
+- [ClinicalTrials.gov: Brain Stimulation Therapies](https://clinicaltrials.gov/ct2/results?cond=&term=Brain+Stimulation+Therapies+OR+Electroconvulsive+Therapy+OR+Repetitive+Transcranial+Magnetic+Stimulation+OR+Vagus+Nerve+Stimulation+OR+Magnetic+Seizure+Therapy+OR+Deep+Brain+Stimulation&cntry=&state=&city)
+
+想要了解更多本文提到的精神障碍，请回到[目录](./contents.md)，或访问 [NIMH 健康话题导航页](https://www.nimh.nih.gov/health/topics)。
+
+## 更多信息
+若未注明，以下资源均为英文。
+### 联邦资源
+- [Brain Stimulation Therapies](/news/media/2024/facebook-live-brain-stimulation-therapies) (NIMH Facebook Live)
+- [The Evolution of Brain Stimulation Therapy](/news/media/2023/the-evolution-of-brain-stimulation-therapy) (NIMH Mental Health Matters Podcast)
+- [Electroconvulsive Therapy](https://www.nlm.nih.gov/medlineplus/ency/article/007474.htm)  (MedlinePlus Medical Encyclopedia)
+- [Deep Brain Stimulation](https://www.nlm.nih.gov/medlineplus/ency/article/007453.htm)  (MedlinePlus Medical Encyclopedia)
+- [Brain Stimulation Therapies for Epilepsy](https://www.ninds.nih.gov/about-ninds/impact/ninds-contributions-approved-therapies/brain-stimulation-therapies-epilepsy)  (National Institute of Neurological Disorders and Stroke)
+- [Deep Brain Stimulation (DBS) for the Treatment of Parkinson’s Disease and Other Movement Disorders](https://www.ninds.nih.gov/about-ninds/impact/ninds-contributions-approved-therapies/deep-brain-stimulation-dbs-treatment-parkinsons-disease-and-other-movement-disorders)  (National Institute of Neurological Disorders and Stroke)
+
+### 研究
+- [Journal articles](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28%28Electroconvulsive+Therapy%5BMeSH+Terms%5D%29+OR+%28Transcranial+Magnetic+Stimulation%5BMeSH+Terms%5D%29+OR+%28Vagus+Nerve+Stimulation%5BMeSH+Terms%5D%29%29+OR+%28Magnetic+Seizure+Therapy+%5BMeSH+Terms%5D%29+OR+%28Deep+Brain+Stimulation%5BMeSH+Terms%5D%29%29+AND+%28%22last+5+years%22%5BPDat%5D%29) : References and abstracts from MEDLINE/PubMed (National Library of Medicine)
+- [Magnetic Seizure Therapy as Effective as Electroconvulsive Therapy for Treating Depression](/news/science-news/2023/magnetic-seizure-therapy-as-effective-as-electroconvulsive-therapy-for-treating-depression) (NIMH Research Highlight)
+- [New Approach Allows Magnetic Brain Stimulation to Target Deep Brain Structures](/news/science-news/2022/new-approach-allows-magnetic-brain-stimulation-to-target-deep-brain-structures) (NIMH Research Highlight)
+- [Personalizing Deep Brain Stimulation for Treatment-Resistant Depression](/news/science-news/2022/personalizing-deep-brain-stimulation-for-treatment-resistant-depression) (NIMH Research Highlight)
