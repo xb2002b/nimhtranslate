@@ -1,5 +1,6 @@
 # nimhtranslate
-A Simplified Chinese translation of Public Passages on National Institute of Mental Health [NIMH](https://www.nimh.nih.gov). 
+
+A Simplified Chinese translation of Public Passages on National Institute of Mental Health [NIMH](https://www.nimh.nih.gov).
 
 对美国精神卫生研究院部分科普文章的简体中文翻译，更适合中国宝宝体质。
 
@@ -7,7 +8,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 Go to [contents.md](/contents.md) for details.
 
-----
+---
 
 项目内文章翻译自美国国立精神卫生中心（National Institute of Mental Health，NIMH）官方网站。
 
@@ -23,7 +24,7 @@ The passages are originally written in English by NIMH, and publicized by Nation
 
 Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/policies#part_2718) on NIMH before re-distribution; additionally, if you want to re-distribute the Chinese version, you are asked to give us credit by citing **「雾之湖的喵精屋」** as the translators. Thank you for your cooperation.
 
-----
+---
 
 **注意：译者及审校均无医学专业背景，译者 xb2002b 为英语专业本科毕业，可以保证翻译无较大错误，但不能保证其中内容100%正确。部分冗杂内容借助了谷歌机器翻译并加以初步审核，部分工作（如链接的复制粘贴、翻译之外的代码工作）由 ChatGPT 代劳。**
 
@@ -33,7 +34,7 @@ Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/poli
 
 **These Passages could not substitute medical advice whatsoever, consult professional mental health doctor if you have any concern.**
 
-----
+---
 
 有任何意见欢迎提 Issue。
 
