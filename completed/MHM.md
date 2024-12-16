@@ -8,7 +8,7 @@
 
 [原文](https://www.nimh.nih.gov/health/topics/mental-health-medications)最后更新于：2023年12月；翻译于2024年10月
 
-翻译：xb2002b；审校：MrZ
+翻译：[xb2002b](https://github.com/xb2002b)；审校：[MrZ](https://github.com/MrZ626)
 
 ---
 
