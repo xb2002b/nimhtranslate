@@ -25,7 +25,7 @@ NIMH 制作了一部视频，概括介绍了物理治疗及其治疗精神障碍
 - 磁抽搐疗法（Magnetic seizure therapy，中文暂定）
 - 脑深部刺激疗法（Deep brain stimulation）
 
-在本文未讨论的范围中也有其他物理疗法可能被用于治疗精神障碍。FDA 时常更新有关这些疗法的信息，可以前往其[网站](https://www.fda.gov/)了解有关这些治疗仪器和相关的警示与指南，与最新研发的仪器。
+限于篇幅，本文无法囊括所有用于治疗精神障碍的物理疗法。FDA 时常更新有关这些疗法的信息，可以前往其[网站](https://www.fda.gov/)了解有关这些治疗仪器和相关的警示与指南，与最新研发的仪器。
 
 ## 物理治疗的原理
 
@@ -45,7 +45,7 @@ NIMH 制作了一部视频，概括介绍了物理治疗及其治疗精神障碍
 - 批准（approved）意味着 FDA 认为该种医疗器械在经过临床试验后，其治疗效果远大于负面影响。通常需要该种批准才会上市的是可能具有可观的致病或致伤风险的器械，尤其是那些需要植入体内的器械。
 - 准许（cleared）意味着 FDA 先前已批准或准许（cleared or approved）具有相同疗效的医疗器械。通常需要该种批准的是用于体外治疗且具有较低风险的医疗器械。
 
-## 电抽搐疗法 （ECT）
+## 电抽搐疗法（ECT）
 
 电抽搐疗法（electroconvlsive therapy，ECT）是一种非侵入式物理疗法，通过电流在脑部产生电抽搐，来达到治疗重性精神障碍的目的。这种疗法历史最为久远，使用范围也最广。
 
@@ -68,13 +68,13 @@ NIMH 制作了一部视频，概括介绍了物理治疗及其治疗精神障碍
 
 - 一对电极被放置在患者头部的特定位置；
 - 电流透过这对电极进入脑部，使患者产生少于一分钟的抽搐。先前注射的麻醉剂确保了患者不会感受到电流带来的疼痛。患者的手臂或大腿通常会被戴上血压袖带，以免舒张剂由血液流向身体别处，导致抽搐不充分。
-- 患者会在上述过程结束5-10分钟后清醒，开始可能会因麻醉剂药效未完全消退感到头晕，不过一小时后便可完全恢复知觉，继续其他活动<!--（不还是被关。——译者注）-->。
+- 患者会在上述过程结束5-10分钟后清醒，开始可能会因麻醉剂药效未完全消退感到头晕，不过一小时后便可完全恢复知觉，继续其他活动。
 
-在 ECT 疗程中，通常要进行每周3次的治疗直到症状好转。这一过程通常需要6-12次治疗（2-4周）。通常患者也需要同时服用抗抑郁药物或情绪稳定剂。
+在 ECT 疗程中，通常要进行每周三次的治疗直到症状好转。这一过程通常需要6-12次治疗（2-4周）。通常患者也需要同时服用抗抑郁药物或情绪稳定剂。
 
 尽管 ECT 对治疗重度抑郁很有效，后续的治疗——包括抗抑郁药和/或`维持性 ECT（见下文注释）`——有助于维持治疗效果，减小复发几率。维持性 ECT 的频率通常随患者的实际情况变化，从一周一次到几个月一次都有。
 
-译者注：`维持性 ECT`（maintenance ECT）指上述一周三次的治疗结束后，随患者病情好转和时间推移，频次逐渐减小的，主要为非住院患者提供的 ECT 治疗，详见这篇[论文](https://pubmed.ncbi.nlm.nih.gov/29419559/)。论文研究基于美国，尚不明确中国有无这类治疗。
+> 译者注：`维持性 ECT`（maintenance ECT）指上述一周三次的治疗结束后，随患者病情好转和时间推移，频次逐渐减小的，主要为非住院患者提供的 ECT 治疗，详见这篇[论文](https://pubmed.ncbi.nlm.nih.gov/29419559/)。论文研究基于美国，尚不明确中国有无这类治疗。
 
 ### ECT 的副作用
 
@@ -88,7 +88,7 @@ ECT 最常见的副作用包括：
 
 一些患者可能会有失忆的情况，尤其是接受治疗前后一段时间的记忆。这个问题有时会更严重，但通常会在 ECT 治疗结束的几天到几周后有所改善。
 
-ECT 进行的方式会影响失忆的程度，包括电极的位置和电流脉冲的频率。
+ECT 的不同治疗方式会影响失忆的程度，包括电极的位置和电流脉冲的频率。
 
 头部电极的位置决定了脑部受电场影响的区域。[研究](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6472304/)发现了早期的 ECT（电极置于头部两侧）更易对记忆造成损伤。相比之下，若将电极仅置于头部一侧，记忆力损伤的概率相对更低。为减小对左脑学习及记忆相关功能区域的影响，一个电极通常放在头部右侧，而另一个电极放在头顶。
 
@@ -98,7 +98,7 @@ ECT 进行的方式会影响失忆的程度，包括电极的位置和电流脉�
 
 ## 经颅磁疗法 （rTMS）
 
-经颅磁疗法（Repetitive transcranial magnetic stimulation，rTMS）是一种非侵入式物理疗法，利用电磁线圈（电磁铁——译者注）产生的低频脉冲刺激脑部。仪器产生的磁场强度与核磁共振的相当。通过迅速开启与关闭磁场，可以产生刺激脑部神经元与神经贿赂的弱电流。
+经颅磁疗法（Repetitive transcranial magnetic stimulation，rTMS）是一种非侵入式物理疗法，利用电磁线圈（即电磁铁——译者注）产生的低频脉冲刺激脑部。仪器产生的磁场强度与核磁共振的相当。通过迅速开启与关闭磁场，可以产生刺激脑部神经元与神经回路的弱电流。
 
 ### rTMS 的适应症
 
@@ -106,9 +106,9 @@ rTMS 是一种美国食药监局准许（cleared，下同）的物理疗法，�
 
 FDA 在2008年[批准](https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/repetitive-transcranial-magnetic-stimulation-rtms-systems-class-ii-special-controls-guidance)了首台 rTMS 治疗仪，用于在一个抑郁发作期内，使用一种以上抗抑郁药物却不起作用的患者。尽管 ECT 被视为治疗顽固性抑郁症的首选方案，有大量临床证据标明， rTMS 在应对抑郁症状方面也具有可观的疗效。 rTMS 现在被用于治疗中度到重度，且药物不起作用或不适用的抑郁症患者。
 
-2008年以后，FDA 准许 rTMS 治疗多种抑郁症，包括抑郁-焦虑共病和伴有自杀念头的抑郁症。2018年，rTMS [准许](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-transcranial-magnetic-stimulation-treatment-obsessive-compulsive-disorder)治疗严重的强迫症。
+2008年以后，FDA 准许 rTMS 治疗多种抑郁症，包括抑郁-焦虑共病和伴有自杀念头的抑郁症。2018年，rTMS 被[准许](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-transcranial-magnetic-stimulation-treatment-obsessive-compulsive-disorder)治疗严重的强迫症。
 
-近来，一种快速的 rTMS [准许](https://alert.psychnews.org/2022/09/fda-clears-novel-rapid-acting-tms.html)治疗顽固性抑郁症。相较于常规 rTMS，更快速的磁场变化在保证疗效的同时，缩短了一次治疗的时间。因此，患者得以在更短的时间内完成一个疗程并缓解症状。2024年3月，一种 rTMS 联合治疗15岁以上青少年抑郁症的方案也得到了联邦食药监局的准许。
+近来，一种快速的 rTMS 被[准许](https://alert.psychnews.org/2022/09/fda-clears-novel-rapid-acting-tms.html)治疗顽固性抑郁症。相较于常规 rTMS，更快速的磁场变化在保证疗效的同时，缩短了一次治疗的时间。因此，患者得以在更短的时间内完成一个疗程并缓解症状。2024年3月，一种 rTMS 联合治疗15岁以上青少年抑郁症的方案也得到了联邦食药监局的准许。
 
 行业专家正在研究[更新的 rTMS 疗法](https://pubmed.ncbi.nlm.nih.gov/33834408/)，这种疗法将采用优化后的参数，用于治疗抑郁症、强迫症等精神障碍。
 
@@ -136,7 +136,7 @@ rTMS [大体上安全可靠](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC592558
 - 治疗过程中，头部、下颚或面部肌肉会痉挛或有刺痛感；
 - 轻微的头痛、头昏（lightheadness）或头晕（dizziness）；
 
-比起 ECT，rTMS 采用的电磁脉冲产生的电流对大脑特定区域的刺激更小，因此避免了前者在治疗中产生的抽搐。不过患者仍有可能发生抽搐，一项[全面的研究](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7732158/)标明，这种抽搐发生的几率很低。只要遵循[治疗标准](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9094636/)，大部分情况不会产生严重或长期的副作用。
+比起 ECT，rTMS 采用的电磁脉冲产生的电流对大脑特定区域的刺激更小，因此避免了前者在治疗中产生的抽搐。虽然患者仍有一定可能发生抽搐，但一项[全面的研究](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7732158/)标明，这种抽搐发生的几率很低。只要遵循[治疗标准](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9094636/)，在大部分情况下， 患者不会产生严重或长期的副作用。
 
 仍需要更多的研究来确定 rTMS 是否会造成长期的副作用。
 
@@ -159,7 +159,7 @@ VNS 起初被用于治疗癫痫。脑部扫描研究发现，VNS 也可用于缓
 
 尽管有联邦食药监局的批准，VNS 并不是治疗抑郁症的首选，也未得到广泛应用。对这种疗法治疗抑郁症功效的研究结果表明，其疗效有好有坏：一项针对门诊 VNS 治疗顽固性抑郁症的[综述](https://pubmed.ncbi.nlm.nih.gov/35158102/)标明，这种疗法能长期缓解抑郁症状，改善生活质量；但[其他研究](https://pubmed.ncbi.nlm.nih.gov/32677482/)并未报告显著的病情改善。
 
-尽管非侵入式 VNS 表现出[治疗抑郁症的功效](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7563188/)，tVNS 并未被美国食药监局批准为抑郁症的疗法。不过一种便携式方案被[准许](https://www.prnewswire.com/news-releases/evren-technologies-receives-fda-breakthrough-device-designation-for-the-phoenix---revolutionary-transcutaneous-auricular-vagus-nerve-therapy-to-treat-ptsd-301341288.html)用于治疗创伤后应激障碍（PTSD），并纳入「突破性治疗仪器认定程序」（Breakthrough Device Designation，`类似于国内的医疗器械报销——译者注`）。这一程序旨在推广相较于其他疗法，初具临床功效的医疗器械。学界仍在研究 tVNS 治疗抑郁症、创伤后应激障碍等其他精神障碍的功效与安全问题。
+尽管非侵入式 VNS 表现出[治疗抑郁症的功效](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7563188/)，tVNS 并未被美国食药监局批准为抑郁症的疗法。不过，一种便携式方案被[准许](https://www.prnewswire.com/news-releases/evren-technologies-receives-fda-breakthrough-device-designation-for-the-phoenix---revolutionary-transcutaneous-auricular-vagus-nerve-therapy-to-treat-ptsd-301341288.html)治疗创伤后应激障碍（PTSD），并纳入「突破性治疗仪器认定程序」（Breakthrough Device Designation，`类似于国内的医疗器械报销——译者注`）。这一程序旨在推广相较于其他疗法，初具临床功效的医疗器械。学界仍在研究 tVNS 治疗抑郁症、创伤后应激障碍等其他精神障碍的功效与安全问题。
 
 ### VNS 的治疗过程
 
@@ -259,11 +259,11 @@ DBS 通过向脑部特定区域发送电脉冲，达到治疗效果。这种治�
 
 ### DBS 的适应症
 
-DBS 起初用于治疗震颤和帕金森病在内的运动障碍(movement disorders)。
+DBS 起初用于治疗震颤和帕金森病在内的[运动障碍](https://www.ninds.nih.gov/health-information/disorders/deep-brain-stimulation-movement-disorders)。
 
-此后，美国食药监局根据人道主义设备豁免原则（Humanitarian Device Exemption，一项医疗政策，针对只在相对少数患者中出现的罕见疾病或症状，旨在收集用于证明疗效的证据）。然而，医学界仍需针对这种疗法进行研究，以提升其效果。尽管一篇[系统综述](https://pubmed.ncbi.nlm.nih.gov/36127157/)指出，DBS 能够改善强迫症的症状，[其他综述](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7815503/)呼吁学界在得出其疗效相关的结论前，收集更多肯定的证据。
+此后，美国食药监局根据人道主义设备豁免原则（Humanitarian Device Exemption，一项医疗政策，针对只在相对少数患者中出现的罕见疾病或症状，旨在收集用于证明疗效的证据）。然而，医学界仍需针对这种疗法进行研究，以提升其效果。尽管一篇[系统综述](https://pubmed.ncbi.nlm.nih.gov/36127157/)指出，DBS 能够缓解强迫症的症状，[其他综述](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7815503/)呼吁学界在得出其疗效相关的结论前，收集更多肯定的证据。
 
-相似的，DBS 在2022年被纳入联邦食药监局的[「突破性治疗仪器认定程序」](https://www.prnewswire.com/news-releases/abbott-receives-fdas-breakthrough-device-designation-to-explore-use-of-deep-brain-stimulation-to-manage-severe-depression-301584792.html)（Breakthrough Device designation，相关信息见「VNS 的适应症」章节——译者注），用于探究其治疗顽固性抑郁症的功效。一项[系统评价与荟萃分析](https://pubmed.ncbi.nlm.nih.gov/29697875/)标明，DBS 在治疗抑郁症方面有可观的疗效。然而，在更高质量的研究证明其功效之前，DBS 治疗抑郁症只是一项试验性的疗法。
+相似的，DBS 在2022年被纳入联邦食药监局的[「突破性治疗仪器认定程序」](https://www.prnewswire.com/news-releases/abbott-receives-fdas-breakthrough-device-designation-to-explore-use-of-deep-brain-stimulation-to-manage-severe-depression-301584792.html)（Breakthrough Device designation，相关信息见[「VNS 的适应症」](#vns-的适应症)章节——译者注），用于探究其治疗顽固性抑郁症的功效。一项[系统评价与荟萃分析](https://pubmed.ncbi.nlm.nih.gov/29697875/)标明，DBS 在治疗抑郁症方面有可观的疗效。然而，在更高质量的研究证明其功效之前，DBS 治疗抑郁症只是一项试验性的疗法。
 
 ### DBS 的副作用
 
@@ -299,7 +299,7 @@ NIMH 的一些科研小组负责研究这些物理疗法。[神经调节与刺�
 
 NIMH 正支持一系列科学研究，包括开展一批临床试验，探寻最新能够预防、检测、治疗精神障碍的方式。临床试验的目的在于，检测新研发的测试或疗法是否安全有效。尽管临床试验有一定的报酬，参与者必须充分了解，其首要目的在于让科研人员收集相关数据，让更多人在未来能因此受益。
 
-NIMH 在内的全美研究员负责针对精神障碍患者与健康人士展开调查和研究。正是由众多临床试验的结果，我们才得以享受更新更好的治疗方案。你可以向医生询问临床试验的相关内容，包括其利弊，以及适合你的临床试验。
+NIMH 在内的全美研究员负责针对精神障碍患者与健康人士展开调查和研究。充分且有效的临床试验让我们得以享受更新、更好的治疗方案。你可以向医生询问临床试验的相关内容，包括其利弊，以及适合你的临床试验。
 
 想要了解更多，或是查找特定的一项试验，请访问：
 
