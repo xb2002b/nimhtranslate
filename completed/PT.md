@@ -19,6 +19,7 @@
 总体来说，心理治疗旨在缓解症状、恢复或提升日常机能、以及提升生活质量。
 
 心理治疗适合很多种情况，包括：
+
 - 源自工作或家庭的严重或长期压力，包括亲人过世、分手等其他家庭问题；
 - 受困于难以解释的生理症状，包括睡眠、食欲、乏力、对原先喜好的兴趣减退、持续的易怒、过度担忧或难以减退的沮丧或失望；
 - 医生怀疑或诊断你有影响生活的精神障碍；
@@ -37,6 +38,7 @@
 有多种心理治疗的方式，它们都被研究证明对精神障碍的治疗有效。通常，治疗手段会依照具体的病情量体裁衣。例如，强迫症和双相情感障碍的心理治疗手段就不一样。根据咨询师的经验、来访者的病情、以及来访者自身的需求，心理咨询师会选择不同的咨询或治疗策略：可能只采用一种首要治疗方式，也可能采用多种方式。
 
 心理治疗可能包括以下内容：
+
 - 帮助来访者注意到潜意识中不恰当或有害的思维模式（例如，贬低自己的能力），就这些思维模式提出问题，理解它们影响情绪和行为的方式，借此改变这些负面的行为模式。通常，这种方式被称作认知行为疗法（Cognitive Behavioral Therapy，CBT）；
 - 认识缓解压力的方式，锻炼解决实际问题的策略；
 - 审视与他人交往的方式，教授社交技能；
@@ -57,6 +59,7 @@
 找到一个或多个咨询师后，有必要进行一次初步的交流，这样能了解治疗的方式，也有助于判断该咨询师是否适合你。友好与信任在咨询中不可或缺。咨询中的交流具有很强的隐私性，来访者是否感到舒适，并且信任咨询师是尤为重要的。这些初步的交流可以通过网络、电话，也可以是线下进行的。
 
 初次咨询时，你可以提出下列问题：
+
 - 我的咨询师有证书、相关经验和教育背景吗？
 - 我的咨询师会怎样进行咨询？他是否采取特定的治疗手段？所采用的手段是什么原理，有实证基础吗？
 - 我的咨询师是否对特定病症和年龄段（比如儿童）有咨询经验？如果来访者是儿童，其家长或监护人如何参与咨询？
@@ -65,6 +68,7 @@
 如果在经历足够长的咨询后，仍未见好转，请与医生联系。你可能需要其他专业人士的诊断与治疗。
 
 ## 查找心理咨询师的途径（**美国限定**）
+
 （再次强调，本章节内容仅限美国，中国的情况与美国存在差异，请读者谨慎甄别——译者注）
 
 精神卫生行业中，精神科医生、心理医生、社工、咨询师和精神科护士都可以提供心理咨询。[(美国精神卫生联盟，National Alliance on Mental Illness)](http://www.nami.org/Learn-More/Treatment/Types-of-Mental-Health-Professionals) 与[美国物质滥用与精神卫生管理局](https://www.samhsa.gov/find-support/learn-about-treatment/types-of-providers) 都有提供咨询师资格证书的查询服务。
@@ -74,6 +78,7 @@ NIMH 提供了寻求帮助的[方式](https://www.nimh.nih.gov/health/find-help)
 确定咨询关系前，请询问咨询师价格方面的事宜、咨询费用是否纳入保险、以及是否针对低收入群体有收费减免政策。
 
 以下专业机构网站提供了一些寻找精卫行业专家的指南（英文）：
+
 - [Academy of Cognitive and Behavioral Therapies](https://www.academyofct.org/)
 - [American Academy of Child & Adolescent Psychiatry](https://www.aacap.org/AACAP/Families_and_Youth/Resources/CAP_Finder.aspx)
 - [American Association for Geriatric Psychiatry](https://aagponline.app.neoncrm.com/np/clients/aagponline/publicaccess/membershipDirectory.do?md=2&)
@@ -89,6 +94,7 @@ NIMH 提供了寻求帮助的[方式](https://www.nimh.nih.gov/health/find-help)
 - [Society of Clinical Psychology](http://www.div12.org/therapist-search/)
 
 一些非政府机构也提供了寻找精卫行业专家的咨询，其中一些也提供了其组织名下心理咨询师的查询工具，下面给出一些例子（英文）：
+
 - [Anxiety & Depression Association of America](http://www.adaa.org/)
 - [Attention Deficit Disorder Association](http://www.add.org/)
 - [Children and Adults With Attention-Deficit/Hyperactivity Disorder](http://www.chadd.org/)
@@ -108,7 +114,9 @@ NIMH 提供了寻求帮助的[方式](https://www.nimh.nih.gov/health/find-help)
 NIMH 登载了和「精神卫生诊治中采用的科技」有关的[文章](https://www.nimh.nih.gov/health/topics/technology-and-the-future-of-mental-health-treatment)。
 
 ## 更多信息（美国限定）
+
 >以下内容为机翻，经过粗略审校，原文为英文——译者注
+
 ### 资料
 
 - [儿童与心理健康：这只是一个阶段吗？](https://www.nimh.nih.gov/health/publications/children-and-mental-health)（也提供 [西班牙语](https://www.nimh.nih.gov/health/publications/espanol/los-ninos-y-la-salud-mental)）：提供有关儿童心理健康的信息，包括如何评估孩子的行为、何时寻求帮助、父母的第一步、治疗方案以及选择心理健康专业人士时要考虑的因素
