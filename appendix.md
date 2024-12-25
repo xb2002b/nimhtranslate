@@ -14,7 +14,7 @@
 > 照顾好你自己，保持身体健康（Take care of yourself, and be well）  
 >——Chubbyemu
 
-## 物理治疗 [回到原文](./BST.md)
+## 物理治疗 [回到原文](./completed/BST.md)
 
 治疗过程中：
 ……
