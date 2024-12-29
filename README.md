@@ -26,11 +26,11 @@ Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/poli
 
 ---
 
-**注意：译者及审校均无医学专业背景，译者 xb2002b 为英语专业本科毕业，可以保证翻译无较大错误，但不能保证其中内容100%正确。部分冗杂内容借助了谷歌机器翻译并加以初步审核，部分工作（如链接的复制粘贴、翻译之外的代码工作）由 ChatGPT 代劳。**
+**注意：译者及审校均无医学专业背景，译者 xb2002b 为英语专业本科毕业，可以保证翻译无较大错误，但不能保证其中内容100%正确。部分冗杂内容借助了谷歌机器翻译并加以初步审核，部分内容参考了 ChatGPT 的意见，部分代码性工作由 ChatGPT 代劳。**
 
 **文章不能取代医疗意见，如有任何疑惑请咨询精神专科医生。**
 
-**NOTE: The translating team are not trained or educated in medication. Translator xb2002b is a Bachelor in English Major, so the translations could be guarded to be free of major faults. however, we could not ensure the 100% accuracy of the translation. Some verbose contents are initially trasnlated by Google Translator before initial revising. Some redundant work are done by ChatGPT.**
+**NOTE: The translating team are not trained or educated in medication. Translator xb2002b is a Bachelor in English Major, so the translations could be guarded to be free of major faults. however, we could not ensure the 100% accuracy of the translation. Some verbose contents are initially trasnlated by Google Translator before initial revising. Some content are based on the advice of ChatGPT, some works are done by ChatGPT.**
 
 **These Passages could not substitute medical advice whatsoever, consult professional mental health doctor if you have any concern.**
 
