@@ -36,6 +36,6 @@ Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/poli
 
 ---
 
-有任何意见欢迎提 Issue。
+编辑前可参考[编辑规范](./editing_guideline.md)。有任何意见欢迎提 Issue。
 
-Issues of any kind are welcomed.
+Refer to [Editing Guideline](./editing_guideline.md) before contributing. Issues of any kind are welcomed.
