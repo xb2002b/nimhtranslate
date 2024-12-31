@@ -8,8 +8,8 @@
 - [焦虑障碍](completed/AXD.md)
 - [注意力缺陷过动症（ADHD）](completed/ADHD.md)
 - [孤独症谱系障碍（ASD）](completed/ASD.md)
-- [双相障碍](completed/BD.md)
 -->
+- [双相障碍](completed/BD.md)
 - [边缘型人格障碍（BPD）](completed/BPD.md)
 <!--
 - [抑郁障碍](completed/DD.md)
