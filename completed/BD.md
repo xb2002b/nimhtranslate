@@ -1,6 +1,6 @@
 # 【中翻】双相障碍-美国精卫中心
 
-[原文](https://www.nimh.nih.gov/health/publications/bipolar-disorder)最后更新于：2022年；翻译于2024年12月
+[原文](https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens)最后更新于：2022年；翻译于2024年12月
 
 本篇翻译：[xb2002b](https://github.com/xb2002b)；校对：[MrZ](https://github.com/MrZ626)
 
@@ -57,7 +57,7 @@
 
 研究表明，双相患者脑部的结构和功能可能与其他精神障碍患者和正常人不同。通过了解这些脑部的变化，研究人员可以更好理解双相，在将来为双相患者提供更好的治疗手段。
 
-## 双相障碍的确诊
+## 双相障碍的诊断
 
 要确诊双相障碍，一般的全科门诊医生可能会先通过体格检查与医学检测，排除其他疾病的可能，随后再将患者转介给精神科医生。双相障碍的确诊需要基于其发作的严重程度、单次发作时长和发作频率、成长史等因素综合给出。
 
