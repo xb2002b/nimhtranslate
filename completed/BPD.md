@@ -1,6 +1,6 @@
 # 【中翻】边缘型人格障碍-美国精卫中心
 
-[原文](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder)最后更新于：2024年4月；翻译于2024年9月
+[原文](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder)最后更新于2024年4月；翻译于2024年9月
 
 本篇翻译：[xb2002b](https://github.com/xb2002b)；审校：[Neubulaeko](https://github.com/Neubulaeko)、[MrZ](https://github.com/MrZ626)
 
