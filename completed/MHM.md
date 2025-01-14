@@ -203,4 +203,3 @@ NIMH 是精神障碍相关研究的牵头联邦机构，并不提供医疗建议
 **MedlinePlus: Antidepressants**：提供有关抗抑郁药物相关信息和资源；
 
 **MedlinePlus: Drugs, Herbs and Supplements**：提供有关中西药和补剂的相关信息；
-
