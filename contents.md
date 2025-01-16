@@ -1,6 +1,33 @@
-# 目录
+# 目录与前言
 
-> NIMH 为大众提供精神障碍等主题的专业知识。
+## 转载须知
+
+项目内文章翻译自美国国立精神卫生中心（National Institute of Mental Health，NIMH）官方网站。
+
+文章英文原版由 NIMH 撰写，并由美国国立卫生中心及美国卫生与公共服务部公开发布。
+
+若未特别声明，NIMH 网站上的文字内容均处于公有领域，供大众阅读、传播及学习。
+
+转载本介绍的英文原文，请参考 NIMH 网站上的[相关规定](https://www.nimh.nih.gov/site-info/policies#part_2718)；转载中文译文请另外注明由 **「雾之湖的喵精屋」** 翻译。感谢支持。
+
+Passages in the repo are translated from the website of National Institute of Mental Health (NIMH). Unless otherwise indicated, texts on the website are in public domain for educational use.
+
+The passages are originally written in English by NIMH, and publicized by National Institute of Health (NIH) and U.S. Department of Health and Human Services.
+
+Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/policies#part_2718) on NIMH before re-distribution; additionally, if you want to re-distribute the Chinese version, you are asked to give us credit by citing **「雾之湖的喵精屋」** as the translators. Thank you for your cooperation.
+
+## 阅读前须知
+
+**注意：译者及审校均无医学专业背景，译者 xb2002b 为英语专业本科毕业，可以保证翻译无较大错误，但不能保证其中内容100%正确。部分冗杂内容借助了谷歌机器翻译并加以初步审核，部分内容参考了 ChatGPT 的意见，部分代码性工作由 ChatGPT 代劳。**
+
+**文章不能取代医疗意见，如有任何疑惑请咨询精神专科医生。**
+
+**NOTE: The translating team are not trained or educated in medication. Translator xb2002b is a Bachelor in English Major, translations could be therefore guarded against major faults. However, we could not ensure the 100% accuracy of the translation. Some verbose contents are initially trasnlated by Google Translator before manual revising. ChatGPT is used to provide advice and undertake coding works.**
+
+**These Passages could not substitute medical advice whatsoever, consultation with professional mental health is strongly recommended in case of concerns of any kind.**
+
+---
+
 <!--待翻译内容用注释表示。-->
 
 ## 常见病症与障碍
@@ -11,6 +38,7 @@
 -->
 - [双相障碍](completed/BD.md)
 - [青少年双相障碍](TBD.md)<!--淘宝队-->
+- [青少年双相障碍](completed/BD-Teens.md)
 - [边缘型人格障碍（BPD）](completed/BPD.md)
 <!--
 - [抑郁障碍](completed/DD.md)
