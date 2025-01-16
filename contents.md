@@ -37,8 +37,7 @@ Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/poli
 - [孤独症谱系障碍（ASD）](completed/ASD.md)
 -->
 - [双相障碍](completed/BD.md)
-- [青少年双相障碍](TBD.md)<!--淘宝队-->
-- [青少年双相障碍](completed/BD-Teens.md)
+- [青少年双相障碍](BD-Teens.md)
 - [边缘型人格障碍（BPD）](completed/BPD.md)
 <!--
 - [抑郁障碍](completed/DD.md)

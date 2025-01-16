@@ -1,6 +1,6 @@
 # 【中翻】物理治疗-美国精卫中心
 
-[原文](https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies)最后更新于：2024年3月；翻译于2024年12月
+[原文](https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies)最后更新于2024年3月；翻译于2024年12月
 
 本篇翻译：[xb2002b](https://github.com/xb2002b)；校对：[MrZ](https://github.com/MrZ626)
 
