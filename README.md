@@ -8,7 +8,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 Go to [contents.md](/contents.md) for details.
 
---
+----
 
 编辑前可参考[编辑规范](./editing_guideline.md)。有任何意见欢迎提 Issue。
 
