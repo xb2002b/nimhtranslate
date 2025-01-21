@@ -1,11 +1,5 @@
 # 【中翻】边缘型人格障碍-美国精卫中心
 
-[原文](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder)最后更新于2024年4月；翻译于2024年9月
-
-本篇翻译：[xb2002b](https://github.com/xb2002b)；审校：[Neubulaeko](https://github.com/Neubulaeko)、[MrZ](https://github.com/MrZ626)
-
----
-
 ## 什么是边缘型人格障碍
 
 边缘型人格障碍（Borderline Personality Disorder）是一种严重影响患者控制情绪能力的精神疾病。患者会因情绪失控而冲动、改变他们对自我的看法、损坏他们的人际关系。现有数种有效的疗法来帮助患者控制边缘型人格障碍的症状。

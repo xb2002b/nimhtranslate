@@ -1,9 +1,5 @@
 # 【中翻】物理治疗-美国精卫中心
 
-[原文](https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies)最后更新于2024年3月；翻译于2024年12月
-
-本篇翻译：[xb2002b](https://github.com/xb2002b)；校对：[MrZ](https://github.com/MrZ626)
-
 ## 什么是物理治疗
 
 物理治疗（phisiotherapy），又称脑刺激治疗（brain stimulation therapy）可对精神障碍的治疗有可观的帮助。这些治疗利用电流激活或抑制大脑活动。电流可通过植入脑内的电极直接释放，或是透过置于头皮的电极释放，也可通过向脑部施加磁场而间接产生。
