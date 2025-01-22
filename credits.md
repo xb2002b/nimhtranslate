@@ -19,10 +19,10 @@ Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/poli
 ## 各篇目翻译时间
 
 | 篇目 | 原文链接 | 原文修订时间 | 翻译时间 | 翻译-[xb2002b](https://github.com/xb2002b) | 校对-[MrZ](https://github.com/MrZ626)| 校对-[Neubulaeko](https://github.com/Neubulaeko)|
-| --------  | ----- | -----| --------  | ----------| --------  | ----------|
-| [边缘型人格障碍](/completed/BPD.md) |[Borderline Personality Disorder](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder)|2024/4|2024/9|✅|✅|✅|
+| --------  | ----- | ----- | --------  | ----------| --------  | ----------|
+| [边缘型人格障碍](/completed/BPD.md) |[Borderline Personality Disorder](https://www.nimh.nih.gov/health/publications/borderline-personality-disorder)|2024/4|2024/9|✅|✅|✅|
 | [典型精神卫生药物](/completed/MHM.md)|[Mental Health Medications](https://www.nimh.nih.gov/health/topics/mental-health-medications)|2023/12|2024/10|✅|✅||
 | [心理治疗](/completed/PT.md)|[Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies)|2024/2|2024/11|✅|✅||
 | [物理治疗](/completed/BST.md)|[Brain Stimulation Therapy](https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies)|2024/3|2024/12|✅|✅||
-| [双相障碍](/completed/BD.md)|[Bipolar Disorder](https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens)|2022|2024/12|✅|✅||
+| [双相障碍](/completed/BD.md)|[Bipolar Disorder](https://www.nimh.nih.gov/health/publications/bipolar-disorder)|2022|2024/12|✅|✅||
 | [青少年双相障碍](/completed/BD-Teens.md)|[Bipolar Disorder in Children and Teens](https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens)|2023|2025/1|✅|✅||
