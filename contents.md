@@ -17,9 +17,9 @@
 ## 常见病症与障碍
 <!--
 - [焦虑障碍](completed/AXD.md)
-- [注意力缺陷过动症（ADHD）](completed/ADHD.md)
 - [孤独症谱系障碍（ASD）](completed/ASD.md)
 -->
+- [注意力缺陷过动症（ADHD）](completed/ADHD.md)
 - [双相障碍](completed/BD.md)
 - [青少年双相障碍](BD-Teens.md)
 - [边缘型人格障碍（BPD）](completed/BPD.md)
