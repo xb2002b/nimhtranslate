@@ -134,12 +134,6 @@ ADHD 尚不能治愈，但现有的治疗能帮助减缓症状，改善患者的
 
 NIMH 官网的[这篇文章][nimh-findhelp]介绍了更多寻求帮助的方法。如果你居住在美国，你可以利用国物质滥用与精神卫生管理局（Substance Abuse and Mental Health Services Administration，SAMHSA）提供的小工具[寻求帮助][samhsa-find-support]，或是[找到][locator]你附近的精神卫生中心。
 
-[tips]:[https://www.nimh.nih.gov/health/publications/]tips-for-talking-with-your-health-care-provider]
-[cdc]:[https://www.cdc.gov/adhd/]
-[nimh-findhelp]:[https://www.nimh.nih.gov/health/find-help]
-[samhsa-find-support]:[https://www.samhsa.gov/find-support]
-[locator]:[https://findtreatment.samhsa.gov]
-
 ## ADHD 患者的自助
 
 药物治疗与心理治疗并列为 ADHD 最有效的治疗方式。此外，以下行为也可帮助控制病情：
@@ -167,3 +161,9 @@ NIMH 官网的[这篇文章][nimh-findhelp]介绍了更多寻求帮助的方法�
 临床试验是一系列旨在探求预防、检测、治疗疾病的医学研究。这些研究可帮助医学界验证他们的疗法是否安全有效。有些人参与临床试验是为了帮助医生与医学研究团队更好了解疾病，以此改善医疗水平。一些病人也可通过参与临床试验，获得尚未普及的新治疗手段。
 
 NIMH 支持一系列临床试验。咨询医生以获得临床试验相关信息，权衡他们的利弊，选择最适合你的一项。要想了解更多临床试验的相关信息，请访问 [NIMH 临床试验专题网站](https://www.nimh.nih.gov/health/trials)。
+
+[tips]:[https://www.nimh.nih.gov/health/publications/]tips-for-talking-with-your-health-care-provider]
+[cdc]:[https://www.cdc.gov/adhd/]
+[nimh-findhelp]:[https://www.nimh.nih.gov/health/find-help]
+[samhsa-find-support]:[https://www.samhsa.gov/find-support]
+[locator]:[https://findtreatment.samhsa.gov]

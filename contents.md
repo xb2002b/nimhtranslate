@@ -6,7 +6,7 @@
 
 **文章不能取代医疗意见，如有任何疑惑请咨询精神专科医生。**
 
-**NOTE: The translating team are not trained or educated in medication. Translator xb2002b is a Bachelor in English Major, translations could be therefore guarded against major faults. However, we could not ensure the 100% accuracy of the translation. Some verbose contents are initially trasnlated by Google Translator before manual revising. ChatGPT is used to provide advice and undertake coding works.**
+**NOTE: The translating team are not trained or educated in medication. Translator xb2002b is a Bachelor in English Major, translations could be therefore guarded against major faults. However, we could not ensure the 100% accuracy of the translation. Some verbose contents are initially translated by Google Translator before manual revising. ChatGPT is used to provide advice and undertake coding works.**
 
 **These Passages could not substitute medical advice whatsoever, consultation with professional mental health is strongly recommended in case of concerns of any kind.**
 
