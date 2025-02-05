@@ -162,8 +162,8 @@ NIMH 官网的[这篇文章][nimh-findhelp]介绍了更多寻求帮助的方法�
 
 NIMH 支持一系列临床试验。咨询医生以获得临床试验相关信息，权衡他们的利弊，选择最适合你的一项。要想了解更多临床试验的相关信息，请访问 [NIMH 临床试验专题网站](https://www.nimh.nih.gov/health/trials)。
 
-[tips]:[https://www.nimh.nih.gov/health/publications/]tips-for-talking-with-your-health-care-provider]
-[cdc]:[https://www.cdc.gov/adhd/]
-[nimh-findhelp]:[https://www.nimh.nih.gov/health/find-help]
-[samhsa-find-support]:[https://www.samhsa.gov/find-support]
-[locator]:[https://findtreatment.samhsa.gov]
+[tips]:https://www.nimh.nih.gov/health/publications/]tips-for-talking-with-your-health-care-provider
+[cdc]:https://www.cdc.gov/adhd/
+[nimh-findhelp]:[ttps://www.nimh.nih.gov/health/find-help
+[samhsa-find-support]:https://www.samhsa.gov/find-support
+[locator]:https://findtreatment.samhsa.gov

@@ -26,7 +26,7 @@ Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/poli
 | [物理治疗](/completed/BST.md)|[Brain Stimulation Therapy][Brain Stimulation Therapies]|2024/3|2024/12|✅|✅||
 | [双相障碍](/completed/BD.md)|[Bipolar Disorder][Bipolar]|2022|2024/12|✅|✅||
 | [青少年双相障碍](/completed/BD-Teens.md)|[Bipolar Disorder in Children and Teens][Bipolar-Teens]|2023|2025/1|✅|✅||
-| [注意力缺陷多动障碍](/completed/ADHD.md)|[AD/HD][ADHD]|2024|2025/1|✅|✅||
+| [注意力缺陷多动障碍](/completed/ADHD.md)|[ADHD][ADHD]|2024|2025/1|✅|✅||
 
 [BPD]:https://www.nimh.nih.gov/health/publications/borderline-personality-disorder
 [Medications]:https://www.nimh.nih.gov/health/topics/mental-health-medications
