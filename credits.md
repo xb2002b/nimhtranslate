@@ -27,6 +27,7 @@ Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/poli
 | [双相障碍](/completed/BD.md)|[Bipolar Disorder][Bipolar]|2022|2024/12|✅|✅||
 | [青少年双相障碍](/completed/BD-Teens.md)|[Bipolar Disorder in Children and Teens][Bipolar-Teens]|2023|2025/1|✅|✅||
 | [注意力缺陷多动障碍](/completed/ADHD.md)|[ADHD][ADHD]|2024|2025/1|✅|✅||
+| [自闭症谱系障碍](/ASD.md)|[ASD][ASD]|2022|2025/2|✅|✅||
 
 [BPD]:https://www.nimh.nih.gov/health/publications/borderline-personality-disorder
 [Medications]:https://www.nimh.nih.gov/health/topics/mental-health-medications
@@ -35,3 +36,4 @@ Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/poli
 [Bipolar]:https://www.nimh.nih.gov/health/publications/bipolar-disorder
 [Bipolar-Teens]:https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens
 [ADHD]:https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know
+[ASD]:https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder

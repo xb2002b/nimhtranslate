@@ -21,7 +21,7 @@
 -->
 - [注意力缺陷过动症（ADHD）](completed/ADHD.md)
 - [双相障碍](completed/BD.md)
-- [青少年双相障碍](BD-Teens.md)
+- [青少年双相障碍](completed/BD-Teens.md)
 - [边缘型人格障碍（BPD）](completed/BPD.md)
 <!--
 - [抑郁障碍](completed/DD.md)

@@ -104,13 +104,13 @@ ADHD 尚不能治愈，但现有的治疗能帮助减缓症状，改善患者的
 
 医生有时会开具抗抑郁药物等非兴奋类药物治疗 ADHD。然而，美国食药监局（FDA）尚未批准这些药物用于治疗 ADHD。有时，患者可能要在药物种类和剂量上进行若干次尝试，才能找到最适合自己的药物治疗方案。
 
-你可以在[这篇文章](./completed/MHM.md)中了解更多关于精神科常用药物的信息，包括神经中枢兴奋剂。你也可以在 [FDA 网站](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm)上了解某种特定的药物，包括其最新的批准、副作用、警示等其他用药信息。
+你可以在[这篇文章](/completed/MHM.md)中了解更多关于精神科常用药物的信息，包括神经中枢兴奋剂。你也可以在 [FDA 网站](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm)上了解某种特定的药物，包括其最新的批准、副作用、警示等其他用药信息。
 
 ### 心理治疗和行为干预
 
 针对 ADHD 的心理干预形式多样，可联合药物治疗，有时还需要家长、近亲属、老师等人的共同参与。将心理治疗加入 ADHD 患者的治疗计划有时能帮助他们更好处理日常问题、增加信心、控制他们的危险冲动行为。
 
-心理治疗对 ADHD 与其他精神障碍共病的患者特别有效，这些共病包括焦虑、抑郁、行为问题与物质滥用。你可在[目录](./contents.md)了解我们已经翻译的 NIMH 精卫科普文章，包括这些疾病的具体信息。
+心理治疗对 ADHD 与其他精神障碍共病的患者特别有效，这些共病包括焦虑、抑郁、行为问题与物质滥用。你可在[目录](/contents.md)了解我们已经翻译的 NIMH 精卫科普文章，包括这些疾病的具体信息。
 
 已有研究表明，部分行为干预治疗有助于控制 ADHD 的症状，改善患者的生活。
 
@@ -118,7 +118,7 @@ ADHD 尚不能治愈，但现有的治疗能帮助减缓症状，改善患者的
 - **认知行为疗法** 可帮助患者意识到自己在注意力的问题，以此通过技能的学习，改善专注和规划能力的缺陷，最终达到顺利进行日常活动的目的（比如把一份较大的目标拆分成若干个更小、更可控的目标）。
 - **家庭与婚姻治疗** 帮助家人更好解决患者破坏性的行为，并鼓励他们做出改变，提升他们和孩子与伴侣的沟通能力。
 
-更多心理治疗方式，详见[这篇文章](./completed/PT.md)
+更多心理治疗方式，详见[这篇文章](/completed/PT.md)
 
 ### 针对家长的支持与教育
 
@@ -133,6 +133,12 @@ ADHD 尚不能治愈，但现有的治疗能帮助减缓症状，改善患者的
 [美国疾控中心的网站][cdc]刊登了 ADHD 的相关信息，包括其症状、确诊、治疗和为家庭与医生提供的额外信息。
 
 NIMH 官网的[这篇文章][nimh-findhelp]介绍了更多寻求帮助的方法。如果你居住在美国，你可以利用国物质滥用与精神卫生管理局（Substance Abuse and Mental Health Services Administration，SAMHSA）提供的小工具[寻求帮助][samhsa-find-support]，或是[找到][locator]你附近的精神卫生中心。
+
+[tips]:https://www.nimh.nih.gov/health/publications/]tips-for-talking-with-your-health-care-provider
+[cdc]:https://www.cdc.gov/adhd/
+[nimh-findhelp]:https://www.nimh.nih.gov/health/find-help
+[samhsa-find-support]:https://www.samhsa.gov/find-support
+[locator]:https://findtreatment.samhsa.gov
 
 ## ADHD 患者的自助
 
@@ -154,16 +160,10 @@ NIMH 官网的[这篇文章][nimh-findhelp]介绍了更多寻求帮助的方法�
 - 孩子在进行家务、规划等需要持续注意力的活动时，给予必要的陪伴。若是遇到困难，应给予他们切实的帮助。陪伴可激发孩子的责任心，让他们更专注、更好地完成手头的任务。
 - 给孩子提供探索不同兴趣活动的机会，让孩子在活动中发掘自身长处，建立信心。
 
-> **如果您的孩子有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](./appendix.md#危机干预与报警)**
+> **如果您的孩子有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](/appendix.md#危机干预与报警)**
 
 ## 临床试验
 
 临床试验是一系列旨在探求预防、检测、治疗疾病的医学研究。这些研究可帮助医学界验证他们的疗法是否安全有效。有些人参与临床试验是为了帮助医生与医学研究团队更好了解疾病，以此改善医疗水平。一些病人也可通过参与临床试验，获得尚未普及的新治疗手段。
 
 NIMH 支持一系列临床试验。咨询医生以获得临床试验相关信息，权衡他们的利弊，选择最适合你的一项。要想了解更多临床试验的相关信息，请访问 [NIMH 临床试验专题网站](https://www.nimh.nih.gov/health/trials)。
-
-[tips]:https://www.nimh.nih.gov/health/publications/]tips-for-talking-with-your-health-care-provider
-[cdc]:https://www.cdc.gov/adhd/
-[nimh-findhelp]:[ttps://www.nimh.nih.gov/health/find-help
-[samhsa-find-support]:https://www.samhsa.gov/find-support
-[locator]:https://findtreatment.samhsa.gov
