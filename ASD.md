@@ -157,9 +157,9 @@
 
 ## 有关自闭症的其他资源（英文）
 
-- [Eunice Kennedy Shriver National Institute of Child Health and Human Development ](https://www.nichd.nih.gov/health/topics/autism)
+- [Eunice Kennedy Shriver National Institute of Child Health and Human Development](https://www.nichd.nih.gov/health/topics/autism)
 - [National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/Disorders/All-Disorders/Autism-Spectrum-Disorder-Information-Page)
-- [National Institute on Deafness and Other Communication Disorders ](https://www.nidcd.nih.gov/health/autism-spectrum-disorder-communication-problems-children)
+- [National Institute on Deafness and Other Communication Disorders](https://www.nidcd.nih.gov/health/autism-spectrum-disorder-communication-problems-children)
 - [Centers for Disease Control and Prevention](https://www.cdc.gov/autism)
 - [Interagency Autism Coordinating Committee](https://iacc.hhs.gov/)
 
