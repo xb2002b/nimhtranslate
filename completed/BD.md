@@ -95,11 +95,11 @@
 
 ### 补充性治疗方案
 
-不像心理、药物等治疗手段，补充性治疗手段（complementary health approaches）尚未经过科学实验的证明。诸如天然药物（`包括草药及植物提取物、动物制品、矿物质等——译者注`）等针对双相障碍的补充性治疗手段并非基于现有的知识和实证。想要了解这些治疗方案的信息，请参阅国家补充与综合健康中心（`National Center for Complementary and Integrative Health，美国国立卫生研究院 NIH 的下属机构，负责研究和评估各种补充和综合健康疗法（如中医的大多数疗法）的安全性——译者注`）的[网站](http://www.nccih.nih.gov/)。
+不像心理、药物等治疗手段，补充性治疗手段（complementary health approaches）尚未经过科学实验的证明。诸如天然药物（`包括草药及植物提取物、动物制品、矿物质等——译者注`）等针对双相障碍的补充性治疗手段并非基于现有的知识和实证。想要了解这些治疗方案的信息，请参阅国家补充与综合健康中心（`National Center for Complementary and Integrative Health，美国国立卫生研究院 NIH 的下属机构，负责研究和评估各种补充和综合健康疗法（如中医的大多数疗法）的安全性——译者注`）的[这个网站](http://www.nccih.nih.gov/)。
 
 ### 如何对抗双相
 
-双相患者在生活上确实存在诸多困难，但患者及其亲友可通过如下方式共渡难关：
+双相患者在生活上确实存在诸多困难，但患者及其亲友可通过以下方式共渡难关：
 
 - 及时并积极参与治疗。积极的治疗是缓解双相病情的首选方案。
 - 定期与医生商讨符合现状的治疗方案。
@@ -125,7 +125,7 @@ NIMH 支持一系列研究，包括那些为预防、检测、治疗精神障碍
 
 ### 与医生谈论你的精神健康状态
 
-良好的医患沟通有助于病情的改善，也有助于医患双方做出正确的决定。在 NIMH 的这篇[专题文章](https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider)中了解就诊前与就诊期间需要注意的地方。想要了解更多相关信息，请访问联邦医疗保健研究与质量局（Agency for Healthcare Research and Quality，AHRQ）的[网站](http://www.ahrq.gov/questions)。
+良好的医患沟通有助于病情的改善，也有助于医患双方做出正确的决定。在 NIMH 的这篇[专题文章](https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider)中了解就诊前与就诊期间需要注意的地方。想要了解更多相关信息，请访问联邦医疗保健研究与质量局（Agency for Healthcare Research and Quality，AHRQ）的[这个网站](http://www.ahrq.gov/questions)。
 
 ## 更多信息
 
