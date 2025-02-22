@@ -24,7 +24,7 @@ Passages in the project are translated from the website of National Institute of
 
 Unless otherwise indicated, texts on the website of NIMH are in public domain for educational use.
 
-Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/policies#part_2718) on NIMH before re-distribution; additionally, if you want to re-distribute the Chinese version, you are asked to give us credit by: **a.** citing **「Icyfairies' Cabin」** as the translators, or **b.** citing participantS(s) of each translation. Thank you for your cooperation.
+Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/policies#part_2718) on NIMH before re-distribution; additionally, if you want to re-distribute the Chinese version, you are asked to give us credit by: **a.** citing **「Icyfairies' Cabin」** as the translators, or **b.** citing participant(s) of each translation. Thank you for your cooperation.
 
 ## 篇目列表
 
