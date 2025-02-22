@@ -1,4 +1,14 @@
-# 转载须知、翻译时间、译者与校对
+# 前言、目录与转载须知
+
+## 阅读前须知
+
+**注意：译者及审校均无医学专业背景，译者 xb2002b 为英语专业本科毕业，可以保证翻译无较大错误，但不能保证其中内容100%正确。部分冗杂内容借助了谷歌机器翻译并加以初步审核，部分内容参考了 ChatGPT、DeepSeek 等人工智能的意见，部分代码性工作由 ChatGPT 代劳。**
+
+**文章不能取代医疗意见，如有任何疑惑请咨询精神专科医生。**
+
+**NOTE: The translating team are not trained or educated in medication. Translator xb2002b is a Bachelor in English Major, translations could be therefore guarded against major faults. However, we could not ensure the 100% accuracy of the translation. Some verbose contents are initially translated by Google Translator before manual revising. LLMs like ChatGPT and DeepSeek are used to provide advice and undertake coding works.**
+
+**These Passages could not substitute medical advice whatsoever, consultation with professional mental health is strongly recommended in case of concerns of any kind.**
 
 ## 转载须知
 
@@ -14,9 +24,11 @@ Passages in the project are translated from the website of National Institute of
 
 Unless otherwise indicated, texts on the website of NIMH are in public domain for educational use.
 
-Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/policies#part_2718) on NIMH before re-distribution; additionally, if you want to re-distribute the Chinese version, you are asked to give us credit by: a. citing **「Icyfairies' Cabin」** as the translators, or b. citing participantS(s) of each translation. Thank you for your cooperation.
+Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/policies#part_2718) on NIMH before re-distribution; additionally, if you want to re-distribute the Chinese version, you are asked to give us credit by: **a.** citing **「Icyfairies' Cabin」** as the translators, or **b.** citing participantS(s) of each translation. Thank you for your cooperation.
 
-## 各篇目原文链接
+## 篇目列表
+
+斜体篇目未尚未翻译的篇目，其翻译时间为预计完工时间。~~绝对不鸽~~
 
 | 篇目 | 原文链接 | 原文修订时间 | 翻译时间 |
 | --------  | ----- | ----- | --------  |
@@ -27,7 +39,7 @@ Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/poli
 | [双相障碍](/completed/BD.md)|[Bipolar Disorder][Bipolar]|2022|2024/12|
 | [青少年双相障碍](/completed/BD-Teens.md)|[Bipolar Disorder in Children and Teens][Bipolar-Teens]|2023|2025/1|
 | [注意力缺陷多动障碍](/completed/ADHD.md)|[Attention-Deficit/Hyperactivity Disorder: What You Need to Know][ADHD]|2024|2025/1|
-| [自闭症谱系障碍](/ASD.md)|[Autism Spectrum Disorder][ASD]|2022|2025/2|
+| [自闭症谱系障碍](/completed/ASD.md)|[Autism Spectrum Disorder][ASD]|2022|2025/2|
 
 [BPD]:https://www.nimh.nih.gov/health/publications/borderline-personality-disorder
 [Medications]:https://www.nimh.nih.gov/health/topics/mental-health-medications

@@ -4,9 +4,9 @@
 
 A Simplified Chinese translation of Public Passages on National Institute of Mental Health [NIMH](https://www.nimh.nih.gov).
 
-前往[目录](/contents.md)阅读详细内容，如需转载请参阅 [credits.md](/credits.md)。
+前往[前言](/foreword.md)开始阅读。
 
-Go to [contents.md](/contents.md) for details. Read [credits.md](/credits.md) before redistribution.
+Go to [foreword.md](foreword.md) for details. Read [credits.md](/credits.md) before redistribution.
 
 编辑前可参考[编辑规范](./editing_guideline.md)。有任何意见欢迎提 Issue。
 
