@@ -40,6 +40,7 @@ Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/poli
 | [青少年双相障碍](/completed/BD-Teens.md)|[Bipolar Disorder in Children and Teens][Bipolar-Teens]|2023|2025/1|
 | [注意力缺陷多动障碍](/completed/ADHD.md)|[Attention-Deficit/Hyperactivity Disorder: What You Need to Know][ADHD]|2024|2025/1|
 | [自闭症谱系障碍](/completed/ASD.md)|[Autism Spectrum Disorder][ASD]|2022|2025/2|
+| [广泛性焦虑障碍](/GAD.md)|[Generalized Anxiety Disorder][GAD]|2022|2025/3|
 
 [BPD]:https://www.nimh.nih.gov/health/publications/borderline-personality-disorder
 [Medications]:https://www.nimh.nih.gov/health/topics/mental-health-medications
@@ -49,6 +50,7 @@ Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/poli
 [Bipolar-Teens]:https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens
 [ADHD]:https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know
 [ASD]:https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder
+[GAD]:https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad
 
 其中所有篇目由 xb2002b 翻译；除「边缘型人格障碍」由 MrZ 和 Neubulaeko 共同校对、「自闭症谱系障碍」由 xb2002b 独立校对外，其余篇目由 MrZ 校对。
 
