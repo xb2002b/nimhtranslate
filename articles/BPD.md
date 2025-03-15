@@ -1,5 +1,7 @@
 # 【中翻】边缘型人格障碍-美国精卫中心
 
+本文翻译自 NIMH 网站上的 [Borderline Personality Disorder](https://www.nimh.nih.gov/health/publications/borderline-personality-disorder) 篇目，基于其2024年4月更新的版本。
+
 ## 什么是边缘型人格障碍
 
 边缘型人格障碍（Borderline Personality Disorder）是一种严重影响患者控制情绪能力的精神疾病。患者会因情绪失控而冲动、改变他们对自我的看法、损坏他们的人际关系。现有数种有效的疗法来帮助患者控制边缘型人格障碍的症状。
@@ -64,7 +66,7 @@
 
 ### 药物治疗
 
-> 参见：[典型精神卫生药物](/completed/MHM.md)
+> 参见：[典型精神卫生药物](/articles/Medications.md)
 
 精神药物对边缘型人格障碍的药效尚不明确，因此药物通常不是治疗该疾病的主要手段。有时精神科医生可能会推荐使用一些药物，以此治疗某种特定的症状，或是同时罹患的其他精神疾病，如情绪波动或焦虑。对于药物治疗，患者可能需要多个医疗机构的协调护理。
 

@@ -28,30 +28,18 @@ Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/poli
 
 ## 篇目列表
 
-斜体篇目未尚未翻译的篇目，其翻译时间为预计完工时间。~~绝对不鸽~~
+| 序号 | 翻译时间 | 篇目 |
+| -------- | -------- | -------- |
+| 1 | 2024/9 | [边缘型人格障碍](/articles/BPD.md) |
+| 2 | 2024/10 | [典型精神卫生药物](/articles/Medications.md) |
+| 3 | 2024/11 | [心理治疗](/articles/Psychotherapies.md) |
+| 4 | 2024/12 | [物理治疗](/articles/BST.md) |
+| 5 | 2024/12 | [双相障碍](/articles/BD.md) |
+| 6 | 2025/1 | [青少年双相障碍](/articles/BD-Teens.md) |
+| 7 | 2025/1 | [注意力缺陷多动障碍](/articles/ADHD.md) |
+| 8 | 2025/2 | [自闭症谱系障碍](/articles/ASD.md) |
+| 9 | 2025/3 | [广泛性焦虑障碍](/articles/GAD.md) |
 
-| 篇目 | 原文链接 | 原文修订时间 | 翻译时间 |
-| --------  | ----- | ----- | --------  |
-| [边缘型人格障碍](/completed/BPD.md) |[Borderline Personality Disorder][BPD]|2024/4|2024/9|
-| [典型精神卫生药物](/completed/MHM.md)|[Mental Health Medications][Medications]|2023/12|2024/10|
-| [心理治疗](/completed/PT.md)|[Psychotherapies][Psychotherapies]|2024/2|2024/11|
-| [物理治疗](/completed/BST.md)|[Brain Stimulation Therapy][Brain Stimulation Therapies]|2024/3|2024/12|
-| [双相障碍](/completed/BD.md)|[Bipolar Disorder][Bipolar]|2022|2024/12|
-| [青少年双相障碍](/completed/BD-Teens.md)|[Bipolar Disorder in Children and Teens][Bipolar-Teens]|2023|2025/1|
-| [注意力缺陷多动障碍](/completed/ADHD.md)|[Attention-Deficit/Hyperactivity Disorder: What You Need to Know][ADHD]|2024|2025/1|
-| [自闭症谱系障碍](/completed/ASD.md)|[Autism Spectrum Disorder][ASD]|2022|2025/2|
-| [广泛性焦虑障碍](/GAD.md)|[Generalized Anxiety Disorder][GAD]|2022|2025/3|
+各篇目的翻译和校对请前往 GitHub 仓库的历史记录查看。
 
-[BPD]:https://www.nimh.nih.gov/health/publications/borderline-personality-disorder
-[Medications]:https://www.nimh.nih.gov/health/topics/mental-health-medications
-[Psychotherapies]:https://www.nimh.nih.gov/health/topics/psychotherapies
-[Brain Stimulation Therapies]:https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies
-[Bipolar]:https://www.nimh.nih.gov/health/publications/bipolar-disorder
-[Bipolar-Teens]:https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens
-[ADHD]:https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know
-[ASD]:https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder
-[GAD]:https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad
-
-其中所有篇目由 xb2002b 翻译；除「边缘型人格障碍」由 MrZ 和 Neubulaeko 共同校对、「自闭症谱系障碍」由 xb2002b 独立校对外，其余篇目由 MrZ 校对。
-
-All works are translated by xb2002b. BPD is revised by MrZ and Neubulaeko, ASD is revised solely by xb2002b, and other works are revised by MrZ.
+For people contributing to each article, please refer to the "History" tab of them.

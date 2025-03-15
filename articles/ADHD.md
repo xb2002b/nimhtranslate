@@ -1,5 +1,7 @@
 # 【中翻】注意力缺陷多动障碍-美国精卫中心
 
+本文翻译自 NIMH 网站上的 [Attention-Deficit/Hyperactivity Disorder: What You Need to Know](https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know) 篇目，基于其2024年更新的版本。
+
 ## 什么是 ADHD
 
 注意力缺陷多动障碍（Attention Deficit/Hyperactivity Disorder，下文取其首字母简称 **ADHD**）是一种发育性精神障碍，患者通常表现出持续的注意力不集中、多动与冲动。
@@ -104,7 +106,7 @@ ADHD 的症状可能随年龄发生变化：
 
 医生有时会开具抗抑郁药物等非兴奋类药物治疗 ADHD。然而，美国食药监局（FDA）尚未批准这些药物用于治疗 ADHD。有时，患者可能要在药物种类和剂量上进行若干次尝试，才能找到最适合自己的药物治疗方案。
 
-你可以在[这篇文章](/completed/MHM.md)中了解更多关于精神科常用药物的信息，包括神经中枢兴奋剂。你也可以在 [FDA 网站](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm)上了解某种特定的药物，包括其最新的批准、副作用、警示等其他用药信息。
+你可以在[这篇文章](/articles/Medications.md)中了解更多关于精神科常用药物的信息，包括神经中枢兴奋剂。你也可以在 [FDA 网站](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm)上了解某种特定的药物，包括其最新的批准、副作用、警示等其他用药信息。
 
 ### 心理治疗和行为干预
 
@@ -118,7 +120,7 @@ ADHD 的症状可能随年龄发生变化：
 - **认知行为疗法** 可帮助患者意识到自己在注意力的问题，促使他们通过技能的学习，改善专注和规划能力的缺陷，最终达到顺利进行日常活动的目的（比如把一份较大的目标拆分成若干个更小、更可控的目标）。
 - **家庭与婚姻治疗** 帮助家人更好解决患者破坏行为，并鼓励患者做出改变，提升他们和孩子与伴侣的沟通能力。
 
-更多心理治疗方式，详见[这篇文章](/completed/PT.md)
+更多心理治疗方式，详见[这篇文章](/articles/Psychotherapies.md)
 
 ### 针对家长的支持与教育
 

@@ -1,5 +1,7 @@
 # 【中翻】儿童和青少年的双相障碍-美国精卫中心
 
+本文翻译自 NIMH 网站上的 [Bipolar Disorder in Children and Teens](https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens) 篇目，基于其2023年更新的版本。
+
 `谨以此篇翻译献给星云子最好的闺蜜——xb2002b（以防歧义，破折号指明说话人，不是同位语）`
 
 **您的孩子是否情绪不稳、行为冲动？** 您的孩子是否比其他小孩更容易兴奋或者生气？您是否注意到，相比其他小孩，孩子的情绪和精力更频繁地在好与坏两个「极端」之间循环往复？如果是，孩子的家庭和校园生活是否因此受到影响？
