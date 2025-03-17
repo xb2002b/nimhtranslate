@@ -123,7 +123,7 @@ NIMH 支持临床试验在内的一系列研究。临床试验是一系列旨在
 
 ### 行为治疗机构地图
 
-这份由美国物质滥用与精神卫生管理局（Substance Abuse and Mental Health Services Administration，SAMHSA）的在线资源能帮助你找到就近的精卫治疗机构和治疗项目。在[网页](https://findtreatment.samhsa.gov/)中，只需输入所在州，即可找到州内的治疗机构。想要获取更多资源，请前往 [NIMH 精神障碍求助专页](https://www.nimh.nih.gov/health/find-help)
+这份由美国物质滥用与精神卫生管理局（Substance Abuse and Mental Health Services Administration，SAMHSA）提供的在线资源能帮助你找到就近的精卫治疗机构和治疗项目。在[网页](https://findtreatment.samhsa.gov/)中，只需输入所在州，即可找到州内的治疗机构。想要获取更多资源，请前往 [NIMH 精神障碍求助专页](https://www.nimh.nih.gov/health/find-help)。
 
 ### 如何「优雅地」完成一次精神科门诊
 
