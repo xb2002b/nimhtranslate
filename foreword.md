@@ -39,6 +39,7 @@ Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/poli
 | 7 | 2025/1 | [注意力缺陷多动障碍](/articles/ADHD.md) |
 | 8 | 2025/2 | [自闭症谱系障碍](/articles/ASD.md) |
 | 9 | 2025/3 | [广泛性焦虑障碍](/articles/GAD.md) |
+| 10 | 2025/3 | [惊恐障碍](/articles/PanicDisorder.md) |
 
 各篇目的翻译和校对请前往 GitHub 仓库的历史记录查看。
 
