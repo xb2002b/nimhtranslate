@@ -1,10 +1,6 @@
 # 【中翻】边缘型人格障碍-美国精卫中心
 
-[原文](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder)最后更新于：2024年4月；翻译于2024年9月
-
-本篇翻译：[xb2002b](https://github.com/xb2002b)；审校：[Neubulaeko](https://github.com/Neubulaeko)、[MrZ](https://github.com/MrZ626)
-
----
+本文翻译自 NIMH 网站上的 [Borderline Personality Disorder](https://www.nimh.nih.gov/health/publications/borderline-personality-disorder) 篇目，基于其2024年4月更新的版本。
 
 ## 什么是边缘型人格障碍
 
@@ -33,7 +29,7 @@
 
 边缘型人格障碍患者比一般人有更高的自伤与自杀率。
 
-> **如果您身边的人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。**
+> **如果您或身边的人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](./appendix.md#危机干预与报警)**
 
 ## 边缘型人格障碍的病因
 
@@ -70,7 +66,7 @@
 
 ### 药物治疗
 
-> 参见：[典型精神卫生药物](/completed/MHM.md)
+> 参见：[典型精神卫生药物](/articles/Medications.md)
 
 精神药物对边缘型人格障碍的药效尚不明确，因此药物通常不是治疗该疾病的主要手段。有时精神科医生可能会推荐使用一些药物，以此治疗某种特定的症状，或是同时罹患的其他精神疾病，如情绪波动或焦虑。对于药物治疗，患者可能需要多个医疗机构的协调护理。
 

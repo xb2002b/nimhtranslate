@@ -1,8 +1,6 @@
 # 【中翻】物理治疗-美国精卫中心
 
-[原文](https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies)最后更新于：2024年3月；翻译于2024年12月
-
-本篇翻译：[xb2002b](https://github.com/xb2002b)；校对：[MrZ](https://github.com/MrZ626)
+本文翻译自 NIMH 网站上的 [Brain Stimulation Therapy](https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies) 篇目，基于其2024年3月更新的版本。
 
 ## 什么是物理治疗
 
@@ -29,14 +27,14 @@ NIMH 制作了一部视频，概括介绍了物理治疗及其治疗精神障碍
 
 ## 物理治疗的原理
 
-多数情况下，物理疗法仅在其他疗法不奏效的情况下使用。和[心理治疗](./completed/PT.md)与[药物治疗](./completed/MHM.md)相比，医生不太经常使用物理疗法，但若上述两种疗法不奏效，物理治疗有时能够缓解特定精神障碍的患者的症状。
+多数情况下，物理疗法仅在其他疗法不奏效的情况下使用。和[心理治疗](./articles/Psychotherapies.md)与[药物治疗](./articles/Medications.md)相比，医生不太经常使用物理疗法，但若上述两种疗法不奏效，物理治疗有时能够缓解特定精神障碍的患者的症状。
 
 物理治疗必须由执业精神科医生开具并执行。熟练的医疗团队可为患者执行物理治疗。大多数物理治疗需要麻醉患者，并注射肌肉舒张剂来防止其移动。该过程需要麻醉师监控患者的呼吸、心率和血压。
 
 涉及物理治疗的治疗方案需要基于患者实际需要和健康状况。这里的治疗方案通常同时包括心理治疗和/或药物治疗。医生大多建议患者在物理治疗的疗程中与结束后，继续其原有的其他治疗手段。患者不应在没有医生要求的前提下，擅自停止治疗。
 
 > 物理治疗用于应对重性精神障碍。这些疗法通常适用于情况危急的患者，比如失去对外界的感知或伤害自己。  
-> **如果您身边的人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。**
+> **如果您或身边的人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](./appendix.md#危机干预与报警)**
 
 ### 获批疗法
 
@@ -98,7 +96,7 @@ ECT 的不同治疗方式会影响记忆丧失的程度，包括电极的位置�
 
 ## 经颅磁疗法 （rTMS）
 
-经颅磁疗法（Repetitive transcranial magnetic stimulation，rTMS）是一种非侵入式物理疗法，利用电磁线圈（即电磁铁——译者注）产生的低频脉冲刺激脑部。仪器产生的磁场强度与核磁共振的相当。通过迅速开启与关闭磁场，可以产生刺激脑部神经元与神经回路的弱电流。
+经颅磁疗法（Repetitive transcranial magnetic stimulation，rTMS）是一种非侵入式物理疗法，利用电磁线圈（`即电磁铁——译者注`）产生的低频脉冲刺激脑部。仪器产生的磁场强度与核磁共振的相当。通过迅速开启与关闭磁场，可以产生刺激脑部神经元与神经回路的弱电流。
 
 ### rTMS 的适应症
 
@@ -263,7 +261,7 @@ DBS 起初用于治疗震颤和帕金森病在内的[运动障碍](https://www.n
 
 此后，美国食药监局根据人道主义设备豁免原则（Humanitarian Device Exemption，一项医疗政策，针对只在相对少数患者中出现的罕见疾病或症状，旨在收集用于证明疗效的证据）。然而，医学界仍需针对这种疗法进行研究，以提升其效果。尽管一篇[系统综述](https://pubmed.ncbi.nlm.nih.gov/36127157/)指出，DBS 能够缓解强迫症的症状，[其他综述](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7815503/)呼吁学界在得出其疗效相关的结论前，收集更多肯定的证据。
 
-相似的，DBS 在2022年被纳入联邦食药监局的[「突破性治疗仪器认定程序」](https://www.prnewswire.com/news-releases/abbott-receives-fdas-breakthrough-device-designation-to-explore-use-of-deep-brain-stimulation-to-manage-severe-depression-301584792.html)（Breakthrough Device designation，相关信息见[「VNS 的适应症」](#vns-的适应症)章节——译者注），用于探究其治疗顽固性抑郁症的功效。一项[系统评价与荟萃分析](https://pubmed.ncbi.nlm.nih.gov/29697875/)标明，DBS 在治疗抑郁症方面有可观的疗效。然而，在更高质量的研究证明其功效之前，DBS 治疗抑郁症只是一项试验性的疗法。
+相似的，DBS 在2022年被纳入联邦食药监局的[「突破性治疗仪器认定程序」](https://www.prnewswire.com/news-releases/abbott-receives-fdas-breakthrough-device-designation-to-explore-use-of-deep-brain-stimulation-to-manage-severe-depression-301584792.html)（`Breakthrough Device designation，相关信息见章节`[「VNS 的适应症」](#vns-的适应症)`——译者注`），用于探究其治疗顽固性抑郁症的功效。一项[系统评价与荟萃分析](https://pubmed.ncbi.nlm.nih.gov/29697875/)标明，DBS 在治疗抑郁症方面有可观的疗效。然而，在更高质量的研究证明其功效之前，DBS 治疗抑郁症只是一项试验性的疗法。
 
 ### DBS 的副作用
 
@@ -311,7 +309,7 @@ NIMH 在内的全美研究员负责针对精神障碍患者与健康人士展开
 
 ## 更多信息
 
-若未注明，以下资源均为英文。
+若无另外说明，以下资源均为英文。
 
 ### 联邦资源
 
