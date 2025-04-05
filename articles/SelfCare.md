@@ -1,4 +1,4 @@
-# 【中翻】关心你的精神健康：精卫保健与就医综述-美国精卫中心
+# 【中翻】精卫保健与就医综述：关心你的精神健康-美国精卫中心
 
 本文翻译自 NIMH 网站上的 [Caring for Your Mental Health](https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health) 篇目，基于其2024年12月更新的版本。
 
