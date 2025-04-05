@@ -56,7 +56,7 @@ NIMH 网站同时登载了[更多寻求帮助的方式](https://www.nimh.nih.gov
 
 > 以下外部链接来自美国政府其他和精神卫生相关的职能部门，其简介使用了机翻并加一初步人工审核。
 
-- [NIH 健康工具包](https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits)：NIH 提供了一份实用工具包，其中包含改善情绪健康和社会功能的策略。
-- [MedlinePlus：如何改善心理健康](https://medlineplus.gov/howtoimprovementalhealth.html)：MedlinePlus 提供了一系列改善心理健康的健康信息和技巧。
-- [CDC：情绪健康](https://www.cdc.gov/emotional-wellbeing/index.htm)：美国疾控中心提供了一些有关如何应对压力和促进社会联系的信息。
-- [SAMHSA](https://www.samhsa.gov/find-support/how-to-cope)：如何应对：SAMHSA 提供有关如何照顾您的健康和与他人联系以获得支持的技巧。
+- [NIH 健康工具包](https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits)：美国联邦卫生研究院提供了一份实用工具包，其中包含改善情绪健康和社会功能的策略。
+- [MedlinePlus：如何改善心理健康](https://medlineplus.gov/howtoimprovementalhealth.html)：MedlinePlus 提供了一系列改善心理健康的信息和技巧。
+- [CDC：情绪健康](https://www.cdc.gov/emotional-wellbeing/index.htm)：美国疾控中心提供了一些有关如何应对压力、恢复社交功能的技巧。
+- [SAMHSA](https://www.samhsa.gov/find-support/how-to-cope)：如何应对：美国联邦物质滥用与精卫服务管理局提供了一些照顾您的健康、与他人联系以获得支持的技巧。
