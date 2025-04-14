@@ -2,6 +2,8 @@
 
 本文翻译自 NIMH 网站上的 [Caring for Your Mental Health](https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness) 篇目，基于其2022年更新的版本。
 
+本文预计阅读时间5分钟。
+
 你是否害怕他人的评价？你是否无时无刻不在担心你在社交圈中的位置？你是否因为恐惧和焦虑，不敢交新朋友？如果你最近六个月以来饱受以上状况的困扰，甚至因此难以完成工作、学习上必要的交流，你有可能患上了社交焦虑障碍。
 
 ## 什么是社交焦虑障碍

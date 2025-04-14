@@ -2,6 +2,8 @@
 
 本文翻译自 NIMH 网站上的 [Generalized Anxiety Disorder](https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad) 篇目，基于其2022年更新的版本。
 
+本文预计阅读时间5分钟。
+
 你是否发现自己经常为一些平常的小事而担忧？你是否过度期待灾难的降临，或是担忧自己的健康、经济、家庭、工作或生活？
 
 如果确实如此，你可能患有一种被称为「广泛性焦虑障碍」（generalized anxiety disorder, GAD）的焦虑障碍。GAD 会让你的日常生活充满担忧、害怕和惊恐。好消息是，GAD 并非无法治愈，本文将带你了解 GAD 的症状，以及身为 GAD 患者，寻求帮助的方式。
@@ -129,4 +131,4 @@ NIMH 支持临床试验在内的一系列研究。临床试验是一系列旨在
 
 与精神科医生良好的沟通是正确治疗和康复的前提。你可以在 NIMH 的[这篇文章](https://nimh.nih.gov/talkingtips)中了解与精神科医生商谈的恰当方式。若想了解更多问题，例如可向医生提出的常见问题，请访问医疗保健研究与质量局（Agency for Healthcare Research and Quality，ARHQ）的[这个网站]。
 
-> **如果您或身边人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](../appendix.md#危机干预与报警)**
+> **如果您或身边人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](../appendix.md#危机干预与报警)**。

@@ -2,6 +2,8 @@
 
 本文翻译自 NIMH 网站上的 [Autism Spectrum Disorder](https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder) 篇目，基于其2022年更新的版本。
 
+本文预计阅读时间6分钟。
+
 ## 什么是自闭症谱系障碍
 
 自闭症谱系障碍（Autism Spectrum Disorder，缩写为**ASD**，中文常简称为**自闭症**）是一种影响患者和他人互动与沟通、学习与日常生活的神经发育障碍。虽然任何年龄的患者都可能被诊断为自闭症，但作为一种「发育障碍」，其症状通常首次出现在两岁之前。

@@ -2,6 +2,8 @@
 
 本文翻译自 NIMH 网站上的 [Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) 篇目，基于其2024年2月更新的版本。
 
+本文预计阅读时间6分钟。
+
 ## 什么是心理治疗
 
 心理治疗（psychotherapy，也称谈话治疗，talk therapy）指通过一系列治疗来帮助个体认识并改变困惑的情绪、思想和行为。多数心理治疗是与执业精卫专家一对一地谈话，也有些心理治疗以团体为单位展开。

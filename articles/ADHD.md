@@ -2,6 +2,8 @@
 
 本文翻译自 NIMH 网站上的 [Attention-Deficit/Hyperactivity Disorder: What You Need to Know](https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know) 篇目，基于其2024年更新的版本。
 
+本文预计阅读时间8分钟。
+
 ## 什么是 ADHD
 
 注意力缺陷多动障碍（Attention Deficit/Hyperactivity Disorder，下文取其首字母简称 **ADHD**）是一种发育性精神障碍，患者通常表现出持续的注意力不集中、多动与冲动。

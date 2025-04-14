@@ -2,6 +2,8 @@
 
 本文翻译自 NIMH 网站上的 [Caring for Your Mental Health](https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health) 篇目，基于其2024年12月更新的版本。
 
+本文预计阅读时间3分钟。
+
 ## 综述
 
 精神健康（也称精神卫生，后者常被缩写为「精卫」，英文：Mental Health）包括情绪稳定、心理健康和社会功能的健全，「没有精神病」的人并不一定处于精神健康的状态。精神健康是健康生活不可或缺的一环，良好的精神面貌是积极生活的基础。精神障碍患者可通过日常留心自己的精神健康，达到提高疗效，早日康复的目的。
@@ -50,7 +52,7 @@
 
 NIMH 网站同时登载了[更多寻求帮助的方式](https://www.nimh.nih.gov/health/find-help)。SAMHSA（美国药物滥用和精神健康服务管理局）另外提供了[寻求支援指南](https://www.samhsa.gov/find-support)和寻找就近精卫中心的[小工具](https://findtreatment.samhsa.gov/)
 
-> **如果您或身边人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](../appendix.md#危机干预与报警)**
+> **如果您或身边人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](../appendix.md#危机干预与报警)**。
 
 ## 外部链接
 
