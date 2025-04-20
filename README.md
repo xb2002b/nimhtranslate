@@ -21,4 +21,5 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 | 10 | 2025/3 | [惊恐障碍](/articles/PanicDisorder.md) |
 | 11 | 2025/4 | [精卫保健](/articles/SelfCare.md) |
 | 12 | 2025/4 | [社交焦虑障碍](/articles/SAD.md) |
+| 13 | 2025/4 | [创伤后应激障碍（PTSD）](/articles/PTSD.md) |
 | / | / | [附录](/appendix.md) |
