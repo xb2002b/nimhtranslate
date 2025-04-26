@@ -4,9 +4,9 @@
 
 **免责声明：项目内的文章不能代替专业医疗意见，有问题请找专科医生就诊，详见[前言](/foreword.md#阅读前须知)。**
 
-A Simplified Chinese translation of Public Passages on National Institute of Mental Health [NIMH](https://www.nimh.nih.gov).
+A Simplified Chinese translation of Public Passages on National Institute of Mental Health ([NIMH](https://www.nimh.nih.gov)).
 
-**Disclaimer: Passages in the Project could not substitute formal medical advice, consult professional doctors if you have any problems. See[foreword.md](/foreword.md#阅读前须知)**
+**Disclaimer: Passages in the Project could not substitute formal medical advice, consult professional doctors if you have any problems. See [foreword.md](/foreword.md#阅读前须知) for details.**
 
 ## 篇目列表
 
