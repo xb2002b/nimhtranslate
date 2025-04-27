@@ -2,6 +2,8 @@
 
 本文翻译自 NIMH 网站上的 [Coping with Traumatic Events](https://www.nimh.nih.gov/health/topics/coping-with-traumatic-events) 篇目，基于其2024年5月更新的版本。
 
+本文预计阅读时间3分钟。
+
 ## 人们对创伤事件的反应
 
 创伤事件让人感到惊吓、恐惧、没有安全感，影响人们的身心健康。创伤事件可以是自然灾害（海啸、地震、洪灾等），也可以是暴力事件（言行骚扰、虐待、恐怖袭击、大规模枪杀等）。
