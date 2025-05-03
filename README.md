@@ -12,7 +12,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 | 序号 | 翻译时间 | 篇目 | 分类 |
 |------|--------|-------------|-----------|
-| 0 | / | [前言](/foreword.md) |/|
+| 0 | / | [前言](/foreword.md) | / |
 | 1 | 2024/9 | [边缘型人格障碍](/articles/BPD.md) | **精神障碍类** - 人格障碍 |
 | 2 | 2024/12 | [双相障碍](/articles/BD.md) | **精神障碍类** - 心境障碍 |
 | 3 | 2025/1 | [青少年双相障碍](/articles/BD-Teens.md) | **精神障碍类** - 心境障碍 |
@@ -27,4 +27,4 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 | 12 | 2024/12 | [物理治疗](/articles/BST.md) | **干预措施类** |
 | 13 | 2025/4 | [精卫保健](/articles/SelfCare.md) | **健康促进类** |
 | 14 | 2025/4 | [创伤事件](/articles/TraumaticEvents.md) | **健康促进类** |
-| / | / | [附录](/appendix.md) | |
+| / | / | [附录](/appendix.md) | / |

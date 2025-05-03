@@ -8,7 +8,7 @@
 
 自闭症谱系障碍（Autism Spectrum Disorder，缩写为**ASD**，中文常简称为**自闭症**）是一种影响患者和他人互动与沟通、学习与日常生活的神经发育障碍。虽然任何年龄的患者都可能被诊断为自闭症，但作为一种「发育障碍」，其症状通常首次出现在两岁之前。
 
-第五版精神疾病诊断与统计手册（Diagnostic and Statistical Manual of Mental Disorders-V，下文简称**DSM-5**）是由美国精神卫生协会（American Psychiatric Association）制定，为全美乃至全球精神卫生从业人员提供的诊断指南。根据 DSM-5，自闭症谱系障碍具有以下症状：
+第五版精神障碍诊断与统计手册（Diagnostic and Statistical Manual of Mental Disorders-V，下文简称**DSM-5**）是由美国精神卫生协会（American Psychiatric Association）制定，为全美乃至全球精神卫生从业人员提供的诊断指南。根据 DSM-5，自闭症谱系障碍具有以下症状：
 
 - 难以与他人互动交流
 - 狭窄的兴趣面和重复的行为
