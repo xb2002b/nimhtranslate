@@ -130,6 +130,12 @@
 
 ### 物理治疗
 
+物理治疗（NIMH 称作脑刺激治疗（Brain Stimulation Therapy））可用于治疗那些其他治疗方式不甚奏效的抑郁障碍。物理治疗使用电流或电磁波，通过刺激或抑制脑部部分区域，达到治疗的效果。
+
+尽管相比于心理治疗与药物治疗，物理治疗在临床上更少见，但对那些在采用一般治疗方式后，症状仍不见好转的抑郁障碍患者而言，物理治疗不失为一种有效的治疗手段。患者大都不会在未进行心理与药物治疗的情况下被给予物理治疗，且在物理治疗的疗程中，上述原有的治疗通常会继续。但在抑郁障碍影响生命的严重情况下，如患者拒绝进食或身处自杀风险时，医生有时可能会忽略上述一般性规则，直接对患者开具物理治疗的处方。
+
+FDA 批准了若干种物理治疗方式，其中最常用的是电休克疗法（Electroconvulsive Therapy，ECT）与经颅磁疗法（Repetitive Transcranial magnetic Stimulation，rTMS）。其他更新的物理治疗方式尚处于初步临床试验阶段，我们翻译了 NIMH 的有关物理治疗的介绍，你可以在[这里](https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies)查看。
+
 ## 抑郁患者的自我日常护理
 
 ## 寻求帮助
