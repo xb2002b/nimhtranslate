@@ -2,6 +2,8 @@
 
 本文翻译自 NIMH 网站上的 [Seasonal Affective Disorder](https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder) 篇目，基于其2023年更新的版本。
 
+本文预计阅读时间8分钟。
+
 ## 什么是季节性情感障碍
 
 许多人都有过心情低落、表现失常的时候。有时，这种情绪的波动随着季节的变化而开始与结束。在秋冬季节，许多人因为白天逐渐变短，感到消沉、低落，但到来年春天，这种压抑的心境就会随着白天逐渐变长而消散。
