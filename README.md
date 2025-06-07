@@ -24,6 +24,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 | AX-02 | 2025/3 | [惊恐障碍](/articles/PanicDisorder.md) | **精神障碍类** - 焦虑障碍 |
 | AX-03 | 2025/4 | [社交焦虑障碍](/articles/SAD.md) | **精神障碍类** - 焦虑障碍 |
 | TD-01 | 2025/4 | [创伤后应激障碍（PTSD）](/articles/PTSD.md) | **精神障碍类** - 创伤相关障碍 |
+| SZ-01 | 2025/6 | [精神病性症状](/articles/Psychosis.md) | **精神障碍类** - 精神分裂及相关症状 |
 | T-01 | 2024/10 | [典型精神卫生药物](/articles/Medications.md) | **干预措施类** |
 | T-02 | 2024/11 | [心理治疗](/articles/Psychotherapies.md) | **干预措施类** |
 | T-03 | 2024/12 | [物理治疗](/articles/BST.md) | **干预措施类** |
