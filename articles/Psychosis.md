@@ -2,7 +2,7 @@
 
 本文翻译自 NIMH 网站上的 [Understanding Psychosis](https://www.nimh.nih.gov/health/publications/understanding-psychosis) 篇目，基于其2023年更新的版本。
 
-本文预计阅读时间 5 分钟
+本文预计阅读时间5分钟。
 
 ## 什么是精神病性症状
 
