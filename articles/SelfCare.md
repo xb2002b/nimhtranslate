@@ -48,7 +48,7 @@
 
 > 若无另外说明，以下链接均为英文，适用于美国居民。
 
-如果你对自身的精神健康状况有任何疑虑，请在就近医院或诊所的门诊医生就诊，他们会将你介绍给执业的精卫医生，包括心理科和精神科的医生，或临床社工。这些执业医生会告诉你接下来的治疗方式。NIMH 撰写了有关如何在精神科就诊的[文章](https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider)。
+如果你对自身的精神健康状况有任何疑虑，请在就近医院或诊所的门诊医生就诊，他们会将你介绍给执业的精卫医生，包括心理科和精神科的医生，或[临床社会工作者](../appendix.md#临床社会工作者)。这些执业医生会告诉你接下来的治疗方式。NIMH 撰写了有关如何在精神科就诊的[文章](https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider)。
 
 NIMH 网站同时登载了[更多寻求帮助的方式](https://www.nimh.nih.gov/health/find-help)。SAMHSA（美国药物滥用和精神健康服务管理局）另外提供了[寻求支援指南](https://www.samhsa.gov/find-support)和寻找就近精卫中心的[小工具](https://findtreatment.samhsa.gov/)
 

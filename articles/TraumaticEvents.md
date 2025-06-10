@@ -68,7 +68,7 @@
 
 ## 寻求帮助
 
-如果你担心你的精神健康状况，有必要向医生告诉你的顾虑。他们会将你介绍给执业的精神卫生从业人员，比如心理科与精神科的医生，或是临床社工。NIMH 撰写了一篇有关如何与医生交流的[文章（英文）](https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider)。
+如果你担心你的精神健康状况，有必要向医生告诉你的顾虑。他们会将你介绍给执业的精神卫生从业人员，比如心理科与精神科的医生，或是[临床社会工作者](../appendix.md#临床社会工作者)。NIMH 撰写了一篇有关如何与医生交流的[文章（英文）](https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider)。
 
 NIMH 网站同时登载了[更多寻求帮助的方式](https://www.nimh.nih.gov/health/find-help)。SAMHSA（美国药物滥用和精神健康服务管理局）另外提供了[寻求支援指南](https://www.samhsa.gov/find-support)和寻找就近精卫中心的[小工具](https://findtreatment.samhsa.gov/)
 
