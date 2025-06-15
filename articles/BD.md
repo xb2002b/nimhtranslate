@@ -125,7 +125,7 @@ NIMH 支持一系列研究，包括那些为预防、检测、治疗精神障碍
 
 如果你居住在美国，这份由美国物质滥用与精神卫生管理局（Substance Abuse and Mental Health Services Administration，SAMHSA）提供的在线资源能帮助你找到就近的精神卫生中心和治疗项目。登录 SAMHSA 的[这个网站](https://findtreatment.samhsa.gov/)后，只需输入你所在的城市或州名、邮政编码，就可找到区域内的精神卫生治疗机构。想要获得更多信息，请参阅这篇 [NIMH 的就医指南](https://www.nimh.nih.gov/health/find-help)
 
-> **如果您或身边的人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](../appendix.md#危机干预与报警)**。
+> **如果您或身边的人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](../appendix.md#危机干预与报警)。**
 
 ### 与医生谈论你的精神健康状态
 

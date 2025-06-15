@@ -132,7 +132,7 @@ NIMH 撰写了一篇如何在美国寻求精神科医疗援助的文章（英文
 
 美国物质滥用与精神卫生管理局（Substance Abuse and Mental Health Services Administration，SAMHSA）提供了寻找就近治疗机构的[工具](https://findtreatment.gov/)。关于其他寻求帮助的方式，请阅读 NIMH 的[这篇文章（英文）](https://www.nimh.nih.gov/health/find-help)。
 
-> **如果您或身边人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](../appendix.md#危机干预与报警)**。
+> **如果您或身边人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](../appendix.md#危机干预与报警)。**
 
 ## 针对 PTSD 的自助康复指南
 

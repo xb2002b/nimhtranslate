@@ -52,7 +52,7 @@
 
 NIMH 网站同时登载了[更多寻求帮助的方式](https://www.nimh.nih.gov/health/find-help)。SAMHSA（美国药物滥用和精神健康服务管理局）另外提供了[寻求支援指南](https://www.samhsa.gov/find-support)和寻找就近精卫中心的[小工具](https://findtreatment.samhsa.gov/)
 
-> **如果您或身边人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](../appendix.md#危机干预与报警)**。
+> **如果您或身边人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](../appendix.md#危机干预与报警)。**
 
 ## 外部链接
 
