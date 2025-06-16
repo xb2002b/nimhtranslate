@@ -2,7 +2,7 @@
 
 本文翻译自 NIMH 网站上的 [Schizophrenia](https://www.nimh.nih.gov/health/publications/schizophrenia) 篇目，基于其2024年更新的版本。
 
-<!-- 本文预计阅读时间x分钟。-->
+本文预计阅读时间6分钟。
 
 ## 什么是精神分裂症
 
