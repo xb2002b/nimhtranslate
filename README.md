@@ -18,7 +18,6 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 | [创伤后应激障碍（PTSD）] | [创伤事件] | [精神病性症状] | [精神分裂症] |
 | [典型精神卫生药物] | [心理治疗] | [物理治疗] | [精卫保健] |
 
-
 [前言]:/foreword.md
 [边缘型人格障碍]:/articles/BPD.md
 [双相障碍]:/articles/BD.md
