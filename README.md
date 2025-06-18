@@ -10,25 +10,32 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 ## 篇目列表
 
-| 序号 | 翻译时间 | 篇目 | 分类 |
-|------|--------|-------------|-----------|
-| / | / | [前言](/foreword.md) | / |
-| PD-01 | 2024/9 | [边缘型人格障碍](/articles/BPD.md) | **精神障碍类** - 人格障碍 |
-| AD-01 | 2024/12 | [双相障碍](/articles/BD.md) | **精神障碍类** - 心境障碍 |
-| AD-02 | 2025/1 | [青少年双相障碍](/articles/BD-Teens.md) | **精神障碍类** - 心境障碍 |
-| AD-03 | 2025/5 | [抑郁障碍](/articles/Depression.md) | **精神障碍类** - 心境障碍 |
-| AD-04 | 2025/5 | [季节性心境障碍](/articles/SeasonalAD.md) | **精神障碍类** - 心境障碍 |
-| ND-01 | 2025/1 | [注意力缺陷多动障碍](/articles/ADHD.md) | **精神障碍类** - 神经发育障碍 |
-| ND-02 | 2025/2 | [自闭症谱系障碍](/articles/ASD.md) | **精神障碍类** - 神经发育障碍 |
-| AX-01 | 2025/3 | [广泛性焦虑障碍](/articles/GAD.md) | **精神障碍类** - 焦虑障碍 |
-| AX-02 | 2025/3 | [惊恐障碍](/articles/PanicDisorder.md) | **精神障碍类** - 焦虑障碍 |
-| AX-03 | 2025/4 | [社交焦虑障碍](/articles/SAD.md) | **精神障碍类** - 焦虑障碍 |
-| TD-01 | 2025/4 | [创伤后应激障碍（PTSD）](/articles/PTSD.md) | **精神障碍类** - 创伤及相关障碍 |
-| TD-02 | 2025/4 | [创伤事件](/articles/TraumaticEvents.md) | **精神障碍类** - 创伤及相关障碍 |
-| SZ-01 | 2025/6 | [精神病性症状](/articles/Psychosis.md) | **精神障碍类** - 精神分裂及相关症状 |
-| SZ-02 | 2025/6 | [精神分裂症](/articles/Schizophrenia.md) | **精神障碍类** - 精神分裂及相关症状 |
-| T-01 | 2024/10 | [典型精神卫生药物](/articles/Medications.md) | **干预措施类** |
-| T-02 | 2024/11 | [心理治疗](/articles/Psychotherapies.md) | **干预措施类** |
-| T-03 | 2024/12 | [物理治疗](/articles/BST.md) | **干预措施类** |
-| E-01 | 2025/4 | [精卫保健](/articles/SelfCare.md) | **健康促进类** |
-| / | / | [附录](/appendix.md) | / |
+| [前言] |  |  |[附录] |
+|---|---|---|---|
+| [边缘型人格障碍] | [双相障碍] | [青少年双相障碍] | [抑郁障碍] |
+| [季节性心境障碍] | [注意力缺陷多动障碍（ADHD）] | [自闭症谱系障碍] |  |
+| [广泛性焦虑障碍] | [惊恐障碍] | [社交焦虑障碍] |  |
+| [创伤后应激障碍（PTSD）] | [创伤事件] | [精神病性症状] | [精神分裂症] |
+| [典型精神卫生药物] | [心理治疗] | [物理治疗] | [精卫保健] |
+
+
+[前言]:/foreword.md
+[边缘型人格障碍]:/articles/BPD.md
+[双相障碍]:/articles/BD.md
+[青少年双相障碍]:/articles/BD-Teens.md
+[抑郁障碍]:/articles/Depression.md
+[季节性心境障碍]:/articles/SeasonalAD.md
+[注意力缺陷多动障碍（ADHD）]:/articles/ADHD.md
+[自闭症谱系障碍]:/articles/ASD.md
+[广泛性焦虑障碍]:/articles/GAD.md
+[惊恐障碍]:/articles/PanicDisorder.md
+[社交焦虑障碍]:/articles/SAD.md
+[创伤后应激障碍（PTSD）]:/articles/PTSD.md
+[创伤事件]:/articles/TraumaticEvents.md
+[精神病性症状]:/articles/Psychosis.md
+[精神分裂症]:/articles/Schizophrenia.md
+[典型精神卫生药物]:/articles/Medications.md
+[心理治疗]:/articles/Psychotherapies.md
+[物理治疗]:/articles/BST.md
+[精卫保健]:/articles/SelfCare.md
+[附录]:/appendix.md
