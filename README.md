@@ -8,33 +8,34 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 **Disclaimer: Passages in the Project could not substitute formal medical advice, consult professional doctors if you have any problems. See [foreword.md](/foreword.md#阅读前须知) for details.**
 
-## 篇目列表
+## 食用方式
 
-| [前言] |  |  |[附录] |
-|---|---|---|---|
-| [边缘型人格障碍] | [双相障碍] | [青少年双相障碍] | [抑郁障碍] |
-| [季节性心境障碍] | [注意力缺陷多动障碍（ADHD）] | [自闭症谱系障碍] |  |
-| [广泛性焦虑障碍] | [惊恐障碍] | [社交焦虑障碍] |  |
-| [创伤后应激障碍（PTSD）] | [创伤事件] | [精神病性症状] | [精神分裂症] |
-| [典型精神卫生药物] | [心理治疗] | [物理治疗] | [精卫保健] |
+a. 在下方的篇目列表中，选择你想要了解的内容，直接开始阅读（最方便）。
+b. 前往右边的 Release 页面，下载每月更新的 HTML 离线版本。
+c. 直接通过文件列表上方的绿色 code 按钮，下载源代码的 zip 压缩包（需要配合 Markdown 阅读器）。
+
+> *没有链接说明对应的篇目还没翻译，别急*
+
+| [前言] | [附录] |
+|---|---|
+| [精神病性症状]（新）| [季节性心境障碍]（新）|
+| [广泛性焦虑障碍] | [ADHD] |
+| [自闭症谱系障碍] | [双相障碍] |
+| [边缘型人格障碍] | [抑郁障碍] |
+| 强迫型人格障碍 | 进食障碍 |
+| [创伤后应激障碍] | [精神分裂症] |
+| 自杀干预 | [...更多] |
 
 [前言]:/foreword.md
+[广泛性焦虑障碍]:/articles/GAD.md
+[精神病性症状]:/articles/Psychosis.md
 [边缘型人格障碍]:/articles/BPD.md
 [双相障碍]:/articles/BD.md
-[青少年双相障碍]:/articles/BD-Teens.md
-[抑郁障碍]:/articles/Depression.md
 [季节性心境障碍]:/articles/SeasonalAD.md
-[注意力缺陷多动障碍（ADHD）]:/articles/ADHD.md
+[抑郁障碍]:/articles/Depression.md
+[ADHD]:/articles/ADHD.md
 [自闭症谱系障碍]:/articles/ASD.md
-[广泛性焦虑障碍]:/articles/GAD.md
-[惊恐障碍]:/articles/PanicDisorder.md
-[社交焦虑障碍]:/articles/SAD.md
-[创伤后应激障碍（PTSD）]:/articles/PTSD.md
-[创伤事件]:/articles/TraumaticEvents.md
-[精神病性症状]:/articles/Psychosis.md
+[创伤后应激障碍]:/articles/PTSD.md
 [精神分裂症]:/articles/Schizophrenia.md
-[典型精神卫生药物]:/articles/Medications.md
-[心理治疗]:/articles/Psychotherapies.md
-[物理治疗]:/articles/BST.md
-[精卫保健]:/articles/SelfCare.md
 [附录]:/appendix.md
+[...更多]:/articlelist.md
