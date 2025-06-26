@@ -12,7 +12,7 @@ NIMH 制作了一部视频，概括介绍了物理治疗及其治疗精神障碍
 
 本文将讲述物理治疗的基本信息，并不包含所有形式的物理治疗，也不可能详细介绍所有适用物理治疗的精神障碍。相关机构正在研究这些疗法的适用症，检验这些疗法是否适用于其他精神障碍或病症。
 
-本文将分两类介绍这些物理疗法：经过美国食药监局（FDA）批准，适用于抑郁症、双相障碍、强迫症的疗法；以及新兴的，尚在临床试验阶段的疗法。
+本文将分两类介绍这些物理疗法：经过美国食药监局（FDA）批准，适用于抑郁症、双相障碍、强迫障碍的疗法；以及新兴的，尚在临床试验阶段的疗法。
 
 获批的疗法包括：
 
@@ -106,11 +106,11 @@ rTMS 是一种美国食药监局准许（cleared，下同）的物理疗法，�
 
 FDA 在2008年[批准](https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/repetitive-transcranial-magnetic-stimulation-rtms-systems-class-ii-special-controls-guidance)了首台 rTMS 治疗仪，用于在一个抑郁发作期内，使用一种以上抗抑郁药物却不起作用的患者。尽管 ECT 被视为治疗顽固性抑郁症的首选方案，有大量临床证据标明， rTMS 在应对抑郁症状方面也具有可观的疗效。 rTMS 现在被用于治疗中度到重度，且药物不起作用或不适用的抑郁症患者。
 
-2008年以后，FDA 准许 rTMS 治疗多种抑郁症，包括抑郁-焦虑共病和伴有自杀念头的抑郁症。2018年，rTMS 被[准许](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-transcranial-magnetic-stimulation-treatment-obsessive-compulsive-disorder)治疗严重的强迫症。
+2008年以后，FDA 准许 rTMS 治疗多种抑郁症，包括抑郁-焦虑共病和伴有自杀念头的抑郁症。2018年，rTMS 被[准许](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-transcranial-magnetic-stimulation-treatment-obsessive-compulsive-disorder)治疗严重的强迫障碍。
 
 近来，一种快速的 rTMS 被[准许](https://alert.psychnews.org/2022/09/fda-clears-novel-rapid-acting-tms.html)治疗顽固性抑郁症。相较于常规 rTMS，更快速的磁场变化在保证疗效的同时，缩短了一次治疗的时间。因此，患者得以在更短的时间内完成一个疗程并缓解症状。2024年3月，一种 rTMS 联合治疗15岁以上青少年抑郁症的方案也得到了联邦食药监局的准许。
 
-行业专家正在研究[更新的 rTMS 疗法](https://pubmed.ncbi.nlm.nih.gov/33834408/)，这种疗法将采用优化后的参数，用于治疗抑郁症、强迫症等精神障碍。
+行业专家正在研究[更新的 rTMS 疗法](https://pubmed.ncbi.nlm.nih.gov/33834408/)，这种疗法将采用优化后的参数，用于治疗抑郁症、强迫障碍等精神障碍。
 
 ### rTMS 的治疗过程
 
@@ -240,7 +240,7 @@ MST 发明于2001年，在精神卫生界正处于临床试验、调查的早期
 
 脑深部刺激疗法（Deep brain stimulation，DBS）是一项需需要外科手术的治疗方法，使用电流直接刺激脑部的特定区域。
 
-若其他治疗方法对患者不奏效，DBS 可用于治疗严重的强迫症或抑郁症。对于其他精神障碍，这种治疗方式仍处于临床试验阶段。
+若其他治疗方法对患者不奏效，DBS 可用于治疗严重的强迫障碍或抑郁障碍。对于其他精神障碍，这种治疗方式仍处于临床试验阶段。
 
 ### DBS 的治疗方式
 
@@ -261,7 +261,7 @@ DBS 通过向脑部特定区域发送电脉冲，达到治疗效果。这种治�
 
 DBS 起初用于治疗震颤和帕金森病在内的[运动障碍](https://www.ninds.nih.gov/health-information/disorders/deep-brain-stimulation-movement-disorders)。
 
-此后，美国食药监局根据人道主义设备豁免原则（Humanitarian Device Exemption，一项医疗政策，针对只在相对少数患者中出现的罕见疾病或症状，旨在收集用于证明疗效的证据）。然而，医学界仍需针对这种疗法进行研究，以提升其效果。尽管一篇[系统综述](https://pubmed.ncbi.nlm.nih.gov/36127157/)指出，DBS 能够缓解强迫症的症状，[其他综述](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7815503/)呼吁学界在得出其疗效相关的结论前，收集更多肯定的证据。
+此后，美国食药监局根据人道主义设备豁免原则（Humanitarian Device Exemption，一项医疗政策，针对只在相对少数患者中出现的罕见疾病或症状，旨在收集用于证明疗效的证据）。然而，医学界仍需针对这种疗法进行研究，以提升其效果。尽管一篇[系统综述](https://pubmed.ncbi.nlm.nih.gov/36127157/)指出，DBS 能够缓解强迫障碍的症状，[其他综述](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7815503/)呼吁学界在得出其疗效相关的结论前，收集更多肯定的证据。
 
 相似的，DBS 在2022年被纳入联邦食药监局的[「突破性治疗仪器认定程序」](https://www.prnewswire.com/news-releases/abbott-receives-fdas-breakthrough-device-designation-to-explore-use-of-deep-brain-stimulation-to-manage-severe-depression-301584792.html)（`Breakthrough Device designation，相关信息见章节`[「VNS 的适应症」](#vns-的适应症)`——译者注`），用于探究其治疗顽固性抑郁症的功效。一项[系统评价与荟萃分析](https://pubmed.ncbi.nlm.nih.gov/29697875/)标明，DBS 在治疗抑郁症方面有可观的疗效。然而，在更高质量的研究证明其功效之前，DBS 治疗抑郁症只是一项试验性的疗法。
 
