@@ -10,10 +10,11 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 ## 食用方式
 
-a. 在下方的篇目列表中，选择你想要了解的内容，直接开始阅读（最方便）。
-b. 前往右边的 Release 页面，下载每月更新的 HTML 离线版本。
-c. 直接通过文件列表上方的绿色 code 按钮，下载源代码的 zip 压缩包（需要配合 Markdown 阅读器）。
+- a. 在下方的篇目列表中，选择你想要了解的内容，直接开始阅读（最方便）。
+- b. 前往右边的 Release 页面，下载每月更新的 HTML 离线版本。
+- c. 直接通过文件列表上方的绿色 code 按钮，下载源代码的 zip 压缩包（需要配合 Markdown 阅读器）。
 
+> *首页仅列出部分热点主题的文章，查看所有文章请点击「更多...」链接。*
 > *没有链接说明对应的篇目还没翻译，别急*
 
 | [前言] | [附录] |
@@ -24,7 +25,11 @@ c. 直接通过文件列表上方的绿色 code 按钮，下载源代码的 zip 
 | [边缘型人格障碍] | [抑郁障碍] |
 | [强迫障碍] | 进食障碍 |
 | [创伤后应激障碍] | [精神分裂症]（新）|
-| 自杀干预 | [...更多] |
+| 自杀干预 | [更多...] |
+
+## 转载须知
+
+转载项目内文章请注明：文章由 NIMH 撰写，并由「雾之湖的喵精屋」翻译。详见[前言](/foreword.md#转载须知)中的「转载须知」章节。
 
 [前言]:/foreword.md
 [广泛性焦虑障碍]:/articles/GAD.md
@@ -39,4 +44,4 @@ c. 直接通过文件列表上方的绿色 code 按钮，下载源代码的 zip 
 [精神分裂症]:/articles/Schizophrenia.md
 [附录]:/appendix.md
 [强迫障碍]:/articles/OCD.md
-[...更多]:/articlelist.md
+[更多...]:/articlelist.md
