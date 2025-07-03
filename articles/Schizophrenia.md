@@ -110,11 +110,11 @@
 
 精神分裂症患者可能也存在酒精与药物滥用的问题，后者会进一步影响精神分裂症的治疗。因此，一套能够双管齐下，在治疗精神分裂症的同时，解决物质滥用问题的治疗方案对患者来说是很有必要的。
 
-## 寻求帮助
+## 寻求帮助（美国限定）
 
 如果你担心自身的精神健康状况，请与就近的医生联系，他们会将你推荐给执业的精神卫生从业人员，如精神科或心理科的医生，或是[临床社会工作者](../appendix.md#临床社会工作者)，他们会帮你制定下一步的治疗方案。你可以在 NIMH 网站上了解[如何与医生们交流你的精神健康状况](https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider)。
 
-你也可以在我们项目的[主页](../README.md)了解更多来自 NIMH 的精神卫生科普知识。如果你在美国，你还可以在 SAMHSA 网站上了解[寻求帮助](https://www.samhsa.gov/find-support)的途径、或是[了解你周边的精神卫生服务机构](https://findtreatment.samhsa.gov/)。
+你也可以在 NIMH 网站上了解如何[寻求帮助](https://www.nimh.nih.gov/health/find-help)。如果你在美国，你还可以在 SAMHSA 网站上了解[寻求帮助](https://www.samhsa.gov/find-support)的途径、或是[了解你周边的精神卫生服务机构](https://findtreatment.samhsa.gov/)。
 
 > **如果您或身边人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](../appendix.md#危机干预与报警)。**
 

@@ -2,13 +2,17 @@
 
 ## 阅读前须知
 
-**注意：译者及审校均无医学专业背景，译者 xb2002b 为英语专业本科毕业，可以保证翻译无较大错误，但不能保证其中内容100%正确。部分冗杂内容借助了谷歌机器翻译并加以初步审核，部分内容参考了 ChatGPT、DeepSeek 等人工智能的意见，部分代码性工作由 ChatGPT 代劳。**
+**注意：译者及审校均无医学专业背景，译者 xb2002b 为英语专业本科毕业，可以保证翻译无较大错误，但不能保证其中内容100%正确。部分冗杂内容借助了谷歌机器翻译并加以初步审核，部分内容参考了 ChatGPT、DeepSeek 等人工智能的意见，部分代码性工作由 ChatGPT 与 Copilot 代劳。**
 
 **文章不能取代医疗意见，如有任何疑惑请咨询精神专科医生。**
 
-**NOTE: The translating team are not trained or educated in medication. Translator xb2002b is a Bachelor in English Major, translations could be therefore guarded against major faults. However, we could not ensure the 100% accuracy of the translation. Some verbose contents are initially translated by Google Translator before manual revising. LLMs like ChatGPT and DeepSeek are used to provide advice and undertake coding works.**
+**为了更好地补充介绍新疗法等信息，部分文章啃能包含指向中英文网页的链接。链接所指内容不代表编者或 NIMH 的立场。我们无法保证这些内容的准确性，如有疑问请使用搜索引擎等工具核实。**
+
+**NOTE: The translating team are not trained or educated in medication. Translator xb2002b is a Bachelor in English Major, translations could be therefore guarded against major faults. However, we could not ensure the 100% accuracy of the translation. Some verbose contents are initially translated by Google Translator before manual revising. LLMs incl. (but not limited to) ChatGPT, DeepSeek and Copilot are used to provide advice and undertake coding works.**
 
 **These Passages could not substitute medical advice whatsoever, consultation with professional mental health is strongly recommended in case of concerns of any kind.**
+
+**To supplement the information (e.g. new treatments) in our articles, we may include external Chinese or English websites. The content of these links does not represent the views of our editing team or NIMH. We cannot guarantee the accuracy of the linked content. Verifications by using search engines are recommended.**
 
 ## 转载须知
 

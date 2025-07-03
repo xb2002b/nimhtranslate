@@ -19,7 +19,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 | [前言] | [附录] |
 |---|---|
-| [精神病性症状]（新）| [季节性心境障碍]（新）|
+| [精神病性症状]（新）| [恐惧及相关障碍]（新）|
 | [广泛性焦虑障碍] | [ADHD] |
 | [自闭症谱系障碍] | [双相障碍] |
 | [边缘型人格障碍] | [抑郁障碍] |
@@ -36,7 +36,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 [精神病性症状]:/articles/Psychosis.md
 [边缘型人格障碍]:/articles/BPD.md
 [双相障碍]:/articles/BD.md
-[季节性心境障碍]:/articles/SeasonalAD.md
+[惊恐及相关障碍]:/articles/Phobia.md
 [抑郁障碍]:/articles/Depression.md
 [ADHD]:/articles/ADHD.md
 [自闭症谱系障碍]:/articles/ASD.md
