@@ -11,11 +11,14 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 ## 食用方式
 
 - a. 在下方的篇目列表中，选择你想要了解的内容，直接开始阅读（最方便）。
-- b. 前往右边的 Release 页面，下载每月更新的 HTML 离线版本。
-- c. 直接通过文件列表上方的绿色 code 按钮，下载源代码的 zip 压缩包（需要配合 Markdown 阅读器）。
+- b. 直接通过文件列表上方的绿色 code 按钮，下载源代码的 zip 压缩包。
+  - 下载后的 .md 文件可以直接通过记事本等软件打开阅读，若想提升阅读体验可下载 [Markdown Viewer](https://github.com/simov/markdown-viewer)。
 
 > *首页仅列出部分热点主题的文章，查看所有文章请点击「更多...」链接。*
-> *没有链接说明对应的篇目还没翻译，别急*
+>
+> *没有链接说明对应的篇目还没翻译，别急（*
+>
+> **不推荐使用 release 中的 HTML 文档** ，因为**必定**会出现超链接失效的错误。
 
 | [前言] | [附录] |
 |---|---|

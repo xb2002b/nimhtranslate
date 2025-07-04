@@ -114,7 +114,7 @@
 
 如果你担心自身的精神健康状况，请与就近的医生联系，他们会将你推荐给执业的精神卫生从业人员，如精神科或心理科的医生，或是[临床社会工作者](../appendix.md#临床社会工作者)，他们会帮你制定下一步的治疗方案。你可以在 NIMH 网站上了解[如何与医生们交流你的精神健康状况](https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider)。
 
-你也可以在 NIMH 网站上了解如何[寻求帮助](https://www.nimh.nih.gov/health/find-help)。如果你在美国，你还可以在 SAMHSA 网站上了解[寻求帮助](https://www.samhsa.gov/find-support)的途径、或是[了解你周边的精神卫生服务机构](https://findtreatment.samhsa.gov/)。
+你也可以在 NIMH 网站上了解如何[寻求帮助](https://www.nimh.nih.gov/health/find-help)。如果你在美国，你还可以在 SAMHSA 网站上了解[寻求帮助](https://www.samhsa.gov/find-support)的途径，或是[了解你周边的精神卫生服务机构](https://findtreatment.samhsa.gov/)。
 
 > **如果您或身边人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](../appendix.md#危机干预与报警)。**
 
@@ -130,6 +130,6 @@
 
 ## 临床试验
 
-临床试验是一系列旨在探求如何预防、检测、治疗疾病的医学研究，这些研究可帮助医学界验证他们的疗法是否安全有效。有些人参与临床试验是为了帮助医生与医学研究团队更好了解疾病，以此改善医疗水平。一些病人也可通过参与临床试验，获得尚未普及的新治疗手段。
+临床试验是一系列旨在探求如何预防、检测、治疗疾病的医学研究，这些研究可帮助医学界验证他们的疗法是否安全有效。有些人参与临床试验是为了帮助医生与医学研究团队更好了解疾病，以此改善医疗水平。一些病人也可在临床试验中，尝试那些尚未普及的新治疗手段。
 
-NIMH 支持一系列临床试验。咨询医生以获得临床试验相关信息，权衡他们的利弊，选择最适合你的一项。要想了解更多临床试验的相关信息，请访问 [NIMH 临床试验专题网站](https://www.nimh.nih.gov/health/trials)。
+NIMH 支持一系列临床试验。医生会为患者及亲友介绍临床试验相关信息，帮助他们权衡利弊，选择最适合患者的一项。要想了解更多临床试验的相关信息，请访问 [NIMH 临床试验专题网站](https://www.nimh.nih.gov/health/trials)。
