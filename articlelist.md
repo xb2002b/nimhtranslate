@@ -18,7 +18,7 @@
 | TD-02 | 2025/4 | [创伤事件](/articles/TraumaticEvents.md) | **精神障碍类** - 创伤及相关障碍 |
 | SZ-01 | 2025/6 | [精神病性症状](/articles/Psychosis.md) | **精神障碍类** - 精神分裂及相关症状 |
 | SZ-02 | 2025/6 | [精神分裂症](/articles/Schizophrenia.md) | **精神障碍类** - 精神分裂及相关症状 |
-| ED-01 | 2025/6 | [进食沾溉](/articles/EatingDisorder.md) | **精神障碍类** - 各类进食障碍 |
+| ED-01 | 2025/7 | [进食障碍](/articles/EatingDisorder.md) | **精神障碍类** - 各类进食障碍 |
 | T-01 | 2024/10 | [典型精神卫生药物](/articles/Medications.md) | **干预措施类** |
 | T-02 | 2024/11 | [心理治疗](/articles/Psychotherapies.md) | **干预措施类** |
 | T-03 | 2024/12 | [物理治疗](/articles/BST.md) | **干预措施类** |
