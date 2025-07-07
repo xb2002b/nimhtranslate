@@ -26,7 +26,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 | [广泛性焦虑障碍] | [ADHD] |
 | [自闭症谱系障碍] | [双相障碍] |
 | [边缘型人格障碍] | [抑郁障碍] |
-| [强迫障碍] | 进食障碍 |
+| [强迫障碍] | [进食障碍] |
 | [创伤后应激障碍] | [精神分裂症]（新）|
 | 自杀干预 | [更多...] |
 
@@ -47,4 +47,5 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 [精神分裂症]:/articles/Schizophrenia.md
 [附录]:/appendix.md
 [强迫障碍]:/articles/OCD.md
+[进食障碍]:/articles/EatingDisorder.md
 [更多...]:/articlelist.md
