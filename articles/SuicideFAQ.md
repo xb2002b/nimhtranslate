@@ -1,6 +1,8 @@
 # 【中翻】自杀干预常见问题-美国精卫中心
 
-本文翻译自 NIMH 网站上的 [Frequently Asked Questions About Suicide](https://www.nimh.nih.gov/health/publications/suicide-faq) 篇目，基于其2024年5月更新的版本。
+> **由于本文翻译自 NIMH 网站，部分资源类信息可能不适用于中国大陆，请读者在阅读时留意。——译者注**
+
+本文翻译自 NIMH 网站上的 [Frequently Asked Questions About Suicide](https://www.nimh.nih.gov/health/publications/suicide-faq) 篇目，基于其2023年更新的版本。
 
 自杀是美国首要的死亡原因之一，因此得到公共卫生界的广泛关注。自杀的后果会波及家人、亲友乃至社区。本文能帮助你或亲友了解自杀的信号，教授你预防自杀的方式，以及有效的治疗手段。
 
@@ -92,16 +94,34 @@
 
 若遇危及生命安全的情况，请报警。中国大陆和美国的报警电话分别是 **110** 和 **911**。
 
-> 若需查询其他国家或地区的报警电话，请前往[中文维基百科的这个条目](https://zh.wikipedia.org/wiki/%E7%B7%8A%E6%80%A5%E6%95%91%E9%9B%A3%E9%9B%BB%E8%A9%B1%E8%99%9F%E7%A2%BC) 查阅。
+> 若您身处其他国家或地区，请前往[中文维基百科的这个条目](https://zh.wikipedia.org/wiki/%E7%B7%8A%E6%80%A5%E6%95%91%E9%9B%A3%E9%9B%BB%E8%A9%B1%E8%99%9F%E7%A2%BC) 查阅它们对应的报警电话。
 
 ## 问：如何应对网络上自杀相关的消息
 
+了解自杀相关信息的应对与求助方式或许能够挽救生命。国内外的大多社交媒体都配有完善的自杀信息处置预案。如果你身处美国等海外国家或地区，可以在 988 危机救援网站上了解[各大社交媒体的安全与支援政策](https://988lifeline.org/help-someone-else/support-on-social-media/)
+
+**如果你在直播、聊天等互联网场景下发现自杀行为**，你可以向平台运营方的客服等汇报相关行为，他们会进一步沟通并援助身处自杀风险的人们。
+
 ## 问：讨论相关话题会增加自杀风险吗
+
+不会。研究表明，和人们讨论有关自杀的行为与想法并不会增加自杀风险。相反，直白地询问对方，「你是否想着结束自己的生命？」，是最容易分辨自杀风险的方法。
 
 ## 问：自杀是为了「威胁」或「博人眼球」吗
 
+自杀想法与行为表明了人们身处极度痛苦，需要急切的帮助。通过自杀结束自己的生命并非对压力的典型反应。一切有关自杀的讨论都应该被认真、严肃对待，并且有必要采取及时的措施。
+
 ## 问：不同年龄段的自杀率有何差异
+
+数据表明，年龄、性别、血统与种族、居住环境等都弧影响自杀与自杀尝试的风险。美国疾病预防控制中心的[自杀干预网站](http://www.cdc.gov/suicide)和 [NIMH 的自杀数据统计页面](http://www.nimh.nih.gov/health/statistics/suicide)记录了有关调查的最新数据。
 
 ## 寻求帮助
 
-## 临床试验
+如果你担心自己有精神健康状况，有必要前往就近医院的精神科就诊。医生会根据你提出的顾虑，制定合适的治疗计划。如果你在美国，你可以在 NIMH 网站上了解[如何与医生们交流你的精神健康状况](https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider)。
+
+如果你居住在美国，你可以通过这份由 SAMHSA 提供的工具，[了解你周边的精神卫生服务机构](https://findtreatment.samhsa.gov/)此外，你也可以拨打 SAMHSA 的全国救援热线 1-800-662-HELP (4357)，或是向 435748 发送你所在城市的邮政编码（ZIP code）。
+
+## 针对自杀及其干预的相关研究
+
+NIMH 在全美范围内支持一系列旨在降低自杀率的前瞻性研究。这些研究能帮助我们识别自杀风险人群，为他们制定更新、更好的治疗方案。NIMH 的研究人员会在医院、社区、学校、司法系统等领域，研究自杀行为，制定更好的预防与干预项目。
+
+你也可以在 [National Action Alliance for Suicide Prevention](https://theactionalliance.org/) 与 [Zero Suicide](http://zerosuicide.sprc.org/) 网站上了解更多自杀干预工作的相关信息。
