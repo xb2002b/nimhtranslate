@@ -15,10 +15,6 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
   - 下载后的 .md 文件可以直接通过记事本等软件打开阅读，若想提升阅读体验可下载 [Markdown Viewer](https://github.com/simov/markdown-viewer)。
 
 > *首页仅列出部分热点主题的文章，查看所有文章请点击「更多...」链接。*
->
-> *没有链接说明对应的篇目还没翻译，别急（*
->
-> **不推荐使用 release 中的 HTML 文档** ，因为**必定**会出现超链接失效的错误。
 
 | [前言] | [附录] |
 |---|---|
@@ -28,7 +24,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 | [边缘型人格障碍] | [抑郁障碍] |
 | [强迫障碍] | [进食障碍] |
 | [创伤后应激障碍] | [精神分裂症]（新）|
-| 自杀干预 | [更多...] |
+| [自杀干预]（新） | [更多...] |
 
 ## 转载须知
 
@@ -48,4 +44,5 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 [附录]:/appendix.md
 [强迫障碍]:/articles/OCD.md
 [进食障碍]:/articles/EatingDisorder.md
+[自杀干预]:/articles/SuicideFAQ.md
 [更多...]:/articlelist.md
