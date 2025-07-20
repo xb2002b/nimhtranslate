@@ -13,6 +13,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 - a. 在下方的篇目列表中，选择你想要了解的内容，直接开始阅读（最方便）。
 - b. 直接通过文件列表上方的绿色 code 按钮，下载源代码的 zip 压缩包。
   - 下载后的 .md 文件可以直接通过记事本等软件打开阅读，若想提升阅读体验可下载 [Markdown Viewer](https://github.com/simov/markdown-viewer)。
+  - 也可下载 Release 页面中，大概每个月更新一次的版本压缩包。
 
 > *首页仅列出部分热点主题的文章，查看所有文章请点击「更多...」链接。*
 
