@@ -31,19 +31,19 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 转载项目内文章请注明：文章由 NIMH 撰写，并由「雾之湖的喵精屋」翻译。详见[前言](/foreword.md#转载须知)中的「转载须知」章节。
 
-[前言]:/foreword.md
-[广泛性焦虑障碍]:/articles/GAD.md
-[精神病性症状]:/articles/Psychosis.md
-[边缘型人格障碍]:/articles/BPD.md
-[双相障碍]:/articles/BD.md
-[恐惧及相关障碍]:/articles/Phobia.md
-[抑郁障碍]:/articles/Depression.md
-[ADHD]:/articles/ADHD.md
-[自闭症谱系障碍]:/articles/ASD.md
-[创伤后应激障碍]:/articles/PTSD.md
-[精神分裂症]:/articles/Schizophrenia.md
-[附录]:/appendix.md
-[强迫障碍]:/articles/OCD.md
-[进食障碍]:/articles/EatingDisorder.md
-[自杀干预]:/articles/SuicideFAQ.md
+[前言]:/foreword.md  
+[ADHD]:/articles/ADHD.md  
+[边缘型人格障碍]:/articles/BPD.md  
+[创伤后应激障碍]:/articles/PTSD.md  
+[广泛性焦虑障碍]:/articles/GAD.md  
+[进食障碍]:/articles/EatingDisorder.md  
+[恐惧及相关障碍]:/articles/Phobia.md  
+[抑郁障碍]:/articles/Depression.md  
+[精神分裂症]:/articles/Schizophrenia.md  
+[精神病性症状]:/articles/Psychosis.md  
+[强迫障碍]:/articles/OCD.md  
+[双相障碍]:/articles/BD.md  
+[自闭症谱系障碍]:/articles/ASD.md  
+[自杀干预]:/articles/SuicideFAQ.md  
+[附录]:/appendix.md  
 [更多...]:/articlelist.md
