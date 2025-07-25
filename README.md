@@ -19,7 +19,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 | [前言] | [附录] |
 |---|---|
-| [精神病性症状]（新）| [恐惧及相关障碍]（新）|
+| [精神病性症状]（新）| [DMDD]（新）|
 | [广泛性焦虑障碍] | [ADHD] |
 | [自闭症谱系障碍] | [双相障碍] |
 | [边缘型人格障碍] | [抑郁障碍] |
@@ -37,7 +37,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 [创伤后应激障碍]:/articles/PTSD.md  
 [广泛性焦虑障碍]:/articles/GAD.md  
 [进食障碍]:/articles/EatingDisorder.md  
-[恐惧及相关障碍]:/articles/Phobia.md  
+[DMDD]:/articles/DMDD.md
 [抑郁障碍]:/articles/Depression.md  
 [精神分裂症]:/articles/Schizophrenia.md  
 [精神病性症状]:/articles/Psychosis.md  
