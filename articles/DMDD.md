@@ -2,6 +2,8 @@
 
 本文翻译自 NIMH 网站上的 [Disruptive Mood Dysregulation Disorder: The Basics](https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder) 篇目，基于其2023年更新的版本。
 
+本文预计阅读时间5分钟。
+
 ## 什么是分裂性情绪失调障碍（DMDD）
 
 分裂性情绪失调障碍（Disruptive Mood Dysregulation Disorder, DMDD）是一种儿童与青少年的精神障碍，患儿表现出易怒、恼火等频繁且强烈的情绪爆发。DMDD 的各类严重症状远非「脾气不好、心情差」，必须得到家长等的重视。
