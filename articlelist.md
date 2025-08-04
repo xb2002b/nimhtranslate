@@ -25,5 +25,5 @@
 | T-03 | 2024/12 | [物理治疗](/articles/BST.md) | 治疗与干预类 |
 | T-04 | 2025/7 | [自杀常见问题答疑](/articles/SuicideFAQ.md) | 治疗与干预类 |
 | E-01 | 2025/4 | [精神卫生保健](/articles/SelfCare.md) | 概述 |
-| E-02 | 2025/7 | [儿童的精神卫生](/articles/Children.md) | 概述 |
+| E-02 | 2025/8 | [儿童常见精神障碍及应对](/articles/Children.md) | 概述 |
 | / | / | [附录](/appendix.md) | / |

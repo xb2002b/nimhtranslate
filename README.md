@@ -19,7 +19,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 | [前言] | [附录] |
 |---|---|
-| [精神病性症状]（新）| [DMDD]（新）|
+| [儿童]（新）| [DMDD]（新）|
 | [广泛性焦虑障碍] | [ADHD] |
 | [自闭症谱系障碍] | [双相障碍] |
 | [边缘型人格障碍] | [抑郁障碍] |
@@ -40,7 +40,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 [DMDD]:/articles/DMDD.md
 [抑郁障碍]:/articles/Depression.md  
 [精神分裂症]:/articles/Schizophrenia.md  
-[精神病性症状]:/articles/Psychosis.md  
+[儿童]:/articles/Children.md  
 [强迫障碍]:/articles/OCD.md  
 [双相障碍]:/articles/BD.md  
 [自闭症谱系障碍]:/articles/ASD.md  
