@@ -1,4 +1,4 @@
-# 【中翻】儿童常见精神障碍及应对
+# 【中翻】儿童常见精神障碍及应对-美国精卫中心
 
 本文翻译自 NIMH 网站上的 [Children and Mental Health: Is This Just a Stage?](https://www.nimh.nih.gov/health/publications/children-and-mental-health) 篇目，基于其2024年更新的版本。
 
