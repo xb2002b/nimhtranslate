@@ -33,6 +33,16 @@
 
 ## 寻求帮助
 
+如果你担忧自己的精神健康状况，请及时前往医院就诊。综合性医院或社区诊所的医生会推荐你前往更专业的精神卫生中心或相关科室就诊，如心理科、精神科。如果你居住在美国，前者还会推荐你寻求[临床社会工作者](../appendix.md#临床社会工作者)的援助。你可以在 NIMH 的[这篇文章](https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider)中了解更多与医生讨论病情的小提示。
+
+你还可以在 NIMH 网站上了解更多[寻求帮助的方式](https://www.nimh.nih.gov/health/find-help)。你也可以在 SAMHSA 网站上了解[寻求帮助的方式](https://www.samhsa.gov/find-support)与[附近精神卫生机构的位置](https://findtreatment.samhsa.gov/)。后者作为一份在线小工具，能帮助你寻找你附近的物质滥用障碍的治疗场所。[](smokefree.com) 作为美国联邦的癌症研究所，可为你提供多种戒烟工具与技巧。
+
+> **如果您或身边人有轻生想法或任何心理困难，请及时寻找专业援助。若遇危急情况，请报警。详见[附录](../appendix.md#危机干预与报警)。**
+
 ## NIMH 团队的相关研究
 
+NIMH 支持一系列针对成瘾障碍的治疗，包括药物滥用的治疗，与以药物为基础的，针对阿片类药物使用障碍的治疗。作为[「帮助长期戒除毒瘾®计划」](https://www.nimh.nih.gov/research/research-funded-by-nimh/research-initiatives/helping-to-end-addiction-long-termr-initiative-nih-heal-initiativer)（Helping to End Addiction Long-term® Initiative，NIH HEAL Initiative®）的一部分，NIMH 正领导研究小组，让阿片类药物使用障碍、精神障碍、有自杀风险的患者们，能更妥当地得到帮助与治疗。
+
 ## 临床试验
+
+临床试验是一系列旨在探求如何预防、检测、治疗疾病及相关症状的医学研究。你可以在[原文](https://www.nimh.nih.gov/health/topics/substance-use-and-mental-health#part_2424)的这个章节里阅读 NIMH 提供的更多有关临床试验的内容，这里不再赘述。
