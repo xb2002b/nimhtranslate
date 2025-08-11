@@ -20,6 +20,7 @@
 | SZ-01 | 2025/6 | [精神病性症状](/articles/Psychosis.md) | 精神分裂及相关症状 |
 | SZ-02 | 2025/6 | [精神分裂症](/articles/Schizophrenia.md) | 精神分裂及相关症状 |
 | ED-01 | 2025/7 | [进食障碍](/articles/EatingDisorder.md) | 各类进食障碍 |
+| AD-01 | 2025/8 | [物质使用障碍](/articles/SubstanceUD.md) | 各类成瘾障碍 |
 | T-01 | 2024/10 | [典型精神卫生药物](/articles/Medications.md) | 治疗与干预类 |
 | T-02 | 2024/11 | [心理治疗](/articles/Psychotherapies.md) | 治疗与干预类 |
 | T-03 | 2024/12 | [物理治疗](/articles/BST.md) | 治疗与干预类 |
