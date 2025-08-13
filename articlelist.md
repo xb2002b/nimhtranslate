@@ -14,7 +14,8 @@
 | AX-01 | 2025/3 | [广泛性焦虑障碍](/articles/GAD.md) | 焦虑及惊恐障碍 |
 | AX-02 | 2025/3 | [惊恐障碍](/articles/PanicDisorder.md) | 焦虑及惊恐障碍 |
 | AX-03 | 2025/4 | [社交焦虑障碍](/articles/SAD.md) | 焦虑及惊恐障碍 |
-| AX-04 | 2025/7 | [惊恐及相关障碍](/articles/Phobia.md) | 焦虑及惊恐障碍 |
+| AX-04 | 2025/7 | [恐惧及相关障碍](/articles/Phobia.md) | 焦虑及惊恐障碍 |
+| AX-05 | 2025/8 | [焦虑与恐惧](/articles/Stress.md) | 焦虑及惊恐障碍 |
 | TD-01 | 2025/4 | [创伤后应激障碍（PTSD）](/articles/PTSD.md) | 创伤及相关障碍 |
 | TD-02 | 2025/4 | [创伤事件](/articles/TraumaticEvents.md) | 创伤及相关障碍 |
 | SZ-01 | 2025/6 | [精神病性症状](/articles/Psychosis.md) | 精神分裂及相关症状 |

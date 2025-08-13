@@ -6,7 +6,7 @@
 
 **文章不能取代医疗意见，如有任何疑惑请咨询精神专科医生。**
 
-**为了更好地补充介绍新疗法等信息，部分文章啃能包含指向中英文网页的链接。链接所指内容不代表编者或 NIMH 的立场。我们无法保证这些内容的准确性，如有疑问请使用搜索引擎等工具核实。**
+**为了更好地补充介绍新疗法等信息，部分文章可能包含指向中英文网页的链接。链接所指内容不代表编者或 NIMH 的立场。我们无法保证这些内容的准确性，如有疑问请使用搜索引擎等工具核实。**
 
 **NOTE: The translating team are not trained or educated in medication. Translator xb2002b is a Bachelor in English Major, translations could be therefore guarded against major faults. However, we could not ensure the 100% accuracy of the translation. Some verbose contents are initially translated by Google Translator before manual revising. LLMs incl. (but not limited to) ChatGPT, DeepSeek and Copilot are used to provide advice and undertake coding works.**
 
