@@ -1,6 +1,6 @@
 # 【中翻】压力与焦虑-美国精卫中心
 
-本文翻译自 NIMH 网站上的 [I'm So Stressed Out!](https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet) 篇目，基于其2020年3月更新的版本（篇目编号 No. 20-MH-8125）。
+本文翻译自 NIMH 网站上的 [I'm So Stressed Out!](https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet) 篇目，基于其2020年更新的版本（篇目编号 No. 20-MH-8125）。
 
 本文预计阅读时间 2 分钟。
 
