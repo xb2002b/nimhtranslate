@@ -11,6 +11,7 @@
 | MD-05 | 2025/7 | [分裂性情绪失调障碍](/articles/DMDD.md) | 心境障碍 |
 | ND-01 | 2025/1 | [注意力缺陷多动障碍](/articles/ADHD.md) | 神经发育障碍 |
 | ND-02 | 2025/2 | [自闭症谱系障碍](/articles/ASD.md) | 神经发育障碍 |
+| ND-03 | 2025/8 | [成年人的 ADHD](/articles/AdultsADHD.md) | 神经发育障碍 |
 | AX-01 | 2025/3 | [广泛性焦虑障碍](/articles/GAD.md) | 焦虑及惊恐障碍 |
 | AX-02 | 2025/3 | [惊恐障碍](/articles/PanicDisorder.md) | 焦虑及惊恐障碍 |
 | AX-03 | 2025/4 | [社交焦虑障碍](/articles/SAD.md) | 焦虑及惊恐障碍 |
