@@ -1,6 +1,6 @@
 # 【中翻】青少年的大脑发育-美国精卫中心
 
-本文翻译自 NIMH 网站上的 [The Teen Brain: 7 Things to Know](https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know) 篇目，基于其2023年更新的版本（篇目编号 No. 23-MH-8078）。
+本文翻译自 NIMH 网站上的 [The Teen Brain: 7 Things to Know](https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know) 篇目，基于其2023年更新的版本（篇目编号 23-MH-8078）。
 
 本文预计阅读时间 2 分钟。
 
