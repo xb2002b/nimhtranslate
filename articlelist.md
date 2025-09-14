@@ -34,4 +34,5 @@
 | E-01 | 2025/4 | [精神卫生保健](/articles/SelfCare.md) | 概述 |
 | E-02 | **2025/8** | [儿童常见精神障碍及应对](/articles/Children.md) | 概述 |
 | E-03 | **2025/8** | [青少年的大脑发育](/articles/TeenBrain.md) | 概述 |
+| E-04 | **2025/9** | [基因与精神健康](/articles/Genes.md) | 概述 |
 | / | / | [附录](/appendix.md) | / |
