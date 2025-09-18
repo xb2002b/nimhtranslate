@@ -27,6 +27,7 @@
 | SZ-02 | 2025/6 | [精神分裂症](/articles/Schizophrenia.md) | 精神分裂及相关症状 |
 | ED-01 | 2025/7 | [进食障碍](/articles/EatingDisorder.md) | 各类进食障碍 |
 | AD-01 | **2025/8** | [物质使用障碍](/articles/SubstanceUD.md) | 各类成瘾障碍 |
+| OC-01 | 2025/6 | [强迫障碍](/articles/OCD.md) | 强迫障碍 |
 | T-01 | 2024/10 | [典型精神卫生药物](/articles/Medications.md) | 治疗与干预类 |
 | T-02 | 2024/11 | [心理治疗](/articles/Psychotherapies.md) | 治疗与干预类 |
 | T-03 | 2024/12 | [物理治疗](/articles/BST.md) | 治疗与干预类 |
@@ -35,4 +36,5 @@
 | E-02 | **2025/8** | [儿童常见精神障碍及应对](/articles/Children.md) | 概述 |
 | E-03 | **2025/8** | [青少年的大脑发育](/articles/TeenBrain.md) | 概述 |
 | E-04 | **2025/9** | [基因与精神健康](/articles/Genes.md) | 概述 |
+| E-05 | **2025/9** | [PANS 与 PANDAS：常见问题解答](/articles/PANS.md) | 概述 |
 | / | / | [附录](/appendix.md) | / |
