@@ -1,6 +1,6 @@
 # 【中翻】抑郁障碍与女性-美国精卫中心
 
-本文翻译自 NIMH 网站上的 [Coping with Traumatic Events](https://www.nimh.nih.gov/health/publications/depression-in-women) 篇目，基于其2023年更新的版本（篇目编号：23-MH-4779）。
+本文翻译自 NIMH 网站上的 [Depression in Women: 4 Things to Know](https://www.nimh.nih.gov/health/publications/depression-in-women) 篇目，基于其2023年更新的版本（篇目编号：23-MH-4779）。
 
 本文预计阅读时间 2 分钟。
 
