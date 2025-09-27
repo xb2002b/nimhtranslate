@@ -8,6 +8,12 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 **Disclaimer: Passages in the Project could not substitute formal medical advice, consult professional doctors if you have any problems. See [foreword.md](/foreword.md#阅读前须知) for details.**
 
+## 重要说明
+
+由于管辖 NIMH 的美国国立卫生研究院（NIH）与卫生与公众服务部（NHS）正进行改组，NIMH 网站上的内容不再持续更新。事实上，NIMH 从 2025年4月就停止了其网站更新。
+
+为了给各位读者提供更多前沿的精神卫生科普知识，我（xb2002b）计划将从下个月（2025年10月）起，翻译 SAMHSA（Substance Abuse and Mental Health Services Administration，物质滥用与精神健康服务管理局）的科普文章，敬请期待。
+
 ## 食用方式
 
 - a. 在下方的篇目列表中，选择你想要了解的内容，直接开始阅读（最方便）。
