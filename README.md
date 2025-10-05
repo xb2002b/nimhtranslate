@@ -10,9 +10,11 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 ## 重要说明
 
-由于管辖 NIMH 的美国国立卫生研究院（NIH）与卫生与公众服务部（NHS）正进行改组，NIMH 网站上的内容不再持续更新。事实上，NIMH 从 2025年4月就停止了其网站更新。
+由于财政资金短缺（NIH 隶属于美国联邦政府，研究资金主要由美国联邦政提供），包括 NIMH 在内的 NIH 网站内容不再持续更新。
 
-为了给各位读者提供更多前沿的精神卫生科普知识，我（xb2002b）计划将从下个月（2025年10月）起，翻译 SAMHSA（Substance Abuse and Mental Health Services Administration，物质滥用与精神健康服务管理局）的科普文章，敬请期待。
+事实上，NIMH 从 2025年4月就停止了其网站更新。
+
+为了给各位读者提供更多前沿的精神卫生科普知识，我（xb2002b）计划将从2025年10月起，翻译 SAMHSA（Substance Abuse and Mental Health Services Administration，物质滥用与精神健康服务管理局）的科普文章，敬请期待。
 
 ## 食用方式
 
