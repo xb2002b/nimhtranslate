@@ -13,6 +13,7 @@
 | MD-05 | 2025/7 | [分裂性情绪失调障碍](/articles/DMDD.md) | 心境障碍 |
 | MD-06 | 2025/8 | [抑郁障碍与女性](/articles/WomenDepression.md) | 心境障碍 |
 | MD-07 | **2025/9** | [围产期抑郁障碍](/articles/PerinatalDepression.md) | 心境障碍 |
+| MD-08 | **2025/10** | [慢性疾病与抑郁障碍](/articles/ChronicsAndDepression.md) | 心境障碍 |
 | ND-01 | 2025/1 | [注意力缺陷多动障碍](/articles/ADHD.md) | 神经发育障碍 |
 | ND-02 | 2025/2 | [自闭症谱系障碍](/articles/ASD.md) | 神经发育障碍 |
 | ND-03 | 2025/8 | [成年人的 ADHD](/articles/AdultsADHD.md) | 神经发育障碍 |
