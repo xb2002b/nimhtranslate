@@ -27,7 +27,7 @@ Center for Substance Abuse Prevention, Substance Abuse and Mental Health Service
 ## 目录
 
 1. 介绍
-   - 美国的物质滥用情况
+   - 美国物质滥用的情况
    - 本手册的用途与受众
    - 物质滥用基础知识：阿片类药物
    - 物质滥用基础知识：兴奋剂与其他药物
@@ -49,6 +49,6 @@ Center for Substance Abuse Prevention, Substance Abuse and Mental Health Service
     - 阿片类药物管理
     - 阿片类药物使用障碍的治疗
     - 法律责任
-7. 附录四 - 首要责任人
+7. 附录四 - 第一响应者
 8. 附录五 - 政策或系统援助
-9. 附录六 - 参考资料
+9. 参考资料
