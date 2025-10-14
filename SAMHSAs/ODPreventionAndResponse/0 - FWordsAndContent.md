@@ -1,8 +1,8 @@
-# 【中翻】物质滥用预防与应对实用手册 - SAMHSA
+# 【中翻】药物过量预防与应对实用手册 - SAMHSA
 
 本文翻译自 SAMHSA 网站上的 [Overdose Prevention and Response Toolkit](https://library.samhsa.gov/sites/default/files/overdose-prevention-response-kit-pep23-03-00-001.pdf) ，基于其2025年7月更新的版本。篇目编号：PEP23-03-00-001。
 
-受美国卫生与公众服务部（HHS）下属 SAMHSA 部门委托（委托编号：HHSS283201700074I/75S20322F42003） SAMHSA 物质滥用预防与应对实用手册（SAMHSA Overdose Prevention and Response Toolkit）于2025年6月进行更新。本手册前称为 SAMHSA 鸦片滥用预防实用手册。
+受美国卫生与公众服务部（HHS）下属 SAMHSA 部门委托（委托编号：HHSS283201700074I/75S20322F42003） SAMHSA 药物过量预防与应对实用手册（SAMHSA Overdose Prevention and Response Toolkit）于2025年6月进行更新。本手册前称为 SAMHSA 鸦片滥用预防实用手册。
 
 ## 引用本文
 
@@ -27,22 +27,22 @@ Center for Substance Abuse Prevention, Substance Abuse and Mental Health Service
 ## 目录
 
 1. 介绍
-   - 美国物质滥用的情况
+   - 美国药物过量的情况
    - 本手册的用途与受众
-   - 物质滥用基础知识：阿片类药物
-   - 物质滥用基础知识：兴奋剂与其他药物
-   - 物质滥用的成因
-   - 物质滥用的风险
-   - 物质滥用的预防
-   - 物质滥用的治疗性预防
+   - 药物过量基础知识：阿片类药物
+   - 药物过量基础知识：兴奋剂与其他药物
+   - 药物过量的成因
+   - 药物过量的风险
+   - 药物过量的预防
+   - 药物过量的治疗性预防
 2. 阿片类药物过量逆转药物
    - 阿片类药物过量逆转药物（OORM）的作用
    - 可供使用的 OORM
    - 有关 OORM 的常见问题
-3. 如何应对物质滥用
-   - 物质滥用的体征
-   - 物质滥用的后期治疗选择
-   - 应对物质滥用的「三要四不」
+3. 如何应对药物过量
+   - 药物过量的体征
+   - 药物过量的后期治疗选择
+   - 应对药物过量的「三要四不」
 4. 附录一 - 服药者
 5. 附录二 - 阿片类药物处方服用者
 6. 附录三 - 从业人员与医疗系统
