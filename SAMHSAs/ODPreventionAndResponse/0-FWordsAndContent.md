@@ -34,7 +34,7 @@ Center for Substance Abuse Prevention, Substance Abuse and Mental Health Service
    - 药物过量的成因
    - 药物过量的风险
    - 药物过量的预防
-   - 药物过量的治疗性预防
+   - 药物过量的预防性治疗
 2. 阿片类药物过量逆转药物
    - 阿片类药物过量逆转药物（OORM）的作用
    - 可供使用的 OORM
