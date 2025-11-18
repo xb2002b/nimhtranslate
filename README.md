@@ -1,10 +1,10 @@
 # 他山之石，可以攻「郁」
 
-对美国精神卫生研究院部分科普文章的简体中文翻译，更适合中国宝宝体质。
+对美国精神卫生研究院（National Institute of Mental Health）与美国物质滥用与精神健康服务管理局（Substance Abuse and Mental Health Services Administration，SAMHSA）部分科普文章的简体中文翻译，更适合中国宝宝体质。
 
 **免责声明：项目内的文章不能代替专业医疗意见，有问题请找专科医生就诊，详见[前言](/foreword.md#阅读前须知)。**
 
-A Simplified Chinese translation of Public Passages on National Institute of Mental Health ([NIMH](https://www.nimh.nih.gov)).
+A Simplified Chinese translation of Public Passages on National Institute of Mental Health ([NIMH](https://www.nimh.nih.gov)) and [SAMHSA](https://samhsa.gov).
 
 **Disclaimer: Passages in the Project could not substitute formal medical advice, consult professional doctors if you have any problems. See [foreword.md](/foreword.md#阅读前须知) for details.**
 
@@ -37,7 +37,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 ## 转载须知
 
-转载项目内文章请注明：文章由 NIMH 撰写，并由「雾之湖的喵精屋」翻译。详见前言中的[转载须知](/foreword.md#转载须知)章节。
+转载项目内文章请注明：原文作者（通常是 NIMH 或 SAMHSA），并由「雾之湖的喵精屋」翻译。详见前言中的[转载须知](/foreword.md#转载须知)章节。
 
 [前言]:/foreword.md  
 [ADHD]:/articles/ADHD.md  
