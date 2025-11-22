@@ -48,7 +48,7 @@
 - 根据美国疾控中心 CDC 最新的 [阿片类药物处方规范](https://www.cdc.gov/overdose-prevention/hcp/clinical-guidance/index.html)，妥善管理阿片类药物。
 - 为处方患者提供这份手册，让他们更好了解阿片类药物的利弊，无论是处方获取的还是非法购买的。
 - 随方开具 OORM 的处方，鼓励患者将其随身携带。
-- 了解物质使用障碍的相关药物，如丁丙诺啡或美沙酮。
+- 了解物质使用障碍的相关治疗药物，如丁丙诺啡或美沙酮。
 
 联邦财政支持一系列相关的继续教育课程，你可以在 [PCSS](https://pcssnow.org) 与 [ATTC Network](https://attcnetwork.org) 了解更多信息。
 
