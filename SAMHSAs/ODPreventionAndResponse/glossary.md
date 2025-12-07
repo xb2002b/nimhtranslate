@@ -4,6 +4,7 @@
 
 - buprenorphine：丁丙诺啡。
 - CDC：Center of Disease Control，美国疾病控制与预防中心。
+- EMS：Emergency Medical Service，急救医疗服务。
 - FDA：Food and Drug Administration，美国食品与药品管理局。
 - medetomidine：美托咪啶。
 - methadone：美沙酮。

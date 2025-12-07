@@ -60,7 +60,7 @@
 
 ### 阿片类使用障碍的治疗
 
-若患者披露自己的阿片类使用障碍，并且医学评估结果也确实如此，有必要为他们提供降低相关症状的药物，降低药物过量的风险。FDA 批准且实证有效的药物包括美沙酮、丁丙诺啡（含有或不含纳洛酮）与纳曲酮。这类药物能缓解阿片类使用障碍的针状，显著改善患者生活水平。阿片类治疗计划是提供美沙酮的唯一渠道，而持有联邦缉毒局证书，有权开具三到五级药物的从业人员，可开具丁丙诺啡的处方（全职兽医除外）。截至2023年6月27日，持有联邦缉毒局证书，有权开具二到五级药物的从业人员，需要一次性完成8小时的训练，知晓阿片类药物和物质使用障碍的相关知识，否则他们无法申领或更新他们的联邦缉毒局证书。纳曲酮是一种注射用药物，任何有权开具处方的相关领域医疗机构从业人员，都有权利开具纳曲酮的处方，并给予患者注射。大多阿片类使用障碍的患者都可通过心理-社会治疗，或是其他行为健康治疗，与相关药物的联合治疗，能显著改善并维持患者的身心健康。然而，鉴于非法药物的致命性，治疗药物的提供不能仅限于特定的治疗或医疗服务场合 [39]。降低医疗照护的门槛让相关服务更加便捷，让患者在不时之需，能更方便地获得治疗 [38]。若想了解更多有关治疗药物和门槛降低的推荐，请在文末的「资料」章节阅读 SAMHSA 撰写的《药物主导的阿片类药物使用障碍简明手册》（Medication-Assisted Treatment of Opioid Use Disorder Pocket Guide）与《物质使用障碍的低门槛模式》（Low Barrier Models of Care for Substance Use Disorders）。若想寻找当地提供相关治疗的从业人员，请访问 SAMHSA 的 [在线地图工具](https://findtreatment.gov/)，或拨打其热线（1-800-662-HELP [4327] 或 1-800-487-4899 TDD），或向 HELP4U（435748）发送短信，取得 7×24小时免费且隐私的治疗或转诊建议。这些热线或短信提供英语与西班牙语服务。
+若患者披露自己的阿片类使用障碍，并且医学评估结果也确实如此，有必要为他们提供降低相关症状的药物，降低药物过量的风险。FDA 批准且实证有效的药物包括美沙酮、丁丙诺啡（含有或不含纳洛酮）与纳曲酮。这类药物能缓解阿片类使用障碍的针状，显著改善患者生活水平。阿片类治疗计划是提供美沙酮的唯一渠道，而持有联邦缉毒局证书，有权开具三到五级药物的从业人员，可开具丁丙诺啡的处方（全职兽医除外）。截至2023年6月27日，持有联邦缉毒局证书，有权开具二到五级药物的从业人员，需要一次性完成8小时的训练，知晓阿片类药物和物质使用障碍的相关知识，否则他们无法申领或更新他们的联邦缉毒局证书。纳曲酮是一种注射用药物，任何有权开具处方的相关领域医疗机构从业人员，都有权利开具纳曲酮的处方，并给予患者注射。大多阿片类使用障碍的患者都可通过心理-社会治疗，或是其他行为健康治疗，与相关药物的联合治疗，能显著改善并维持患者的身心健康。然而，鉴于非法药物的致命性，治疗药物的提供不能仅限于特定的治疗或医疗服务场合 [39]。降低医疗照护的门槛让相关服务更加便捷，让患者在不时之需，能更方便地获得治疗 [38]。若想了解更多有关治疗药物和门槛降低的推荐，请在文末的「资料」章节阅读 SAMHSA 撰写的《药物主导的阿片类药物使用障碍治疗简明手册》（Medication-Assisted Treatment of Opioid Use Disorder Pocket Guide）与《物质使用障碍的低门槛模式》（Low Barrier Models of Care for Substance Use Disorders）。若想寻找当地提供相关治疗的从业人员，请访问 SAMHSA 的 [在线地图工具](https://findtreatment.gov/)，或拨打其热线（1-800-662-HELP [4327] 或 1-800-487-4899 TDD），或向 HELP4U（435748）发送短信，取得 7×24小时免费且隐私的治疗或转诊建议。这些热线或短信提供英语与西班牙语服务。
 
 ### 法律等相关责任
 
@@ -91,3 +91,63 @@ EMS 专门为药物过量的患者提供生命救援的帮助。这类帮助包�
 相关数据能帮助专家更好了解药物过量发生的时间与地点。EMS 相关数据存储了救援地的位置，但只保存一小段时间。由于 EMS 通常是药物过量的第一专业响应人，他们的相关数据可以共享给公共卫生机构[44]。EMS 的相关数据也能提供更多非致命性药物过量的救援案例，因为这类患者也许会拒绝前往医院，在当场完成简单救治后，就自行离开。这类数据对公共卫生与行为医疗机构特别有效，有了它们，这些机构就能更全面地了解那些不愿获取 EMS 以外医疗资源的患者。研究表明，近乎三分之一死于药物过量的患者在死亡前有过和 EMS 的接触[45]。除了数据共享，EMS 提供者也能在工会或团体中发声，共同提升社区公众对药物滥用的理解与预防。
 
 你还可以在 [www.astho.org/globalassets/report/innovations-in-overdose-response.pdf](https://www.astho.org/globalassets/report/innovations-in-overdose-response.pdf)、《连接社区与药物过量预防项目：第一响应人实用手册》[www.samhsa.gov/resource/ebp/connecting-communities-substance-use-services-practical-tools-for-first-responders](https://www.samhsa.gov/resource/ebp/connecting-communities-substance-use-services-practical-tools-for-first-responders)
+
+## 附录五：法律与政策
+
+本节附录从公众健康角度出发，列举一些能够避免药物过量的措施，包括宣教药物过量的危害，让公众更容易获取 OORMs，以及提升医疗工作者的相关意识等[15]。
+
+社区及其成员的参与（又称联盟建设，coalition building）是一切持续有效的公共健康干预计划的基石。社区成员的踊跃参与有助于融合各行业的技能、知识与技术经验，为社区创造适合全体成员的解决方案。社区联盟力求确保那些最身处困境的人们有充足的发言权，制定并实施有效的方案，促进社区的改变。对那些在抗击药物过量的一线工作者，这让他们能够与这些最受影响的社区成员一道工作，包括这些药物的使用者、有过相关经历的人们、医生、执法人员与急救人员[46]。
+
+制定并选择策略时，必须考虑社区群体的意见与建议，但也必须考虑他们是否实证有效。实证有效的措施通常有充分的研究经验背书，证明他们具备实操专业性、文化适应力，且给服务受众带来个人或群体层面的良好影响。以下是一些实证有效且潜力充足的降低药物过量死亡的措施：
+
+### OORM 定向发放
+
+使用非法药品的人们往往是药物过量的第一见证人，最能为药物过量的患者提供 OORM，避免药物过量导致的死亡。OORM 的定向发放之所以有效，是因为该策略覆盖了广泛群众，尤其是使用非法药品的人们及其亲友。其定向发放的方式通常是，在阿片类药物过量死亡率较高、其他救援机构难以遍及的社区，设立若干紧急救助点（critical access point）[47]。社区相关机构可以在这些救助点，以不加评判的态度，为需要的人们提供最直接的援助。
+
+此外，社区也应考虑其他高风险场合，在这些场合中， OORM 的定向发放往往会带来积极影响。这些场合包括相关形式司法审理场合、治疗物质使用障碍的医疗场合、近来青年学生因药物过量致死案例数有所提升的学校等。
+
+### 药品检测
+
+诸如芬太尼试纸的药品检测服务，能为有关人员提供药品的成分信息，帮助他们决定是否服用他们获取的药品，以及服用的剂量与方式。社区机构可匿名提供药品检测服务，包括在活动现场提供流动检测服务，不定期为个人分发检测试纸等。药品检测能让有关人员更好了解其中的未知成分（如芬太尼与赛拉嗪）。越来越多的证据表明，药品检测能改变相关人员的意图与决定[48]。收集后的药品检测数据能为公众提供相当重要的信息，让他们更好了解非法药品供应、相关政策，以及相关机构在公共卫生领域的工作。
+
+### 公共宣传
+
+在药物过量预防领域，公共宣传（Public Communication Campaign）指在社交媒体、广播、电视、公益广告（public service announcement）、宣传栏、公共交通广告等媒介，投放相关广告，力求普及相关公共卫生知识，消除大众对药物过量的偏见（而不是以树立威严为导向的广告，这样做对于药物过量的宣传不甚有效）[50]。公众可通过这类宣传，了解近来日益频发药物过量致死案例，以及近来非法药商一些可能导致药物过量风险上升的非法手段。同时，若能包含就近社区药品检测服务的有关信息，相关居民就能更好了解当地非法药品供应商所供应的阿片类药物与其他药物的具体成分。在宣传时，务必时常强调纳洛酮等其他 OORM 的相关教育，包括他们的主要功效及获取方式，最好是将这类知识的普及，纳入每次药物过量的预防性宣传中。
+
+### 「好人法」
+
+仔细评估本州州立的好人法（Good Samaritan laws）[51]，决定其是否有必要修改。在相关宣传活动与材料中，有必要纳入「了解你的有关权利」的内容，好让大众了解自己在出于善意挽救他人生命时，不会轻易背负相关法律责任。同时，有必要让大众了解，当被救援者出现与药物过量无关的医疗紧急情况，或是需要额外的医疗救助时，拨打 911 是至关重要的救援步骤。
+
+### 资源
+
+就以社区为导向、实证为基础的药物过量预防与干预手段的计划与实施这一课题，SAMHSA 提供了更多详细的资源：
+
+想要了解社区层面的联盟建设相关信息，请浏览 SAMHSA 的《参与社区联盟，降低阿片类药物过量死亡：实践指南》：[https://hcs.rti.org/pdfs/CE_PracticeGuide.pdf](https://hcs.rti.org/pdfs/CE_PracticeGuide.pdf)
+
+想要了解实证为基础的实践指导，请参阅 SAMHSA 的《阿片类药物过量持续照护：实践指南》：[https://www.samhsa.gov/resource/ebp/opioid-overdose-reduction-continuum-care-approach-orcca-practice-guide-2023](https://www.samhsa.gov/resource/ebp/opioid-overdose-reduction-continuum-care-approach-orcca-practice-guide-2023)
+
+#### 预防与保护
+
+该非政府网站由处方师、药剂师、临床社会工作者、律师与药物过量和纳洛酮配给研究领域的工作人员共同编撰，为医生等提供详细信息，让他们能更好教育患者，了解降低药物过量风险的举措，以及为他们提供成套的纳洛酮救援装备：[https://prevent-protect.org/](https://prevent-protect.org/)
+
+#### SAMHSA 相关链接
+
+- 988 自杀与危机服务热线：[https://988lifeline.org/](https://988lifeline.org/)
+- 国家救援热线：1-800-662-HELP (4357) 或 1-800-487-4889 (专为听障人士服务)，或向 435748 (HELP4U) 发送短信。
+  - 该服务全年无休、免费且私密，支持英语与西班牙语。
+  - 网站：[https://www.samhsa.gov/find-help](https://www.samhsa.gov/find-help)
+- 寻求治疗（FindTreatment）：[https://findtreatment.gov/](https://findtreatment.gov/)
+
+- [Single State Agencies for Substance Abuse Services](https://www.samhsa.gov/sites/default/files/ssa-directory.pdf)
+- [State Opioid Treatment Authorities](https://www.samhsa.gov/medications-substance-use-disorders/sota)
+- [SAMHSA Advisory on Low Barrier Models of Care for Substance Use Disorders](https://store.samhsa.gov/product/advisory-low-barrier-models-care-substance-use-disorders/pep23-02-00-005)
+- [SAMHSA Publications Ordering](https://store.samhsa.gov) (电话：1-877-726-4727)
+
+#### 美国疾控中心相关链接
+
+- [Understanding the Epidemic](https://www.cdc.gov/drugoverdose/epidemic)
+- [Clinical Practice Guideline for Prescribing Opioids for Pain](https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm)
+- [Public Health and Safety Toolkit (PHAST)](https://www.cdc.gov/drugoverdose/pdf/phast-toolkit-508.pdf)
+- [Addiction Medicine Toolkit](https://www.cdc.gov/opioids/addiction-medicine/index.html)
+- [Association of State and Territorial Health Officials](https://www.astho.org/)
+- [Preventing Opioid Misuse in the States and Territories](http://my.astho.org/opioids/home)
