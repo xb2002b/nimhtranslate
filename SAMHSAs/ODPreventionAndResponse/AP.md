@@ -16,7 +16,7 @@
 |你正在服用药物（不限种类）|<ul><li>**以低剂量开始服用，逐渐增加剂量。**</li><li>**切勿独自服药。** 服药时务必要有可信赖的亲友陪伴，好让他在你药物过量时能即时响应，或是让可信赖的亲友时不时确认你的情况。你还可以查找社区的「服药陪伴」（never use alone）热线。</li><li>**避免一次过量吸食。** 若聚众吸食，务必确保有人保持清醒，能及时应对药物过量的情况。</li><li>**避免同时摄入药物（包括阿片类）与酒精** 阿片类与酒精、苯二氮䓬类、镇静剂等抗抑郁药物会相互作用，大幅增加药物过量的风险。</li><li>**随身携带 OORM。** 了解药物过量的症状，备好 OORM 以便不时之需。你可以在先前的部分了解 OORM 与应对方式的详细内容。</li><li>**使用试纸。** 使用试纸或其他检测药品的工具，检测吸食的药品中是否含有芬太尼或其他意外的物质。这么做能帮助你更好决定是否吸食该药品，最大程度降低药物过量的风险。</li><li>**密切关注身体健康。**健康的身体也能降低药物过量的风险。充分休息、健康饮食、适度饮水以保持身体健康。[15] [16]</li></ul>|
 |你正在以非处方规定的方式服用阿片类药物，包括改变给药方式、通过粉碎等改变其性状等|<ul><li>考虑改变药物的种类或剂量带来的潜在风险。必要时应检测药物，了解其实际成分。</li><li>吸食或注射阿片类药物的过量风险较高，可尝试口服或鼻部吸食（snorting）。</li><li>通过粉碎等方式改变阿片类药物的性状会影响其药效，若通过鼻部吸食可能会增加药物过量的风险。</li></ul>|
 
-## 附录二：服用处方阿片类药物的人们
+## 附录二：阿片类药物处方服用者
 
 在医生等的妥善监督下，阿片类药物能有效治疗疼痛等症状。然而，他们也有不小的健康风险，包括物质依赖、阿片类使用障碍、以及药物过量。
 
@@ -29,7 +29,7 @@
 
 你可以在 [https://prevetn-protect.org] 网站了解更多信息。该非政府网站由医生、药剂师、临床社会工作者、律师、相关领域研究人员共同搭建，旨在为医护人员提供相关知识，让他们能够更好地向患者群体进行 OORM 相关知识的宣传与教育，力求降低药物过量的风险。
 
-## 附录三：从业者与医疗系统
+## 附录三：从业人员与医疗系统
 
 研究表明，药物过量风险人群往往是医疗系统的常客[35]。为了满足自己多样的药物需求，他们常常寻求各种医疗服务，无论是处方的阿片类药物，抑或是非法的药物获取途径。而且，他们可能因先前非致命的药物过量经历，接受过相关的治疗。医疗系统的从业者能够帮助药物过量的潜在人群，因此在社区层面药物过量预防与干预的过程中，扮演着不可或缺的重要角色。
 
@@ -92,7 +92,7 @@ EMS 专门为药物过量的患者提供生命救援的帮助。这类帮助包�
 
 你还可以在 [www.astho.org/globalassets/report/innovations-in-overdose-response.pdf](https://www.astho.org/globalassets/report/innovations-in-overdose-response.pdf)、《连接社区与药物过量预防项目：第一响应人实用手册》[www.samhsa.gov/resource/ebp/connecting-communities-substance-use-services-practical-tools-for-first-responders](https://www.samhsa.gov/resource/ebp/connecting-communities-substance-use-services-practical-tools-for-first-responders)
 
-## 附录五：法律与政策
+## 附录五：法律与政策参考
 
 本节附录从公众健康角度出发，列举一些能够避免药物过量的措施，包括宣教药物过量的危害，让公众更容易获取 OORMs，以及提升医疗工作者的相关意识等[15]。
 
@@ -102,7 +102,7 @@ EMS 专门为药物过量的患者提供生命救援的帮助。这类帮助包�
 
 ### OORM 定向发放
 
-使用非法药品的人们往往是药物过量的第一见证人，最能为药物过量的患者提供 OORM，避免药物过量导致的死亡。OORM 的定向发放之所以有效，是因为该策略覆盖了广泛群众，尤其是使用非法药品的人们及其亲友。其定向发放的方式通常是，在阿片类药物过量死亡率较高、其他救援机构难以遍及的社区，设立若干紧急救助点（critical access point）[47]。社区相关机构可以在这些救助点，以不加评判的态度，为需要的人们提供最直接的援助。
+使用非法药品的人们往往是药物过量的第一见证人，最能为药物过量的患者提供 OORM，避免药物过量导致的死亡。OORM 的定向发放之所以有效，是因为该策略覆盖了广泛群众，尤其是使用非法药品的人们及其亲友。其定向发放的方式通常是，在阿片类过量死亡率较高、其他救援机构难以遍及的社区，设立若干紧急救助点（critical access point）[47]。社区相关机构可以在这些救助点，以不加评判的态度，为需要的人们提供最直接的援助。
 
 此外，社区也应考虑其他高风险场合，在这些场合中， OORM 的定向发放往往会带来积极影响。这些场合包括相关形式司法审理场合、治疗物质使用障碍的医疗场合、近来青年学生因药物过量致死案例数有所提升的学校等。
 
@@ -122,9 +122,9 @@ EMS 专门为药物过量的患者提供生命救援的帮助。这类帮助包�
 
 就以社区为导向、实证为基础的药物过量预防与干预手段的计划与实施这一课题，SAMHSA 提供了更多详细的资源：
 
-想要了解社区层面的联盟建设相关信息，请浏览 SAMHSA 的《参与社区联盟，降低阿片类药物过量死亡：实践指南》：[https://hcs.rti.org/pdfs/CE_PracticeGuide.pdf](https://hcs.rti.org/pdfs/CE_PracticeGuide.pdf)
+想要了解社区层面的联盟建设相关信息，请浏览 SAMHSA 的《参与社区联盟，降低阿片类过量死亡：实践指南》：[https://hcs.rti.org/pdfs/CE_PracticeGuide.pdf](https://hcs.rti.org/pdfs/CE_PracticeGuide.pdf)
 
-想要了解实证为基础的实践指导，请参阅 SAMHSA 的《阿片类药物过量持续照护：实践指南》：[https://www.samhsa.gov/resource/ebp/opioid-overdose-reduction-continuum-care-approach-orcca-practice-guide-2023](https://www.samhsa.gov/resource/ebp/opioid-overdose-reduction-continuum-care-approach-orcca-practice-guide-2023)
+想要了解实证为基础的实践指导，请参阅 SAMHSA 的《阿片类过量持续照护：实践指南》：[https://www.samhsa.gov/resource/ebp/opioid-overdose-reduction-continuum-care-approach-orcca-practice-guide-2023](https://www.samhsa.gov/resource/ebp/opioid-overdose-reduction-continuum-care-approach-orcca-practice-guide-2023)
 
 #### 预防与保护
 

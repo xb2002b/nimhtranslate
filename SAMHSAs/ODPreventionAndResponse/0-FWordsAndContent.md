@@ -17,6 +17,7 @@ Center for Substance Abuse Prevention, Substance Abuse and Mental Health Service
 ## 免责声明
 
 本文中所有内容均不构成 SAMHSA 或 HHS 对非联邦机构产品、服务或政策的支持。原文中的图片受版权保护，仅为解释说明用。原文中图片中出现的人物均为模特。
+> 译者注：译文选用的唯一一张图片来自维基媒体基金会，原图链接：[https://commons.wikimedia.org/wiki/File:Recovery_position.jpg](https://commons.wikimedia.org/wiki/File:Recovery_position.jpg)。适用 [CC BY-SA 3.0 FR](https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en) 条款
 
 ## 公众领域说明
 
@@ -26,29 +27,31 @@ Center for Substance Abuse Prevention, Substance Abuse and Mental Health Service
 
 ## 目录
 
-1. 介绍
+1. [介绍](./1-Introduction.md)
    - 美国药物过量的情况
    - 本手册的用途与受众
    - 药物过量基础知识：阿片类药物
    - 药物过量基础知识：兴奋剂与其他药物
    - 药物过量的成因
-   - 药物过量的风险
+   - 可能导致阿片类过量的风险因素
    - 药物过量的预防
    - 药物过量的预防性治疗
-2. 阿片类药物过量逆转药物
-   - 阿片类药物过量逆转药物（OORM）的作用
-   - 可供使用的 OORM
-   - 有关 OORM 的常见问题
-3. 如何应对药物过量
-   - 药物过量的体征
-   - 药物过量的后期治疗选择
-   - 应对药物过量的「三要四不」
-4. 附录一 - 服药者
-5. 附录二 - 阿片类药物处方服用者
-6. 附录三 - 从业人员与医疗系统
+2. [阿片类过量逆转药物](./2-OORMs.md)
+   - 阿片类过量逆转药物（OORM）的作用
+   - 市售的 OORM
+   - OORM 常见问题解答
+3. [药物过量的应对](./3-Response.md)
+   - 药物过量的症状与体征
+   - 药物过量的后续治疗选择
+   - 阿片类过量应对的「三要四不」
+4. [附录一 - 吸食者](./AP.md#附录一吸食者)
+5. [附录二 - 阿片类药物处方服用者](./AP.md#附录二阿片类药物处方服用者)
+6. [附录三 - 从业人员与医疗系统](./AP.md#附录三从业人员与医疗系统)
     - 阿片类药物管理
     - 阿片类药物使用障碍的治疗
     - 法律责任
-7. 附录四 - 第一响应者
-8. 附录五 - 政策或系统援助
+7. [附录四 - 第一响应人](./AP.md#附录四第一响应人)
+8. [附录五 - 法律与政策参考](./AP.md#附录五法律与政策参考)
 9. 参考资料
+
+> 译者注：参考资料位于原文最底部（pdf 浏览器第 22/26 页，右下角页码第 19 页）。限于篇幅，译文恕不列出原文的参考资料。正文中的数字编号即为段落对应的参考资料数字编码。
