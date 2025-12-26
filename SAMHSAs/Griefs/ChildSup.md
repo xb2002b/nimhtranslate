@@ -1,12 +1,12 @@
 # 【中翻】如何帮助儿童走出哀伤：提示清单 - SAMHSA
 
-本文翻译自 SAMHSA 网站上的 [Tip Sheet: How to Support a Child through Grief](https://library.samhsa.gov/sites/default/files/support-children-through-grief-pep25-01-004.pdf) ，基于其2025年1月更新的版本。篇目编号：PEP25-01-005。
+本文翻译自 SAMHSA 网站上的 [Tip Sheet: How to Support a Child through Grief](https://library.samhsa.gov/sites/default/files/support-children-through-grief-pep25-01-004.pdf) ，基于其2025年1月更新的版本。篇目编号：PEP25-01-004。
 
 儿童对失去亲人的反应不同于成年人。他们的情绪可能更加多变——悲伤、愤怒、平静、焦虑，或是表现出行为上的退行。这些都是他们哀伤时，独特但正常的反应。以下是一些实用的提示，让我们能够好地与这些身处哀伤的儿童更好地交流。
 
 ## 常用且可行的宽慰
 
-- 大家还会好好照顾你。
+- 无论如何，大家还会好好照顾你。
 - 你有什么感觉，都是正常且被允许的。
 - 你可以伤心、可以发狂，也可以表现出被惊吓。
 - 你想要聊什么，我都乐意倾听。
