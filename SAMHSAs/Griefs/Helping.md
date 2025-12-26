@@ -1,4 +1,4 @@
-# 【中翻】帮助青少年灾难幸存者：实用知识清单 - SAMHSA
+# 【中翻】帮助处理青少年的哀伤：实用知识清单 - SAMHSA
 
 本文翻译自 SAMHSA 网站上的 [Fact Sheet for People Helping Children and Youth Survivors of Loss](https://library.samhsa.gov/sites/default/files/helping-children-survivors-of-loss-pep25-01-005.pdf) ，基于其2025年1月更新的版本。篇目编号：PEP25-01-005。
 
