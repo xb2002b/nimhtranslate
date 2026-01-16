@@ -1,6 +1,6 @@
 # 【中翻】加强精卫教育，重铸社区活力：ReCAST 项目学习汇报 - SAMHSA
 
-本文翻译自 SAMHSA 网站上的 [Strengthening Mental Health and Resilience after Community Violence: A Summary of Lessons Learned from ReCAST](https://library.samhsa.gov/sites/default/files/overdose-prevention-response-kit-pep23-03-00-001.pdf) ，基于其2024年11月的版本。篇目编号：
+本文翻译自 SAMHSA 网站上的 [Strengthening Mental Health and Resilience after Community Violence: A Summary of Lessons Learned from ReCAST](https://library.samhsa.gov/sites/default/files/lessons-learned-recast-pep24-01-009.pdf) ，基于其2024年11月的版本。篇目编号：
 PEP24-01-009。
 
 加强精卫教育，重铸社区活力：ReCAST 项目学习汇报`（Strengthening Mental Health and Resilience after Community Violence: A Summary of Lessons Learned from ReCAST）`由美国物质滥用与精神卫生管理部`（Substance Abuse and Mental Health Services Administration, SAMHSA）`的精神卫生服务管理中心`（Center for Mental Health Services）`主编。本报告中记载的成员的发言仅为个人观点，并不代表 SAMHSA、美国人力资源部`（U.S. Department of Health and Human Services, HHS）`美国政府等有关部门对这些观点的支持。
@@ -31,4 +31,18 @@ Center for Mental Health Services, Substance Abuse and Mental Health Services Ad
 
 联邦物质滥用与精神卫生管理部按照联邦人权法，拒绝任何针对种族、肤色、国籍、年龄、残障、宗教信仰、性别（包括怀孕、性取向与性认同）的歧视。SAMHSA 不会因为这些差异而拒绝接受，或区别对待他们。
 
-篇目编号 PEP24-01-009, 发布于 2024 年
+篇目编号 PEP24-01-009， 发布于 2024 年
+
+## 目录
+
+- 助理秘书作序
+- 介绍
+- 应对社区暴力
+  - 你的社区发生了什么？什么是社区暴力？
+  - 社区暴力会给街坊带来怎样的身心健康影响，并引起人们的担忧？
+- 结论
+- 附录一. 2016-2024 财年 ReCast 项目受助人
+- 附录二. 受助方对社区暴力的感想
+- 附录三. 受助方开展的干预、培训与治疗项目
+- 致谢
+- 参考
