@@ -40,6 +40,7 @@ Center for Mental Health Services, Substance Abuse and Mental Health Services Ad
 - 应对社区暴力
   - 你的社区发生了什么？什么是社区暴力？
   - 社区暴力会给街坊带来怎样的身心健康影响，并引起人们的担忧？
+  - 为了解决创伤带来的问题，增加社区韧性，你们的社区采取了怎样的措施？
 - 结论
 - 附录一. 2016-2024 财年 ReCast 项目受助人
 - 附录二. 受助方对社区暴力的感想
