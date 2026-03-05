@@ -1,13 +1,13 @@
 # 他山之石，可以攻「郁」
 
-对美国精神卫生研究院（National Institute of Mental Health）与美国物质滥用与精神健康服务管理局（Substance Abuse and Mental Health Services Administration，SAMHSA）部分科普文章的简体中文翻译，更适合中国宝宝体质。
+对美国精神卫生相关机构科普文章与现状报告的简体中文翻译，更适合中国宝宝体质。目前原文来自以下机构：
+
+- 美国国立精神卫生研究院`（National Institute of Mental Health, NIMH）`
+- 美国物质滥用与精神健康服务管理局`（Substance Abuse and Mental Health Services Administration, SAMHSA）`
 
 **免责声明：项目内的文章不能代替专业医疗意见，有问题请找专科医生就诊，详见[前言](/foreword.md#阅读前须知)。**
 
-A Simplified Chinese translation of Public Passages on National Institute of Mental Health ([NIMH](https://www.nimh.nih.gov)) and [SAMHSA](https://samhsa.gov).
-
-**Disclaimer: Passages in the Project could not substitute formal medical advice, consult professional doctors if you have any problems. See [foreword.md](/foreword.md#阅读前须知) for details.**
-
+<!--
 ## 重要说明
 
 由于财政资金短缺（NIH 隶属于美国联邦政府，研究资金主要由美国联邦政提供），包括 NIMH 在内的 NIH 网站内容不再持续更新。
@@ -15,6 +15,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 事实上，NIMH 从2025年4月就停止了其网站更新。
 
 为了给各位读者提供更多前沿的精神卫生科普知识，我（xb2002b）计划将从2025年10月起，翻译 SAMHSA（Substance Abuse and Mental Health Services Administration，物质滥用与精神健康服务管理局）的科普文章，敬请期待。
+-->
 
 ## 食用方式
 
@@ -26,7 +27,7 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 > *首页仅列出部分热点主题的文章，查看所有文章请点击「更多...」链接。*
 
 | [前言] | [附录] |
-|---|---|
+| --- | --- |
 | [压力与焦虑]| [物质使用障碍] |
 | [广泛性焦虑障碍] | [ADHD] |
 | [自闭症谱系障碍] | [双相障碍] |
@@ -37,7 +38,23 @@ A Simplified Chinese translation of Public Passages on National Institute of Men
 
 ## 转载须知
 
-转载项目内文章请注明：原文作者（通常是 NIMH 或 SAMHSA），并由「雾之湖的喵精屋」翻译。详见前言中的[转载须知](/foreword.md#转载须知)章节。
+转载项目内文章请注明以下内容：
+
+1. 原文作者与链接（通常登记于每个篇目的开头位置）
+2. 译文作者，也就是我，xb2002b（考虑到部分早期文章涉及第三者的校对，也可登记为「雾之湖的喵精屋」）
+
+## 致谢
+
+- 感谢星云子 @Neubulaeko 为我提出这份翻译工程的构想，并在幕后为我提供微小但不可或缺的精神支持。
+- 感谢我母亲为我提供的，无可替代的，精神与物质上的支持。
+- 感谢俄罗斯队方块中文社区，为我提供数十年来的精神寄托。
+  - 感谢 @MrZ626 为本项目早期的一些文章提供的校对工作。
+- 感谢我现任的咨询师为我及母亲提供的咨询服务，以及其公司举办的线下活动式课程。有了她的赞许，我才能更有信心地完成接下来的翻译工作。
+- 感谢微星、罗技、微软、雾凇输入法、小米等公司或组织，为本项目提供间接的软硬件支持。
+
+### 特别说明
+
+本项目的建立，在很大程度上源于我对精神医疗系统性误诊与非自愿收治的反思。2024 年初在福州某医疗机构的遭遇，让我深刻意识到，由于信息不对称导致的悲剧正持续发酵。此外，本项目拒绝感谢那些在成员遭遇危机时选择落井下石或冷眼旁观的组织。
 
 [前言]:/foreword.md  
 [ADHD]:/articles/ADHD.md  
