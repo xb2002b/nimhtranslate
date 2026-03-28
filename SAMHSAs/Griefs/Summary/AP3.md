@@ -2,7 +2,7 @@
 
 本文翻译自 SAMHSA 网站上的 [Strengthening Mental Health and Resilience after Community Violence: A Summary of Lessons Learned from ReCAST](https://library.samhsa.gov/sites/default/files/lessons-learned-recast-pep24-01-009.pdf) ，基于其2024年11月的版本。篇目编号：PEP24-01-009。
 
-本文档是对其《附录三 - 各受助方采取的干预手段、训练项目、治疗方式》的翻译。
+本文档是对其《附录三 - 各受助方采取的干预手段、训练项目、治疗方式》与致谢部分的翻译。
 
 下面的文字概要列举了 ReCAST 各受助方在其社区，在解决社区暴力带来的创伤，提升居民心理韧性的过程中，采用的干预、训练以及治疗方案。
 
@@ -35,3 +35,48 @@
 - **积极育儿项目** `(Positive, Parenting Program, Triple P)` 是一项提供育儿训练与家庭支持的项目，为家长或照护人提供具体的策略与工具，帮助他们与儿童构建健康的关系，有效且准确减缓孩子情绪及行为问题，给生活带来的困扰，将更严重的问题扼杀在萌芽阶段。 Triple P 项目主要面向 12 岁以下孩子的家长，而 12~16 岁孩子的家长可参加 Teen Triple P 项目 [58]。
 - **自杀求救信号** `(SOS Signs of Suicide)` 是一项长达一小时的公开课。通过课程，中学生可学到自己或身边人抑郁或自杀的信号 [59]。
 - **家庭赋能计划** `(Strengthening Families Program)` 是一项家庭技能训练计划，旨在为家长提供保护能力，降低孩子的行为、社交、物质使用、学业等方面的困扰。该训练项目以多家庭的小组形式展开 [60]。
+
+## 致谢
+
+> 本章节为原文的致谢部分，旨在感谢那些为 ReCAST 做出各种贡献的人士与组织。——译者注
+
+### SAMHSA 工作人员贡献者
+
+- Dakota Jablon, MHS（健康科学硕士）
+- Jessica Leopold, MSW（社会工作硕士）
+- Katherina Grusich
+- Ezer Kang, PhD
+- Kathryn Bistline, PhD
+
+## ReCAST 赠款受助贡献者
+
+感谢 ReCAST 赠款受助方，感谢他们致力于加强社区心理健康与韧性建设，并参与这些意见听取会提供宝贵建议。这些见解将深刻影响未来旨在提升韧性的工作，并帮助全美其他社区从暴力创伤中恢复。
+
+- 巴特勒县教育服务中心 `(Butler County Educational Service Center)`
+- 弗林特市 `(City of Flint)`
+- 劳伦斯维尔市 `(City of Lawrenceville)`
+- 洛杉矶市 `(City of Los Angeles)`
+- 密尔沃基市市长办公室 `(City of Milwaukee, Office of Mayor)`
+- 阿勒格尼县 `(County of Allegheny)`
+- 比尔县 `(County of Bexar)`
+- 梅克伦堡县 `(County of Mecklenburg)`
+- Crossnore 儿童社区 `(Crossnore Communities for Children)`
+- 丹佛环境健康部 `(Denver Department of Environmental Health)`
+- 行为健康与智力障碍服务部 `(Department of Behavioral Health and Intellectual disAbility Services)`
+- 帮派替代方案公司 `(Gang Alternatives, Inc.)`
+- 乔丹社区寄宿中心 `(Jordan Community Residential Center)`
+- 儿童希望联盟 `(Kids Hope Alliance)`
+- 路易斯维尔-杰斐逊县都会政府 `(Louisville-Jefferson County Metro Government)`
+- 儿童健康管理接入公司 `(Managed Access to Child Health, Inc.)`
+- 罗杰斯山社区服务委员会 `(Mount Rogers Community Services Board)`
+- 新墨西哥州人类服务部 `(New Mexico State Department of Human Services)`
+- 纽约州心理健康办公室 `(New York State Office of Mental Health)`
+- 儿童健康伙伴关系 `(Partnership for Child Health)`
+- 奥克兰人类服务部 `(Oakland Human Services Department)`
+- 罗伯逊县青少年法庭与青年服务部 `(Robeson County Teen Court & Youth Services)`
+- 索拉诺县学校督学办公室 `(Solano County Superintendent of Schools)`
+- Teen Hype 青少年发展计划 `(Teen Hype Youth Development Program)`
+- 新来者权利联合之声 `(United Voices for Newcomer Rights)`
+- 东南路易斯安那联合劝募协会 `(United Way Southeast Louisiana)`
+- 洛杉矶美国志愿者组织 `(Volunteers of America Los Angeles)`
+- 瓦巴纳基身心健康中心 `(Wabanaki Health and Wellness)`
