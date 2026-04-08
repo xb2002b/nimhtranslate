@@ -2,7 +2,7 @@
 
 ## 阅读前须知
 
-**注意：译者及审校均无医学专业背景，译者 xb2002b 为英语专业本科毕业，可以保证翻译无较大错误，但不能保证其中内容100%正确。部分冗杂内容借助了谷歌机器翻译并加以初步审核，部分内容参考了 ChatGPT、DeepSeek 等人工智能的意见，部分代码性工作由 ChatGPT 与 Copilot 代劳。**
+**注意：译者及审校均无医学专业背景，译者 xb2002b 为英语专业本科毕业，可以保证翻译无较大错误，但不能保证其中内容 100% 正确。部分冗杂内容借助了谷歌机器翻译并加以初步审核，部分内容参考了 ChatGPT、DeepSeek 等人工智能的意见，部分代码性工作由 ChatGPT 与 Copilot 代劳。**
 
 **文章不能取代医疗意见，如有任何疑惑请咨询精神专科医生。**
 
@@ -14,7 +14,24 @@
 
 **To supplement the information (e.g. new treatments) in our articles, we may include external Chinese or English websites. The content of these links does not represent the views of our editing team or NIMH. We cannot guarantee the accuracy of the linked content. Verifications by using search engines are recommended.**
 
+## 序
+
+> 本段内容原为本项目第一篇翻译《边缘型人格障碍》的附言。
+
+感谢你能读到这里。鉴于B站上边缘型人格障碍相关资源过于稀缺，我本身作为一个边缘型人格障碍患者，觉得有必要向大家普及一下这种疾病。
+
+需要注意的是，即使你觉得有上述症状，也不要给自己妄下结论，说自己患有边缘型人格障碍。精神障碍和其他疾病一样，需要专业医师的诊断。就这个疾病而言，在中国的普及率还是相对较低的，建议大家去大城市的精卫中心挂号就诊。  
+
+同时，边缘型人格障碍虽然和双相情感障碍都具有情绪极不稳定的症状，但是两者本质上是不同谱系的疾病。我在厦门给我确诊边缘型人格障碍的医生这样说：“双相的情绪波动没有原因，而边缘型人格障碍有。”希望这一简单的辨析同样能帮到大家。  
+
+---
+
+> 照顾好你自己，保持身体健康（Take care of yourself, and be well）  
+>——Chubbyemu
+
 ## 转载须知
+
+> 以下内容适用于 NIMH 撰写的文章。对于 SAMHSA 撰写的文章，请参照各文章开头的转载须知。
 
 项目内文章翻译自美国国立精神卫生中心（National Institute of Mental Health，NIMH）官方网站。
 
@@ -29,5 +46,3 @@ Passages in the project are translated from the website of National Institute of
 Unless otherwise indicated, texts on the website of NIMH are in public domain for educational use.
 
 Please refer to the [Copyright Policies](https://www.nimh.nih.gov/site-info/policies#part_2718) on NIMH before re-distribution; additionally, if you want to re-distribute the Chinese version, you are asked to give us credit by: **a.** citing **「Icyfairies' Cabin」** as the translators, or **b.** citing participant(s) of each translation. Thank you for your cooperation.
-
-以上内容适用于 NIMH 撰写的文章。对于 SAMHSA 撰写的文章，请参照各文章开头的转载须知。
