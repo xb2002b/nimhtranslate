@@ -59,19 +59,21 @@
 
 本项目的建立，在很大程度上源于我对精神医疗系统性误诊与非自愿收治的反思。2024 年初在福州某医疗机构的遭遇，让我深刻意识到，由于信息不对称导致的悲剧正持续发酵。此外，本项目拒绝感谢那些在成员遭遇危机时选择落井下石或冷眼旁观的组织。
 
+<!--
 [前言]:/foreword.md  
-[ADHD]:/articles/ADHD.md  
-[边缘型人格障碍]:/articles/BPD.md  
-[创伤后应激障碍]:/articles/PTSD.md  
-[广泛性焦虑障碍]:/articles/GAD.md  
-[进食障碍]:/articles/EatingDisorder.md  
-[物质使用障碍]:/articles/SubstanceUD.md
-[抑郁障碍]:/articles/Depression.md  
-[精神分裂症]:/articles/Schizophrenia.md  
-[压力与焦虑]:/articles/Stress.md  
-[强迫障碍]:/articles/OCD.md  
-[双相障碍]:/articles/BD.md  
-[自闭症谱系障碍]:/articles/ASD.md  
-[自杀干预]:/articles/SuicideFAQ.md  
+[ADHD]:/articles/NIMH/ADHD.md  
+[边缘型人格障碍]:/articles/NIMH/BPD.md  
+[创伤后应激障碍]:/articles/NIMH/PTSD.md  
+[广泛性焦虑障碍]:/articles/NIMH/GAD.md  
+[进食障碍]:/articles/NIMH/EatingDisorder.md  
+[物质使用障碍]:/articles/NIMH/SubstanceUD.md
+[抑郁障碍]:/articles/NIMH/Depression.md  
+[精神分裂症]:/articles/NIMH/Schizophrenia.md  
+[压力与焦虑]:/articles/NIMH/Stress.md  
+[强迫障碍]:/articles/NIMH/OCD.md  
+[双相障碍]:/articles/NIMH/BD.md  
+[自闭症谱系障碍]:/articles/NIMH/ASD.md  
+[自杀干预]:/articles/NIMH/SuicideFAQ.md  
 [附录]:/appendix.md  
 [更多...]:/articlelist.md
+-->
