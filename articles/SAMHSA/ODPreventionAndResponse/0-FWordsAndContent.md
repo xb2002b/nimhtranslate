@@ -7,7 +7,7 @@
 ## 引用本文
 
 > Substance Abuse and Mental Health Services Administration: SAMHSA Overdose Prevention and Response Toolkit.  
-Publication No. PEP23-03-00-001, Substance Abuse and Mental Health Services Administration, 2025.
+> Publication No. PEP23-03-00-001, Substance Abuse and Mental Health Services Administration, 2025.
 > 译者注：引用原文请采用这种格式，引用译文另外注明本项目 GitHub 仓库链接即可。
 
 ## SAMHSA 联系方式与篇目相关信息
@@ -17,6 +17,7 @@ Center for Substance Abuse Prevention, Substance Abuse and Mental Health Service
 ## 免责声明
 
 本文中所有内容均不构成 SAMHSA 或 HHS 对非联邦机构产品、服务或政策的支持。原文中的图片受版权保护，仅为解释说明用。原文中图片中出现的人物均为模特。
+
 > 译者注：译文选用的唯一一张图片来自维基媒体基金会，原图链接：[https://commons.wikimedia.org/wiki/File:Recovery_position.jpg](https://commons.wikimedia.org/wiki/File:Recovery_position.jpg)。适用 [CC BY-SA 3.0 FR](https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en) 条款
 
 ## 公众领域说明
