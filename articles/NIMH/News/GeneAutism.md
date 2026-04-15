@@ -1,4 +1,4 @@
-# 【中翻】自闭症基因导致的性别差异
+# 【中翻】基因导致的自闭症性别差异
 
 本文翻译自 NIH 网站上的 [Gene linked to sex differences in autism](https://www.nih.gov/news-events/nih-research-matters/gene-linked-sex-differences-autism) 篇目，文章原文发布于 2020 年 4 月 14 日。
 

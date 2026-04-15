@@ -18,7 +18,7 @@
 | MD-08 | 2025/10 | [慢性疾病与抑郁障碍](/articles/NIMH/ChronicsAndDepression.md) | 心境障碍 |
 | ND-01 | 2025/1 | [注意力缺陷多动障碍](/articles/NIMH/ADHD.md) | 神经发育障碍 |
 | ND-02 | 2025/2 | [自闭症谱系障碍](/articles/NIMH/ASD.md) | 神经发育障碍 |
-| ND-0201 | 2026/4 | [自闭症基因导致的性别差异 *](/articles/NIMH/News/GeneAutism.md) | 神经发育障碍 |
+| ND-0201 | 2026/4 | [基因导致的自闭症性别差异 *](/articles/NIMH/News/GeneAutism.md) | 神经发育障碍 |
 | ND-03 | 2025/8 | [成年人的 ADHD](/articles/NIMH/AdultsADHD.md) | 神经发育障碍 |
 | AX-01 | 2025/3 | [广泛性焦虑障碍](/articles/NIMH/GAD.md) | 焦虑及惊恐障碍 |
 | AX-02 | 2025/3 | [惊恐障碍](/articles/NIMH/PanicDisorder.md) | 焦虑及惊恐障碍 |
