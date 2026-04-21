@@ -98,11 +98,11 @@ ECT 的不同治疗方式会影响记忆丧失的程度，包括电极的位置�
 
 ## 经颅磁疗法 （rTMS）
 
-经颅磁疗法（Repetitive transcranial magnetic stimulation，rTMS）是一种非侵入式物理疗法，利用电磁线圈（`即电磁铁——译者注`）产生的低频脉冲刺激脑部。仪器产生的磁场强度与核磁共振的相当。通过迅速开启与关闭磁场，可以产生刺激脑部神经元与神经回路的弱电流。
+经颅磁疗法（Repetitive transcranial magnetic stimulation，rTMS）是一种非侵入式物理疗法，利用电磁线圈`（即电磁铁——译者注）`产生的低频脉冲刺激脑部。仪器产生的磁场强度与核磁共振的相当。通过迅速开启与关闭磁场，可以产生刺激脑部神经元与神经回路的弱电流。
 
 ### rTMS 的适应症
 
-rTMS 是一种美国食药监局准许（cleared，下同）的物理疗法，用于治疗顽固性抑郁症和烟草依赖。然而其治疗效果不如 ECT，也不适用于15岁以下青少年。
+rTMS 是一种美国食药监局准许`（cleared，下同）`的物理疗法，用于治疗顽固性抑郁症和烟草依赖。然而其治疗效果不如 ECT，也不适用于15岁以下青少年。
 
 FDA 在2008年[批准](https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/repetitive-transcranial-magnetic-stimulation-rtms-systems-class-ii-special-controls-guidance)了首台 rTMS 治疗仪，用于在一个抑郁发作期内，使用一种以上抗抑郁药物却不起作用的患者。尽管 ECT 被视为治疗顽固性抑郁症的首选方案，有大量临床证据标明， rTMS 在应对抑郁症状方面也具有可观的疗效。 rTMS 现在被用于治疗中度到重度，且药物不起作用或不适用的抑郁症患者。
 
@@ -159,7 +159,7 @@ VNS 起初被用于治疗癫痫。脑部扫描研究发现，VNS 也可用于缓
 
 尽管有联邦食药监局的批准，VNS 并不是治疗抑郁症的首选，也未得到广泛应用。对这种疗法治疗抑郁症功效的研究结果表明，其疗效有好有坏：一项针对门诊 VNS 治疗顽固性抑郁症的[综述](https://pubmed.ncbi.nlm.nih.gov/35158102/)标明，这种疗法能长期缓解抑郁症状，改善生活质量；但[其他研究](https://pubmed.ncbi.nlm.nih.gov/32677482/)并未报告显著的病情改善。
 
-尽管非侵入式 VNS 表现出[治疗抑郁症的功效](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7563188/)，tVNS 并未被美国食药监局批准为抑郁症的疗法。不过，一种便携式方案被[准许](https://www.prnewswire.com/news-releases/evren-technologies-receives-fda-breakthrough-device-designation-for-the-phoenix---revolutionary-transcutaneous-auricular-vagus-nerve-therapy-to-treat-ptsd-301341288.html)治疗创伤后应激障碍（PTSD），并纳入「突破性治疗仪器认定程序」（Breakthrough Device Designation，`类似于国内的医疗器械报销——译者注`）。这一程序旨在推广相较于其他疗法，初具临床功效的医疗器械。学界仍在研究 tVNS 治疗抑郁症、创伤后应激障碍等其他精神障碍的功效与安全问题。
+尽管非侵入式 VNS 表现出[治疗抑郁症的功效](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7563188/)，tVNS 并未被美国食药监局批准为抑郁症的疗法。不过，一种便携式方案被[准许](https://www.prnewswire.com/news-releases/evren-technologies-receives-fda-breakthrough-device-designation-for-the-phoenix---revolutionary-transcutaneous-auricular-vagus-nerve-therapy-to-treat-ptsd-301341288.html)治疗创伤后应激障碍（PTSD），并纳入「突破性治疗仪器认定程序」`（Breakthrough Device Designation，类似于国内的医疗器械报销——译者注）`。这一程序旨在推广相较于其他疗法，初具临床功效的医疗器械。学界仍在研究 tVNS 治疗抑郁症、创伤后应激障碍等其他精神障碍的功效与安全问题。
 
 ### VNS 的治疗过程
 
@@ -263,7 +263,7 @@ DBS 起初用于治疗震颤和帕金森病在内的[运动障碍](https://www.n
 
 此后，美国食药监局根据人道主义设备豁免原则（Humanitarian Device Exemption，一项医疗政策，针对只在相对少数患者中出现的罕见疾病或症状，旨在收集用于证明疗效的证据）。然而，医学界仍需针对这种疗法进行研究，以提升其效果。尽管一篇[系统综述](https://pubmed.ncbi.nlm.nih.gov/36127157/)指出，DBS 能够缓解强迫障碍的症状，[其他综述](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7815503/)呼吁学界在得出其疗效相关的结论前，收集更多肯定的证据。
 
-相似的，DBS 在2022年被纳入联邦食药监局的[「突破性治疗仪器认定程序」](https://www.prnewswire.com/news-releases/abbott-receives-fdas-breakthrough-device-designation-to-explore-use-of-deep-brain-stimulation-to-manage-severe-depression-301584792.html)（`Breakthrough Device designation，相关信息见章节`[「VNS 的适应症」](#vns-的适应症)`——译者注`），用于探究其治疗顽固性抑郁症的功效。一项[系统评价与荟萃分析](https://pubmed.ncbi.nlm.nih.gov/29697875/)标明，DBS 在治疗抑郁症方面有可观的疗效。然而，在更高质量的研究证明其功效之前，DBS 治疗抑郁症只是一项试验性的疗法。
+相似的，DBS 在2022年被纳入联邦食药监局的[「突破性治疗仪器认定程序」](https://www.prnewswire.com/news-releases/abbott-receives-fdas-breakthrough-device-designation-to-explore-use-of-deep-brain-stimulation-to-manage-severe-depression-301584792.html)`（Breakthrough Device designation，相关信息见章节`[「VNS 的适应症」](#vns-的适应症)`——译者注）`，用于探究其治疗顽固性抑郁症的功效。一项[系统评价与荟萃分析](https://pubmed.ncbi.nlm.nih.gov/29697875/)标明，DBS 在治疗抑郁症方面有可观的疗效。然而，在更高质量的研究证明其功效之前，DBS 治疗抑郁症只是一项试验性的疗法。
 
 ### DBS 的副作用
 
